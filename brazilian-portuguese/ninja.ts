@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS><TS version="2.0">
+<!DOCTYPE TS>
+<TS version="2.0" language="pt_BR">
 <context>
     <name>AboutNinja</name>
     <message>
@@ -1984,48 +1985,49 @@ Click here to Download</source>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="323"/>
         <source>Add File To Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar Arquivo ao Projeto</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="323"/>
         <source>File Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do arquivo:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="326"/>
         <source>Indalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome inválido</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="326"/>
         <source>The file name is empty, please enter a name</source>
-        <translation type="unfinished"></translation>
+        <translation>O nome do arquivo está vazio, por favor digite um nome</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="344"/>
         <source>File Already Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo já existe</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="344"/>
         <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Caminho inválivo: o arquivo &apos;%s&apos; já existe.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="369"/>
         <source>Create Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar Perfil</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="369"/>
         <source>The Current Files and Projects will be associated to this profile.
 Profile Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Os Arquivos e Projetos atuais serão associados à este perfil.
+Nome do Perfil:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="377"/>
         <source>Profile Name Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nome de Perfil Inválido</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="377"/>
@@ -2066,32 +2068,32 @@ Profile Name:</source>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="119"/>
         <source>Projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Projetos</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="146"/>
         <source>Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Símbolos</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="155"/>
         <source>Web Inspector not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Inspetor Web não Suportado</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="155"/>
         <source>Your Qt version doesn&apos;t support the Web Inspector</source>
-        <translation type="unfinished"></translation>
+        <translation>Sua versão do QT não suporta o Inspetor Web</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="196"/>
         <source>Web Inspector</source>
-        <translation type="unfinished"></translation>
+        <translation>Inspetor Web</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="167"/>
         <source>Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Erros</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="191"/>
@@ -2106,32 +2108,32 @@ Profile Name:</source>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="268"/>
         <source>Projects Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Projetos desabilitados</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="268"/>
         <source>Project support has been disabled from Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>O suporte à projetos foi desabilitado nas Preferências</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="240"/>
         <source>Open Project Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir diretório do projeto</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="263"/>
         <source>Incorrect Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Projeto Incorreto</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="263"/>
         <source>The project could not be loaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>O projeto não pode ser carregado!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="315"/>
         <source>no description available</source>
-        <translation type="unfinished"></translation>
+        <translation>sem descrição disponível</translation>
     </message>
 </context>
 <context>
@@ -2139,52 +2141,52 @@ Profile Name:</source>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="106"/>
         <source>Press and Drag to Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Aperte e Arraste para Mover</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="119"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Arquivo</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="120"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Editar</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="121"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ver</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="122"/>
         <source>&amp;Source</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Código</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="123"/>
         <source>&amp;Project</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Projeto</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="124"/>
         <source>P&amp;lugins</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;lugins</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="125"/>
         <source>&amp;About</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sobre</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="349"/>
         <source>Some changes were not saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Algumas alterações não foram salvas</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="349"/>
         <source>Do you want to exit anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Gostaria de sair assim mesmo?</translation>
     </message>
 </context>
 <context>
@@ -2192,78 +2194,79 @@ Profile Name:</source>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="325"/>
         <source>Incorrect File</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo incorreto</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="325"/>
         <source>The image couldn&apos;t be open</source>
-        <translation type="unfinished"></translation>
+        <translation>A imagem não pode ser aberta</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="339"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir arquivo</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="371"/>
         <source> (Read-Only)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Somente-Leitura)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="388"/>
         <source>The file couldn&apos;t be open</source>
-        <translation type="unfinished"></translation>
+        <translation>O arquivo não pode ser aberto</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="437"/>
         <source>Close Deleted File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar arquivo apagado</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="437"/>
         <source>Are you sure you want to close the deleted file?
 The content will be completely deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você tem certeza que quer fechar o arquivo apagado?
+Todo o conteúdo será perdido.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="495"/>
         <source>File Saved: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo salvo: %1</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="505"/>
         <source>Save Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro ao salvar</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="505"/>
         <source>The file couldn&apos;t be saved!</source>
-        <translation type="unfinished"></translation>
+        <translation>O arquivo não pode ser salvo!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="479"/>
         <source>Save File</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar arquivo</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="500"/>
         <source>File Already Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo já existe</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="500"/>
         <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Caminho inválido: o arquivo %s já existe.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="507"/>
         <source>New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo Documento</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="554"/>
         <source>Python Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentação Python</translation>
     </message>
 </context>
 <context>
@@ -2271,22 +2274,22 @@ The content will be completely deleted.</source>
     <message>
         <location filename="ninja_ide/gui/misc/misc_container.py" line="68"/>
         <source>Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Console</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/misc_container.py" line="70"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Saída</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/misc_container.py" line="72"/>
         <source>Web Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsão Web</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/misc_container.py" line="74"/>
         <source>Find in Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar em arquivos</translation>
     </message>
 </context>
 </TS>
