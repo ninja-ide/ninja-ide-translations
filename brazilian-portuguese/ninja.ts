@@ -1406,22 +1406,22 @@ or Paste them using: %2</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="148"/>
         <source>This is not a valid Virtualenv Folder</source>
-        <translation type="unfinished">Pasta Virtualenv não é valida</translation>
+        <translation>Esta não é uma Pasta Virtualenv válida</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="156"/>
         <source>Select Main File</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar Arquivo Principal</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="166"/>
         <source>Properties Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedades Inválidas</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="166"/>
         <source>The Project must have a name.</source>
-        <translation type="unfinished"></translation>
+        <translation>O Projeto deve ter um nome</translation>
     </message>
 </context>
 <context>
