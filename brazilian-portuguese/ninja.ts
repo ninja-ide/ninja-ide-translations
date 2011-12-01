@@ -767,77 +767,77 @@ or Paste them using: %2</source>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="23"/>
         <source>Undo (%1+Z)</source>
-        <translation type="unfinished">Desfazer (%1 + Z)</translation>
+        <translation>Desfazer (%1 + Z)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="25"/>
         <source>Redo (%1)</source>
-        <translation type="unfinished">Refazer (%1)</translation>
+        <translation>Refazer (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="29"/>
         <source>&amp;Cut (%1+X)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cortar (%1 + X)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="31"/>
         <source>&amp;Copy (%1+C)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Copiar (%1+C)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="33"/>
         <source>&amp;Paste (%1+V)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Colar (%1+V)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="36"/>
         <source>Find (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Localizar (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="40"/>
         <source>Find/Replace (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Localizar/Substituir (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="45"/>
         <source>Find using word under cursor (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Localizar usando a palavra sob o cursor (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="49"/>
         <source>Find in Files (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Localizar em Arquivos (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="53"/>
         <source>Jump to Line (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pular para a Linha (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="57"/>
         <source>Code Locator (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Localizador de Código (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="62"/>
         <source>Convert selected Text to: UPPER</source>
-        <translation type="unfinished"></translation>
+        <translation>Converter Texto selecionado para: MAIÚSCULA</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="64"/>
         <source>Convert selected Text to: lower</source>
-        <translation type="unfinished"></translation>
+        <translation>Converter Texto selecionado para: minúscula</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="66"/>
         <source>Convert selected Text to: Title Word</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Converter Texto selecionado para: Primeira Maiúscula</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="69"/>
         <source>Preference&amp;s</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferência&amp;s</translation>
     </message>
 </context>
 <context>
