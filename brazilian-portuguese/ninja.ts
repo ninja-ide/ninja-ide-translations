@@ -695,7 +695,7 @@ or Paste them using: %2</source>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="395"/>
         <source>%1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 de %2</translation>
     </message>
 </context>
 <context>
@@ -729,37 +729,37 @@ or Paste them using: %2</source>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="20"/>
         <source>Show Start Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostar Página de Abertura</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="21"/>
         <source>Python Help (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuda do Python (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="50"/>
         <source>Report Bugs!</source>
-        <translation type="unfinished"></translation>
+        <translation>Reporte Bugs!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="25"/>
         <source>Plugins Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Documentação dos Plugins</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="29"/>
         <source>About NINJA-IDE</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobre NINJA-IDE</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="60"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobre QT</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="56"/>
         <source>How to Write NINJA-IDE plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Como escrever plugins para o NINJA-IDE</translation>
     </message>
 </context>
 <context>
@@ -767,12 +767,12 @@ or Paste them using: %2</source>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="23"/>
         <source>Undo (%1+Z)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Desfazer (%1 + Z)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="25"/>
         <source>Redo (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Refazer (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="29"/>
@@ -1293,27 +1293,27 @@ or Paste them using: %2</source>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="294"/>
         <source>Delete Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagar Perfil</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="296"/>
         <source>Create New Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar Novo Perfil</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="298"/>
         <source>Open Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir Perfil</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="321"/>
         <source>Files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivos:</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="323"/>
         <source>Projects:</source>
-        <translation type="unfinished"></translation>
+        <translation>Projetos:</translation>
     </message>
 </context>
 <context>
@@ -1617,77 +1617,77 @@ or Paste them using: %2</source>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="151"/>
         <source>Do you want to reload it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você gostaria de recarrega-lo?</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="190"/>
         <source>The file %1 was not saved</source>
-        <translation type="unfinished"></translation>
+        <translation>O arquivo %1 não foi salvo</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="190"/>
         <source>Do you want to save before closing?</source>
-        <translation type="unfinished"></translation>
+        <translation>Gostaria de salvar antes de fechar?</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="255"/>
         <source>Add to Project...</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar ao Projeto...</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="256"/>
         <source>Run this File!</source>
-        <translation type="unfinished"></translation>
+        <translation>Executar este Arquivo!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="257"/>
         <source>Change Syntax</source>
-        <translation type="unfinished"></translation>
+        <translation>Mudar Sintaxe</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="260"/>
         <source>Close This Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar esta Aba</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="261"/>
         <source>Close All Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar todas as Abas</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="262"/>
         <source>Close Other Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar as outras Abas</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="266"/>
         <source>Move this Tab to the other Split</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mover esta aba para a outra Divisão</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="268"/>
         <source>Close Split</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fechar Divisão</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="277"/>
         <source>Split this Tab (Horizontally)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir esta Aba (Horizontalmente)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="279"/>
         <source>Split this Tab (Vertically)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir esta Aba (Verticalmente)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="287"/>
         <source>Copy file location to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar a localização do arquivo para a Área de Transferência</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="289"/>
         <source>Reopen last closed File</source>
-        <translation type="unfinished"></translation>
+        <translation>Reabrir último Arquivo fechado</translation>
     </message>
 </context>
 <context>
