@@ -545,7 +545,7 @@ e a última linha em branco automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="274"/>
         <source>-S: don&apos;t imply &apos;import site&apos; on initialization</source>
-        <translation>-S: não sugere o uso de &apos;import site&apos; durante a inicialização<translation>
+        <translation>-S: não sugere o uso de &apos;import site&apos; durante a inicialização</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="276"/>
