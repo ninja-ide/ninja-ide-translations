@@ -1355,7 +1355,7 @@ o pegarlos usando : %2</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="59"/>
         <source>Licence:</source>
-        <translation>Licensia:</translation>
+        <translation>Licencia:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="76"/>
