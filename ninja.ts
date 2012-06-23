@@ -18,14 +18,6 @@ and handles all kinds of situations thanks to its rich extensibility.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Website: %1</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Source Code: %1</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
         <source>Website: &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -126,6 +118,18 @@ and handles all kinds of situations thanks to its rich extensibility.</source>
         <source>Line:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Ignore Lint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore This Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore Selected Area</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EditorCompletion</name>
@@ -154,8 +158,9 @@ and handles all kinds of situations thanks to its rich extensibility.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable Completion inside Comments</source>
-        <translation type="obsolete"></translation>
+        <source>Complete Declarations
+(execute the opposite action with: %1).</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Code Completion:</source>
@@ -163,11 +168,6 @@ and handles all kinds of situations thanks to its rich extensibility.</source>
     </message>
     <message>
         <source>Activate Code Completion with: &quot;.&quot;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Complete Declarations
-(execute the opposite action with: %1).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -182,45 +182,6 @@ and handles all kinds of situations thanks to its rich extensibility.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Margin Line:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Margin Line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Find and Show Errors (at Sidebar Always).</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Show static errors both at Sidebar
-and highlight Editor Lines (Slower).</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Find and Show Check Style errors (at Sidebar Always).</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Show check style errors both at Sidebar
-and highlight Editor Lines (Slower).</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Center on Scroll.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove Trailing Spaces and
-add Last Line automatically.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Tabs and Spaces.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Use Tabs.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -230,6 +191,14 @@ add Last Line automatically.</source>
     </message>
     <message>
         <source>  (spaces)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Margin Line:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Margin Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -253,6 +222,19 @@ add Last Line automatically.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Center on Scroll.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Trailing Spaces and
+add Last Line automatically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Tabs and Spaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Allow Word Wrap.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -264,27 +246,15 @@ add Last Line automatically.</source>
 <context>
     <name>EditorGeneral</name>
     <message>
+        <source>MiniMap:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Typography:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scheme Color:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Editor Font:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid Font</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This font can not be used in the Editor.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MiniMap:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -302,6 +272,18 @@ add Last Line automatically.</source>
     </message>
     <message>
         <source>Size Area relative to the Editor:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Editor Font:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This font can not be used in the Editor.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -477,6 +459,10 @@ add Last Line automatically.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Replace: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>C&amp;ase sensitive</source>
         <translation type="unfinished"></translation>
     </message>
@@ -528,10 +514,6 @@ add Last Line automatically.</source>
         <source>Open Directory</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Replace: </source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>FindInFilesResult</name>
@@ -559,11 +541,11 @@ add Last Line automatically.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No Results</source>
+        <source>Replace</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Replace</source>
+        <source>No Results</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -828,6 +810,10 @@ add Last Line automatically.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Default Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The New Item will be inserted after the item selected.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -837,10 +823,6 @@ add Last Line automatically.</source>
     </message>
     <message>
         <source>Requires restart...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Default Items</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1037,10 +1019,6 @@ or Paste them using: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open Project &amp;Type</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
         <source>Activate Profile</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1095,11 +1073,11 @@ or Paste them using: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preview Web in Default Browser</source>
+        <source>Open Project Properties</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open Project Properties</source>
+        <source>Preview Web in Default Browser</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1142,6 +1120,14 @@ or Paste them using: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Debugging Tricks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Prints per selected line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Remove Trailing Spaces</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1163,14 +1149,6 @@ or Paste them using: %2</source>
     </message>
     <message>
         <source>&amp;Remove Line (%1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Debugging Tricks</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Insert Prints per selected line.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1221,12 +1199,12 @@ or Paste them using: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Zoom &amp;In (%1+Wheel-Up)</source>
-        <translation type="obsolete"></translation>
+        <source>Zoom &amp;In (Shift+Wheel-Up)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Zoom &amp;Out (%1+Wheel-Down)</source>
-        <translation type="obsolete"></translation>
+        <source>Zoom &amp;Out (Shift+Wheel-Down)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fade In (Alt+Wheel-Up)</source>
@@ -1234,14 +1212,6 @@ or Paste them using: %2</source>
     </message>
     <message>
         <source>Fade Out (Alt+Wheel-Down)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Zoom &amp;In (Shift+Wheel-Up)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Zoom &amp;Out (Shift+Wheel-Down)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1336,6 +1306,10 @@ or Paste them using: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Description:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reload</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1353,10 +1327,6 @@ or Paste them using: %2</source>
     </message>
     <message>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Description:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1383,6 +1353,10 @@ or Paste them using: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1390,15 +1364,26 @@ or Paste them using: %2</source>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Theme</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ProfilesLoader</name>
     <message>
+        <source>Profile Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save your opened files and projects into a profile and change really quick
+between projects and files sessions.
+This allows you to save your working environment, keep working in another
+project and then go back exactly where you left.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete Profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update Profile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1415,21 +1400,6 @@ or Paste them using: %2</source>
     </message>
     <message>
         <source>Projects:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Profile Manager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save your opened files and projects into a profile and change really quick
-between projects and files sessions.
-This allows you to save your working environment, keep working in another
-project and then go back exactly where you left.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Update Profile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1534,48 +1504,12 @@ project and then go back exactly where you left.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Name:</source>
-        <translation type="obsolete"></translation>
+        <source>Project Data</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Project Type:</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Description:</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>URL:</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Licence:</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Main File:</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Supported Extensions:</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Python Path:</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Separate the params with commas (ie: help, verbose)</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Params (comma separated):</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Virtualenv Folder:</source>
-        <translation type="obsolete"></translation>
+        <source>Project Execution</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
@@ -1586,39 +1520,11 @@ project and then go back exactly where you left.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Select Python Path</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Select Virtualenv Folder</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Virtualenv Folder</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>This is not a valid Virtualenv Folder</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Select Main File</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
         <source>Properties Invalid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The Project must have a name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Project Data</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Project Execution</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1697,10 +1603,6 @@ project and then go back exactly where you left.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error during execution, QProcess error: %d</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
         <source>Execution Successful!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1730,36 +1632,12 @@ project and then go back exactly where you left.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Press (%1 + Left Arrow)</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Press (%1 + Right Arrow)</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
         <source>Press %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ShortcutConfiguration</name>
-    <message>
-        <source>Load defaults</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The Shortcut&apos;s Text in the Menus are going to be refreshed on restart.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shortcut is already in use</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to remove it?</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Duplicate the line/selection</source>
         <translation type="unfinished"></translation>
@@ -1996,6 +1874,22 @@ project and then go back exactly where you left.</source>
         <source>Highlight occurrences for word under cursor</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Load defaults</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Shortcut&apos;s Text in the Menus are going to be refreshed on restart.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcut is already in use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to remove it?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShortcutDialog</name>
@@ -2045,8 +1939,14 @@ project and then go back exactly where you left.</source>
 <context>
     <name>TabWidget</name>
     <message>
-        <source>Do you want to reload it?</source>
-        <translation type="obsolete"></translation>
+        <source>%1
+Do you want to reload it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1
+</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The file %1 was not saved</source>
@@ -2102,16 +2002,6 @@ project and then go back exactly where you left.</source>
     </message>
     <message>
         <source>Reopen last closed File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1
-Do you want to reload it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1
-</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2186,6 +2076,14 @@ Do you want to reload it?</source>
 <context>
     <name>TrayIconUpdates</name>
     <message>
+        <source>Download Version: %1!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close Update Notifications</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>NINJA-IDE Updates</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2197,26 +2095,40 @@ Available: </source>
     <message>
         <source>
 
-Click here to Download</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Download Version: %1!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close Update Notifications</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
 Check the Update Icon Menu to Download!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TreeProjectsWidget</name>
+    <message>
+        <source>Run Project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set as Main Project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove this Project from the Python Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add this Project to the Python Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Project Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh Project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close Project</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Add New File</source>
         <translation type="unfinished"></translation>
@@ -2254,34 +2166,6 @@ Check the Update Icon Menu to Download!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Run Project</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set as Main Project</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove this Project from the Python Console</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add this Project to the Python Console</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Project Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Refresh Project</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Close Project</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Create INIT fail</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2296,10 +2180,6 @@ Check the Update Icon Menu to Download!</source>
     <message>
         <source>File Already Exists</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation type="obsolete"></translation>
     </message>
     <message>
         <source>New Folder</source>
@@ -2334,11 +2214,11 @@ Check the Update Icon Menu to Download!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The file name is empty, please enter a name</source>
+        <source>Invalid Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Invalid Name</source>
+        <source>The file name is empty, please enter a name</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2355,18 +2235,6 @@ Check the Update Icon Menu to Download!</source>
 </context>
 <context>
     <name>TreeSymbolsWidget</name>
-    <message>
-        <source>Attributes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Functions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Classes</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Fold all</source>
         <translation type="unfinished"></translation>
@@ -2385,6 +2253,18 @@ Check the Update Icon Menu to Download!</source>
     </message>
     <message>
         <source>Unfold classes and attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Functions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classes</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2425,14 +2305,6 @@ Check the Update Icon Menu to Download!</source>
         <source>Continue</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Incorrect Location</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>The project couldn&apos;t be create</source>
-        <translation type="obsolete"></translation>
-    </message>
 </context>
 <context>
     <name>__Actions</name>
@@ -2445,16 +2317,16 @@ Check the Update Icon Menu to Download!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Invalid Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The file name is empty, please enter a name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Already Exists</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation type="obsolete"></translation>
     </message>
     <message>
         <source>Create Profile</source>
@@ -2494,10 +2366,6 @@ Profile Name:</source>
     </message>
     <message>
         <source>Class Diagram v.0.1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid Name</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2587,27 +2455,15 @@ Profile Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>P&amp;lugins</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>&amp;About</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
-        <source>Some changes were not saved</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to exit anyway?</source>
-        <translation type="obsolete"></translation>
-    </message>
-    <message>
         <source>&amp;Addins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Abou&amp;t</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some changes were not saved</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2667,10 +2523,6 @@ The content will be completely deleted.</source>
     <message>
         <source>File Already Exists</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation type="obsolete"></translation>
     </message>
     <message>
         <source>New Document</source>
