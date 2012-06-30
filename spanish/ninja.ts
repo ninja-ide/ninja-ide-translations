@@ -1,4 +1,6 @@
-<!DOCTYPE TS><TS>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="es_AR">
 <context>
     <name>AboutNinja</name>
     <message>
@@ -108,341 +110,347 @@ and handles all kinds of situations thanks to its rich extensibility.</source>
     <name>Editor</name>
     <message>
         <source>Find Usages</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar Usos</translation>
     </message>
     <message>
         <source>Jump to Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir a la Linea</translation>
     </message>
     <message>
         <source>Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Linea:</translation>
     </message>
     <message>
         <source>Ignore Lint</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Aca no se que va.</translatorcomment>
+        <translation type="unfinished">Ignore Lint</translation>
     </message>
     <message>
         <source>Ignore This Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorar esta Linea</translation>
     </message>
     <message>
         <source>Ignore Selected Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorar Área Seleccionada</translation>
     </message>
 </context>
 <context>
     <name>EditorCompletion</name>
     <message>
         <source>Complete:</source>
-        <translation type="unfinished"></translation>
+        <translation>Completar:</translation>
     </message>
     <message>
         <source>Parentheses: ()</source>
-        <translation type="unfinished"></translation>
+        <translation>Paréntesis: ()</translation>
     </message>
     <message>
         <source>Keys: {}</source>
-        <translation type="unfinished"></translation>
+        <translation>Llaves: {}</translation>
     </message>
     <message>
         <source>Brackets: []</source>
-        <translation type="unfinished"></translation>
+        <translation>Corchetes: []</translation>
     </message>
     <message>
         <source>Simple Quotes: &apos;&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Comillas Simples: &apos;&apos;</translation>
     </message>
     <message>
         <source>Double Quotes: &quot;&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Comillas Dobles: &quot;&quot;</translation>
     </message>
     <message>
         <source>Complete Declarations
 (execute the opposite action with: %1).</source>
-        <translation type="unfinished"></translation>
+        <translation>Completar Declaración
+(ejecutar la acción opuesta con: %1).</translation>
     </message>
     <message>
         <source>Code Completion:</source>
-        <translation type="unfinished"></translation>
+        <translation>Completado de Código:</translation>
     </message>
     <message>
         <source>Activate Code Completion with: &quot;.&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar Completado de Código con: &quot;.&quot;</translation>
     </message>
 </context>
 <context>
     <name>EditorConfiguration</name>
     <message>
         <source>Features:</source>
-        <translation type="unfinished"></translation>
+        <translation>Características:</translation>
     </message>
     <message>
         <source>Indentation Length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Longitud de Indentación:</translation>
     </message>
     <message>
         <source>Use Tabs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar Tabs.</translation>
     </message>
     <message>
         <source>  (tab size)</source>
-        <translation type="unfinished"></translation>
+        <translation>..(Tamaño del Tab)</translation>
     </message>
     <message>
         <source>  (spaces)</source>
-        <translation type="unfinished"></translation>
+        <translation>..(espacios)</translation>
     </message>
     <message>
         <source>Margin Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Linea de Margen:</translation>
     </message>
     <message>
         <source>Show Margin Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Linea de Margen</translation>
     </message>
     <message>
         <source>Highlight the whole line for Errors and PEP8.</source>
-        <translation type="unfinished"></translation>
+        <translation>Remarcar la linea entera para los Errores y PEP8.</translation>
     </message>
     <message>
         <source>Find and Show Errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar y Mostrar Errores.</translation>
     </message>
     <message>
         <source>Show Tool tip information about the errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Información útil acerca de los errores.</translation>
     </message>
     <message>
         <source>Find and Show Check Style errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Encontrar y Mostrar errores PEP8.</translation>
     </message>
     <message>
         <source>Show Tool tip information about the PEP8 errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Información útil acerca de los errores PEP8.</translation>
     </message>
     <message>
         <source>Center on Scroll.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Centrado al Desplazarse.</translation>
     </message>
     <message>
         <source>Remove Trailing Spaces and
 add Last Line automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar Espacios Finales y agregar la Ultima Linea automaticamente.</translation>
     </message>
     <message>
         <source>Show Tabs and Spaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Espacios y Tabs.</translation>
     </message>
     <message>
         <source>Allow Word Wrap.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir Ajuste de Linea.</translation>
     </message>
     <message>
         <source>Check for Docstrings in Classes and Functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chequear por Docstrings en Clases y Funciones.</translation>
     </message>
 </context>
 <context>
     <name>EditorGeneral</name>
     <message>
         <source>MiniMap:</source>
-        <translation type="unfinished"></translation>
+        <translation>MiniMapa:</translation>
     </message>
     <message>
         <source>Typography:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipografía:</translation>
     </message>
     <message>
         <source>Scheme Color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> Scheme de Colores:</translation>
     </message>
     <message>
         <source>Enable/Disable MiniMap (Requires restart):
 (opacity not supported in MAC OS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar/Desactivar el Minimapa ( Requiere Reinicio):
+(opacidad no es soportada en MAC OS )</translation>
     </message>
     <message>
         <source>Max Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maxima Opacidad:</translation>
     </message>
     <message>
         <source>Min Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minima Opacidad:</translation>
     </message>
     <message>
         <source>Size Area relative to the Editor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de Área relativo al Editor:</translation>
     </message>
     <message>
         <source>Editor Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuente del Editor:</translation>
     </message>
     <message>
         <source>Invalid Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuente Inválida</translation>
     </message>
     <message>
         <source>This font can not be used in the Editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta fuente no puede ser utilizada en este Editor.</translation>
     </message>
 </context>
 <context>
     <name>EditorSchemeDesigner</name>
     <message>
         <source>Pick Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Elije Color</translation>
     </message>
     <message>
         <source>&lt;b&gt;New Theme Name:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Nombre del Nuevo Scheme:&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Save Scheme!</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar Theme!</translation>
     </message>
     <message>
         <source>Keyword:</source>
-        <translation type="unfinished"></translation>
+        <translation>Palabras Clave:</translation>
     </message>
     <message>
         <source>Operator:</source>
-        <translation type="unfinished"></translation>
+        <translation>Operador:</translation>
     </message>
     <message>
         <source>Braces:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>No me gusta la verdad por que tambien son braces los []</translatorcomment>
+        <translation>Llaves:</translation>
     </message>
     <message>
         <source>Definition:</source>
-        <translation type="unfinished"></translation>
+        <translation>Definición:</translation>
     </message>
     <message>
         <source>String:</source>
-        <translation type="unfinished"></translation>
+        <translation>String:</translation>
     </message>
     <message>
         <source>String2:</source>
-        <translation type="unfinished"></translation>
+        <translation>String2:</translation>
     </message>
     <message>
         <source>Comment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentario:</translation>
     </message>
     <message>
         <source>Proper Object:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Aca no se cual seria la traduccion apropiada, &quot;Objeto correcto&quot; ciertamente no es.</translatorcomment>
+        <translation type="unfinished">Proper Object:</translation>
     </message>
     <message>
         <source>Numbers:</source>
-        <translation type="unfinished"></translation>
+        <translation>Números:</translation>
     </message>
     <message>
         <source>Spaces:</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacios:</translation>
     </message>
     <message>
         <source>Extras:</source>
-        <translation type="unfinished"></translation>
+        <translation>Extras:</translation>
     </message>
     <message>
         <source>Editor Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor Texto:</translation>
     </message>
     <message>
         <source>Editor Background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor Fondo:</translation>
     </message>
     <message>
         <source>Editor Selection Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor Selección Color:</translation>
     </message>
     <message>
         <source>Editor Selection Background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor Selección Fondo:</translation>
     </message>
     <message>
         <source>Editor Selected Word:</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor Palabra Elegida:</translation>
     </message>
     <message>
         <source>Current Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Linea Actual:</translation>
     </message>
     <message>
         <source>Fold Area:</source>
-        <translation type="unfinished"></translation>
+        <translation>Plegable Area:</translation>
     </message>
     <message>
         <source>Fold Arrow:</source>
-        <translation type="unfinished"></translation>
+        <translation>Flecha de Plegado:</translation>
     </message>
     <message>
         <source>Link Navigate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Link de Navegado:</translation>
     </message>
     <message>
         <source>Brace Background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Llaves Fondo:</translation>
     </message>
     <message>
         <source>Brace Foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>Llaves Frente: </translation>
     </message>
     <message>
         <source>Error Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Error Subrayado:</translation>
     </message>
     <message>
         <source>PEP8 Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>PEP8 Subrayado:</translation>
     </message>
     <message>
         <source>Sidebar Background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra Lateral Fondo:</translation>
     </message>
     <message>
         <source>Sidebar Foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra Lateral Frente:</translation>
     </message>
     <message>
         <source>Choose Color for: </source>
-        <translation type="unfinished"></translation>
+        <translation>Elije Color:</translation>
     </message>
     <message>
         <source>Scheme already exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Ya existe ese Scheme</translation>
     </message>
     <message>
         <source>Scheme Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Scheme Guardado</translation>
     </message>
     <message>
         <source>Scheme Not Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Scheme no guardado</translation>
     </message>
     <message>
         <source>The name probably is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre es problablemente invalido.</translation>
     </message>
 </context>
 <context>
     <name>EditorTab</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>General</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>Completion</source>
-        <translation type="unfinished"></translation>
+        <translation>Autocompletado</translation>
     </message>
     <message>
         <source>Editor Scheme Designer</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Le saque lo de editor por que quedaba muy largo y es obvio por contexto.</translatorcomment>
+        <translation>Diseñador de Scheme</translation>
     </message>
 </context>
 <context>
