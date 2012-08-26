@@ -26,12 +26,12 @@ NINJA-IDE fourni des outils pour simplifer le développement logiciel en Python 
     <message>
         <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="70"/>
         <source>Website: &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
-        <translation>Site Web :&lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
+        <translation>Site Web : &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="73"/>
         <source>Source Code: &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
-        <translation>Code Source :&lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; </translation>
+        <translation>Code Source : &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; </translation>
     </message>
 </context>
 <context>
@@ -1181,7 +1181,7 @@ ou les Coller avec : %2</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="60"/>
         <source>Find using word under cursor (%1)</source>
-        <translation>Rechercher avec le mot sous le curseur (%1)</translation>
+        <translation>Rechercher le mot sous le curseur (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="64"/>
@@ -1501,7 +1501,7 @@ ou les Coller avec : %2</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="91"/>
         <source>Fade Out (Alt+Wheel-Down)</source>
-        <translation type="unfinished">Fondre Dehors (Alt+Molette Arrière)</translation>
+        <translation>Fondre Dehors (Alt+Molette Arrière)</translation>
     </message>
 </context>
 <context>
@@ -2949,7 +2949,8 @@ Nom du Profil :</translation>
         <location filename="ninja_ide/gui/actions.py" line="533"/>
         <source>Lines code: %1
 </source>
-        <translation>Lignes de code : %1</translation>
+        <translation>Lignes de code : %1
+</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="535"/>
