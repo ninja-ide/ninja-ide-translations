@@ -715,22 +715,22 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="821"/>
         <source>Fold the project</source>
-        <translation>Project opvouwen</translation>
+        <translation>Project inklappen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="822"/>
         <source>Unfold the project</source>
-        <translation>Project uitvouwen</translation>
+        <translation>Project uitklappen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="824"/>
         <source>Fold all projects</source>
-        <translation>Alle projecten opvouwen</translation>
+        <translation>Alle projecten inklappen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="825"/>
         <source>Unfold all projects</source>
-        <translation>Alle projecten uitvouwen</translation>
+        <translation>Alle projecten uitklappen</translation>
     </message>
 </context>
 <context>
@@ -746,7 +746,7 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="160"/>
         <source>On Start:</source>
-        <translation>Bij starten:</translation>
+        <translation>Bij opstarten:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="161"/>
@@ -1318,7 +1318,7 @@ of plakken met: %2</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_project.py" line="33"/>
         <source>Run Project (%1)</source>
-        <translation>Project  (%1)</translation>
+        <translation>Project uitvoeren (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_project.py" line="42"/>
@@ -1338,7 +1338,7 @@ of plakken met: %2</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_project.py" line="55"/>
         <source>Preview Web in Default Browser</source>
-        <translation>Web wergeven in standaard browser</translation>
+        <translation>Web voorvertoning in standaard browser</translation>
     </message>
 </context>
 <context>
@@ -1596,7 +1596,7 @@ of plakken met: %2</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/traceback_widget.py" line="37"/>
         <source>Plugin error report</source>
-        <translation>Invoegtoepassing fouten rapport</translation>
+        <translation>Invoegtoepassing fouten rapportage</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/traceback_widget.py" line="40"/>
@@ -2047,7 +2047,7 @@ zodat de Code voltooing wordt verbeterd.</translation>
     <message>
         <location filename="ninja_ide/gui/status_bar.py" line="258"/>
         <source>Respect Case Sensitive</source>
-        <translation>Respecteer hoofdletter gevoeligheid</translation>
+        <translation>Hhoofdletter gevoeligheid behouden</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/status_bar.py" line="259"/>
