@@ -15,9 +15,8 @@ cross-platform integrated development environment specially design
 to build Python Applications.
 NINJA-IDE provides tools to simplify the Python-software development
 and handles all kinds of situations thanks to its rich extensibility.</source>
-        <translation>NINJA-IDE (van: Ninja Is Not Just Another IDE) is een
-cross-platform geïntegreerde ontwikkelomgeving die speciaal is ontworpen
-om Python toepassingen te bouwen.
+        <translation>NINJA-IDE (van: Ninja Is Not Just Another IDE) is een cross-platform geïntegreerde ontwikkelomgeving
+die speciaal is ontworpen om Python toepassingen te bouwen.
 NINJA-IDE biedt het gereedschap om software ontwikkeling in Python te vereenvoudigen
 en ondersteunt uiteenlopende situaties dankzij de rijke uitbreidingsmogelijkheden.</translation>
     </message>
@@ -715,22 +714,22 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="821"/>
         <source>Fold the project</source>
-        <translation>Project inklappen</translation>
+        <translation>Project samenvouwen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="822"/>
         <source>Unfold the project</source>
-        <translation>Project uitklappen</translation>
+        <translation>Project uitvouwen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="824"/>
         <source>Fold all projects</source>
-        <translation>Alle projecten inklappen</translation>
+        <translation>Alle projecten samenvouwen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="825"/>
         <source>Unfold all projects</source>
-        <translation>Alle projecten uitklappen</translation>
+        <translation>Alle projecten uitvouwen</translation>
     </message>
 </context>
 <context>
@@ -1194,7 +1193,7 @@ of plakken met: %2</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="68"/>
         <source>Code Locator (%1)</source>
-        <translation></translation>
+        <translation>Code zoeker (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="73"/>
@@ -1209,7 +1208,7 @@ of plakken met: %2</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="77"/>
         <source>Convert selected Text to: Title Word</source>
-        <translation>Converteer geselecteerde tekst naar: Titel woord</translation>
+        <translation>Geselecteerde tekst converteren naar: Titel woord</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="80"/>
@@ -1232,7 +1231,7 @@ of plakken met: %2</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="43"/>
         <source>&amp;Save (%1)</source>
-        <translation>&amp;Opslaan (%1)</translation>
+        <translation>Op&amp;slaan (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="47"/>
@@ -1257,7 +1256,7 @@ of plakken met: %2</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="63"/>
         <source>&amp;Open (%1)</source>
-        <translation>&amp;Openen (%1)</translation>
+        <translation>&amp;Open bestand (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="67"/>
@@ -1277,7 +1276,7 @@ of plakken met: %2</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="80"/>
         <source>Pr&amp;int File (%1)</source>
-        <translation>Bestand &amp;afdrukken (%1)</translation>
+        <translation>Bestand af&amp;drukken (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="84"/>
@@ -1287,7 +1286,7 @@ of plakken met: %2</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="89"/>
         <source>&amp;Close All Projects</source>
-        <translation>All projecten &amp;sluiten</translation>
+        <translation>All p&amp;rojecten sluiten</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="93"/>
@@ -1356,7 +1355,7 @@ of plakken met: %2</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="45"/>
         <source>Comment (%1)</source>
-        <translation>Commentaar (%1)</translation>
+        <translation>Commentaar invoegen (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="50"/>
@@ -1479,7 +1478,7 @@ of plakken met: %2</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="80"/>
         <source>Group Tabs by Project</source>
-        <translation>Tabs per project groeperen</translation>
+        <translation>Tabbladen per project groeperen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="81"/>
@@ -1596,7 +1595,7 @@ of plakken met: %2</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/traceback_widget.py" line="37"/>
         <source>Plugin error report</source>
-        <translation>Invoegtoepassing fouten rapportage</translation>
+        <translation>Invoegtoepassing - fouten rapportage</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/traceback_widget.py" line="40"/>
@@ -2523,7 +2522,7 @@ Wilt u het opnieuw laden?</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1661"/>
         <source>&lt;b&gt;Select Theme:&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Selecteer Thema:&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Selecteer thema:&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1665"/>
@@ -2801,7 +2800,7 @@ Controleer het update menu in het pictogram van NINJA-IDE in het systeemvak om t
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="46"/>
         <source>Shortcut</source>
-        <translation>Snelkoppeling</translation>
+        <translation>Sneltoets</translation>
     </message>
 </context>
 <context>
@@ -2809,7 +2808,7 @@ Controleer het update menu in het pictogram van NINJA-IDE in het systeemvak om t
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="70"/>
         <source>Fold all</source>
-        <translation>Alles opvouwen</translation>
+        <translation>Alles samenvouwen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="71"/>
@@ -2834,7 +2833,7 @@ Controleer het update menu in het pictogram van NINJA-IDE in het systeemvak om t
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="148"/>
         <source>Attributes</source>
-        <translation></translation>
+        <translation>Attributen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="158"/>
@@ -3072,12 +3071,12 @@ Profiel naam:</translation>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="147"/>
         <source>&amp;View</source>
-        <translation>Be&amp;kijken</translation>
+        <translation>Beel&amp;d</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="148"/>
         <source>&amp;Source</source>
-        <translation>&amp;Bron</translation>
+        <translation>G&amp;egevens</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="149"/>
@@ -3217,7 +3216,7 @@ De inhoud zal volledig worden verwijderd.</translation>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="819"/>
         <source>Fold/Unfold</source>
-        <translation>Vouwen/ontvouwen</translation>
+        <translation>Samenvouwen/uitvouwen</translation>
     </message>
 </context>
 </TS>
