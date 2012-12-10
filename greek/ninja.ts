@@ -6,7 +6,7 @@
     <message>
         <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="42"/>
         <source>About NINJA-IDE</source>
-        <translation type="unfinished"></translation>
+        <translation>Σχετικά για το NINJA-IDE</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="62"/>
@@ -15,22 +15,26 @@ cross-platform integrated development environment specially design
 to build Python Applications.
 NINJA-IDE provides tools to simplify the Python-software development
 and handles all kinds of situations thanks to its rich extensibility.</source>
-        <translation type="unfinished"></translation>
+        <translation>To NINJA-IDE (from: &quot;Ninja Is Not Just Another IDE&quot;), είναι ένα
+ ανεξαρτήτως πλατφόρμας ενσωματομένο περιβάλλον ειδικά σχεδιασμένο
+ για ανάπτυξη εφαρμογών Python.
+To NINJA-IDE παρέχει εργαλεία για την απλοποίηση της ανάπτυξης λογισμικού Python και 
+διαχειρίζεται όλων των ειδών τις καταστάσεις χάρης στη πλούσια δυνατότητα επέκτασής του.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="68"/>
         <source>Version: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Έκδοση: %s</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="69"/>
         <source>Website: &lt;a href=&quot;%s&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ff9e21;&quot;&gt;%s&lt;/span&gt;&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιστοσελίδα: &lt;a href=&quot;%s&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ff9e21;&quot;&gt;%s&lt;/span&gt;&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="75"/>
         <source>Source Code: &lt;a href=&quot;%s&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ff9e21;&quot;&gt;%s&lt;/span&gt;&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Πηγαίος Κώδικας: &lt;a href=&quot;%s&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ff9e21;&quot;&gt;%s&lt;/span&gt;&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -38,17 +42,17 @@ and handles all kinds of situations thanks to its rich extensibility.</source>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="326"/>
         <source>Add File to Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη αρχείου στο Έργο</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="336"/>
         <source>Add here!</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη εδώ!</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="337"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
 </context>
 <context>
@@ -56,17 +60,17 @@ and handles all kinds of situations thanks to its rich extensibility.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="286"/>
         <source>NINJA needs to be restarted for changes to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Θα πρέπει να γίνει επανεκκίνηση του NINJA ώστε οι αλλαγές να εφαρμοστούν.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="321"/>
         <source>External Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξωτερικά Πρόσθετα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="321"/>
         <source>URL from Plugin missing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Το URL απο το Πρόσθετο απουσιάζει...</translation>
     </message>
 </context>
 <context>
@@ -74,37 +78,37 @@ and handles all kinds of situations thanks to its rich extensibility.</source>
     <message>
         <location filename="ninja_ide/gui/misc/console_widget.py" line="57"/>
         <source>Show/Hide (F4)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση/Απόκρυψη (F4)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/console_widget.py" line="114"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποκοπή</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/console_widget.py" line="115"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/console_widget.py" line="116"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Επικόλληση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/console_widget.py" line="117"/>
         <source>Clean Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Καθαρισμός Κονσόλας</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/console_widget.py" line="118"/>
         <source>Copy History</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή Ιστορικού</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/console_widget.py" line="119"/>
         <source>Copy Console Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή Περιεχομένου της Κονσόλας</translation>
     </message>
 </context>
 <context>
@@ -112,19 +116,21 @@ and handles all kinds of situations thanks to its rich extensibility.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="490"/>
         <source>Plugin requirements</source>
-        <translation type="unfinished"></translation>
+        <translation>Απαιτήσεις Πρόσθετων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="493"/>
         <source>It seems that some plugins needs some
             dependencies to be solved to work properly, you should install them
             as follows using a Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Από ότι φαίνεται μερικά πρόσθετα χρειάζονται μερικές
+            εξαρτήσεις να επιλυθούν για να λειτουργήσουν σωστά, θα πρέπει να τις εγκαταστήσετε
+            ως εξής χρησιμοποιώντας το Τερματικό</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="501"/>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποδοχή</translation>
     </message>
 </context>
 <context>
@@ -132,32 +138,32 @@ and handles all kinds of situations thanks to its rich extensibility.</source>
     <message>
         <location filename="ninja_ide/gui/editor/editor.py" line="200"/>
         <source>Find Usages</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση Χρήσης</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/editor/editor.py" line="490"/>
         <source>Jump to Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετάβαση στη Γραμμή</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/editor/editor.py" line="490"/>
         <source>Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Γραμμή:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/editor/editor.py" line="936"/>
         <source>Ignore Lint</source>
-        <translation type="unfinished"></translation>
+        <translation>Παράβλεψη του Lint</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/editor/editor.py" line="937"/>
         <source>Ignore This Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Παράβλεψη αυτής της Γραμμής</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/editor/editor.py" line="939"/>
         <source>Ignore Selected Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Παράβλεψη της Επιλεγμένης Περιοχής</translation>
     </message>
 </context>
 <context>
@@ -165,48 +171,49 @@ and handles all kinds of situations thanks to its rich extensibility.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1123"/>
         <source>Complete:</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμπλήρωση:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1125"/>
         <source>Parentheses: ()</source>
-        <translation type="unfinished"></translation>
+        <translation>Παρενθέσεις: ()</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1127"/>
         <source>Keys: {}</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλειδιά: {}</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1129"/>
         <source>Brackets: []</source>
-        <translation type="unfinished"></translation>
+        <translation>Αγκύλες: []</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1131"/>
         <source>Simple Quotes: &apos;&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Απλά Εισαγωγικά: &quot;</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1133"/>
         <source>Double Quotes: &quot;&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Διπλά Εισαγωγικά: &quot;&quot;</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1135"/>
         <source>Complete Declarations
 (execute the opposite action with: %s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμπλήρωση Δηλώσεων
+(εκτέλεση των αντίθετων ενεργειών με: %s).</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1148"/>
         <source>Code Completion:</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμπλήρωση Κώδικα:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1150"/>
         <source>Activate Code Completion with: &quot;.&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση της Συμπλήρωσης Κώδικα με: &quot;.&quot;</translation>
     </message>
 </context>
 <context>
@@ -214,93 +221,94 @@ and handles all kinds of situations thanks to its rich extensibility.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="952"/>
         <source>Features:</source>
-        <translation type="unfinished"></translation>
+        <translation>Χαρακτηριστικά:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="954"/>
         <source>Indentation Length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Μήκος Εσοχής:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="961"/>
         <source>Use Tabs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρήση Tab.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1060"/>
         <source>  (tab size)</source>
-        <translation type="unfinished"></translation>
+        <translation>..(μέγεθος tab)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1058"/>
         <source>  (spaces)</source>
-        <translation type="unfinished"></translation>
+        <translation>..(κενά)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="972"/>
         <source>Margin Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιθώριο Γραμμής:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="977"/>
         <source>Show Margin Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση Περιθώριου Γραμμής</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="981"/>
         <source>Highlight the whole line for Errors and PEP8.</source>
-        <translation type="unfinished"></translation>
+        <translation>Τονισμός ολόκληρης της γραμμής για σφάλματα και PEP8.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="986"/>
         <source>Find and Show Errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση και Εμφάνιση Σφαλμάτων.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="991"/>
         <source>Show Tool tip information about the errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση συμβουλών για τα σφάλματα.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="998"/>
         <source>Find and Show Check Style errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση και Εμφάνιση σφαλμάτων Ελέγχου του Στυλ.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1004"/>
         <source>Show Tool tip information about the PEP8 errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση συμβουλών για PEP8 σφάλματα.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1011"/>
         <source>Show Python3 Migration Tips.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση συμβουλών για την Μετάβαση σε Python3.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1016"/>
         <source>Center on Scroll.</source>
-        <translation type="unfinished"></translation>
+        <translation>Κεντράρισμα στην Κύλιση.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1022"/>
         <source>Remove Trailing Spaces and
 add Last Line automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αφαίρεση ίχνους των Κενών και
+αυτόματη προσθήκη Γραμμής στο Τέλος.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1027"/>
         <source>Show Tabs and Spaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση των Tab και των Κενών.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1031"/>
         <source>Allow Word Wrap.</source>
-        <translation type="unfinished"></translation>
+        <translation>Να επιτρέπεται Αναδίπλωση Λέξης.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1034"/>
         <source>Check for Docstrings in Classes and Functions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Έλεγχος για Docstrings στις Κλάσσεις και στις Συναρτήσεις.</translation>
     </message>
 </context>
 <context>
@@ -308,53 +316,54 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="769"/>
         <source>MiniMap:</source>
-        <translation type="unfinished"></translation>
+        <translation>Μικρογραφία Χάρτη:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="770"/>
         <source>Typography:</source>
-        <translation type="unfinished"></translation>
+        <translation>Τυπογραφία:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="771"/>
         <source>Scheme Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρώμα Σχήματος:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="793"/>
         <source>Enable/Disable MiniMap (Requires restart):
 (opacity not supported in MAC OS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση/Απενεργοποίηση Μικρογραφίας Χάρτη (Απαιτείται επανεκκίνηση):
+(Η αδιαφάνεια δεν υποστηρίζεται στο MAC OS)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="797"/>
         <source>Max Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Μέγιστη Αδιαφάνεια:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="799"/>
         <source>Min Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ελάχιστη Αδιαφάνεια:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="801"/>
         <source>Size Area relative to the Editor:</source>
-        <translation type="unfinished"></translation>
+        <translation>Σχετικό Μέγεθος Περιοχής με τον Κειμενογράφο:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="811"/>
         <source>Editor Font:</source>
-        <translation type="unfinished"></translation>
+        <translation>Γραμματοσειρά του Κειμενογράφου:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="893"/>
         <source>Invalid Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρη Γραμματοσειρά</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="893"/>
         <source>This font can not be used in the Editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτή η γραμματοσειρά δεν μπορεί να χρησιμοποιηθεί στον Κειμενογράφο.</translation>
     </message>
 </context>
 <context>
@@ -362,182 +371,182 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1259"/>
         <source>Pick Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή Χρώματος</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1262"/>
         <source>&lt;b&gt;New Theme Name:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Όνομα του νέου Θέματος:&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1265"/>
         <source>Save Scheme!</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση Σχήματος!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1269"/>
         <source>Keyword:</source>
-        <translation type="unfinished"></translation>
+        <translation>Λέξη κλειδί:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1272"/>
         <source>Operator:</source>
-        <translation type="unfinished"></translation>
+        <translation>Τελεστής:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1275"/>
         <source>Braces:</source>
-        <translation type="unfinished"></translation>
+        <translation>Αγκύλες:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1278"/>
         <source>Definition:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ορισμός:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1281"/>
         <source>String:</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμβολοσειρά:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1284"/>
         <source>String2:</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμβολοσειρά2:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1287"/>
         <source>Comment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Σχόλιο:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1290"/>
         <source>Proper Object:</source>
-        <translation type="unfinished"></translation>
+        <translation>Σωστό Αντικείμενο:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1293"/>
         <source>Numbers:</source>
-        <translation type="unfinished"></translation>
+        <translation>Αριθμοί:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1296"/>
         <source>Spaces:</source>
-        <translation type="unfinished"></translation>
+        <translation>Κενά:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1299"/>
         <source>Extras:</source>
-        <translation type="unfinished"></translation>
+        <translation>Πρόσθετα:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1302"/>
         <source>Editor Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Κείμενο Κειμενογράφου:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1305"/>
         <source>Editor Background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Φόντο Κειμενογράφου:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1308"/>
         <source>Editor Selection Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή Χρώματος για τον Κειμενογράφο:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1311"/>
         <source>Editor Selection Background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή Φόντου για τον Κειμενογράφο:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1314"/>
         <source>Editor Selected Word:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Επιλογή Λέξης για τον Κειμενογράφο:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1317"/>
         <source>Current Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Τρέχον ΓραμμήΗ:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1320"/>
         <source>Fold Area:</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιοχή αναδίπλωσης:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1323"/>
         <source>Fold Arrow:</source>
-        <translation type="unfinished"></translation>
+        <translation>Βέλος Αναδίπλωσης:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1326"/>
         <source>Link Navigate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Σύνδεσμος Πλοήγησης:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1329"/>
         <source>Brace Background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Στερέωση Φόντου:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1332"/>
         <source>Brace Foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>Στερέωση Προσκηνίου:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1335"/>
         <source>Error Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Υπογράμμιση Σφάλματος:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1338"/>
         <source>PEP8 Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Υπογράμμιση PEP8:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1341"/>
         <source>Sidebar Background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Πλευρική Στήλη Φόντου:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1344"/>
         <source>Sidebar Foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>Πλευρική Στήλη Προσκηνίου:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1562"/>
         <source>Choose Color for: </source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή Χρώματος για: </translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1643"/>
         <source>Scheme already exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Σχήμα υπάρχει ήδη</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1643"/>
         <source>Do you want to override the file: %s?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nα γίνει αντικατάσταση του αρχείου: %s;</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1650"/>
         <source>Scheme Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Σχήμα αποθηκεύτηκε</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1650"/>
         <source>The scheme has been saved at: %s.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Σχήμα αποθηκεύτηκε στο σημείο: %s.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1653"/>
         <source>Scheme Not Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Σχήμα δεν αποθηκεύτηκε</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1653"/>
         <source>The name probably is invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το όνομα πιθανόν να μην είναι έγκυρο.</translation>
     </message>
 </context>
 <context>
@@ -545,22 +554,22 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="748"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Γενικά</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="749"/>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Ρύθμιση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="750"/>
         <source>Completion</source>
-        <translation type="unfinished"></translation>
+        <translation>Ολοκλήρωση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="751"/>
         <source>Editor Scheme Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Σχεδιαστής Σχήματος του Κειμενογράφου</translation>
     </message>
 </context>
 <context>
@@ -568,22 +577,22 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/explorer/errors_lists.py" line="96"/>
         <source>Lint: ON</source>
-        <translation type="unfinished"></translation>
+        <translation>Lint: ΕΝΕΡΓΟ</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/errors_lists.py" line="98"/>
         <source>Lint: OFF</source>
-        <translation type="unfinished"></translation>
+        <translation>Lint: ΑΝΕΝΕΡΓΟ</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/errors_lists.py" line="105"/>
         <source>PEP8: ON</source>
-        <translation type="unfinished"></translation>
+        <translation>PEP8: ΕΝΕΡΓΟ</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/errors_lists.py" line="107"/>
         <source>PEP8: OFF</source>
-        <translation type="unfinished"></translation>
+        <translation>PEP8: ΑΝΕΝΕΡΓΟ</translation>
     </message>
 </context>
 <context>
@@ -591,7 +600,7 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/status_bar.py" line="415"/>
         <source>Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαδρομή:</translation>
     </message>
 </context>
 <context>
@@ -599,77 +608,77 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="184"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="189"/>
         <source>Replace: </source>
-        <translation type="unfinished"></translation>
+        <translation>Αντικατάσταση: </translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="190"/>
         <source>C&amp;ase sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Δ&amp;ιάκριση πεζών/κεφαλαίων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="191"/>
         <source>R&amp;egular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Κ&amp;ανονική έκφραση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="192"/>
         <source>Rec&amp;ursive</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναδ&amp;ρομή</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="194"/>
         <source>Search by Phrase (Exact Match).</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναζήτηση με Φράση (Ακριβές ταίριασμα).</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="197"/>
         <source>Search for all the words (anywhere in the document, not together).</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναζήτηση για όλες τις λέξεις (οπουδήποτε στο έγγραφο, χωρίς να είναι μαζί).</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="200"/>
         <source>Find!</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="202"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="211"/>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation>Βασικό</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="213"/>
         <source>Text: </source>
-        <translation type="unfinished"></translation>
+        <translation>Κείμενο: </translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="215"/>
         <source>Directory: </source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάλογος: </translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="218"/>
         <source>Filter: </source>
-        <translation type="unfinished"></translation>
+        <translation>Φίλτρο: </translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="228"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογές</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="299"/>
         <source>Open Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα Καταλόγου</translation>
     </message>
 </context>
 <context>
@@ -677,12 +686,12 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="145"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Αρχείο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="145"/>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Γραμμή</translation>
     </message>
 </context>
 <context>
@@ -690,43 +699,44 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="362"/>
         <source>Find!</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="363"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Διακοπή</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="364"/>
         <source>Clear!</source>
-        <translation type="unfinished"></translation>
+        <translation>Καθαρισμός!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="365"/>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντικατάσταση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="367"/>
         <source>No Results</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν βρέθηκαν αποτελέσματα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="373"/>
         <source>Replace results with:</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντικατάσταση αποτελεσμάτων με:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="478"/>
         <source>Replace Files Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντικατάσταση Περιεχομένων Αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="478"/>
         <source>Are you sure you want to replace the content in this files?
 (The change is not reversible)</source>
-        <translation type="unfinished"></translation>
+        <translation>Είσαστε σίγουροι ότι θέλετε να αντικαταστήσετε το περιεχόμενο αυτού του αρχείου;
+(Οι αλλαγές είναι μη αναστρέψιμες)</translation>
     </message>
 </context>
 <context>
@@ -734,22 +744,22 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="834"/>
         <source>Fold the project</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναδίπλωση Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="835"/>
         <source>Unfold the project</source>
-        <translation type="unfinished"></translation>
+        <translation>Ξεδίπλωμα Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="837"/>
         <source>Fold all projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναδίπλωση όλων των Έργων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="838"/>
         <source>Unfold all projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Ξεδίπλωση όλων των Έργων</translation>
     </message>
 </context>
 <context>
@@ -757,7 +767,7 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/from_import_dialog.py" line="48"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη</translation>
     </message>
 </context>
 <context>
@@ -765,82 +775,82 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="161"/>
         <source>On Start:</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατα την Εκκίνηση:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="162"/>
         <source>On Close:</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατά το Κλείσιμο:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="163"/>
         <source>Workspace and Project:</source>
-        <translation type="unfinished"></translation>
+        <translation>Χώρος Εργασίας και Έργο:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="164"/>
         <source>Reset NINJA-IDE Preferences:</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαναφορά των Προτιμήσεων του NINJA-IDE:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="168"/>
         <source>Load files from last session</source>
-        <translation type="unfinished"></translation>
+        <translation>Φόρτωση αρχείων της προηγούμενης συνεδρίας</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="170"/>
         <source>Activate Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση Πρόσθετων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="171"/>
         <source>Notify me of new updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ειδοποίηση για νέες ενημερώσεις.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="173"/>
         <source>Show Start Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση Αρχικής Σελίδας</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="180"/>
         <source>Confirm Exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιβεβαίωση Εξόδου.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="191"/>
         <source>Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Χώρος Εργασίας</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="196"/>
         <source>Supported Extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Υποστηριζόμενες Επεκτάσεις:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="202"/>
         <source>Reset preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαναφορά αρχικών προτιμήσεων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="234"/>
         <source>Select Workspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή Χώρους Εργασίας</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="239"/>
         <source>Select Python Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή της Python Διαδρομής</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="267"/>
         <source>Reset preferences?</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαναφορά αρχικών προτιμήσεων;</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="267"/>
         <source>Are you sure you want to reset your preferences?</source>
-        <translation type="unfinished"></translation>
+        <translation>Είσαστε σίγουροι οτι θέλετε να επαναφέρετε τις αρχικές προτιμήσεις;</translation>
     </message>
 </context>
 <context>
@@ -848,87 +858,87 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="281"/>
         <source>Workspace and Project:</source>
-        <translation type="unfinished"></translation>
+        <translation>Χώρος Εργασίας και Έργο:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="288"/>
         <source>Python Path:</source>
-        <translation type="unfinished"></translation>
+        <translation>Python Διαδρομή:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="293"/>
         <source>-B: don&apos;t write .py[co] files on import</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">-B: don&apos;t write .py[co] files on import</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="295"/>
         <source>-d: debug output from parser</source>
-        <translation type="unfinished"></translation>
+        <translation>-d: Έξοδος αποτελέσματος αποσφαλτάτωσης του parser</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="296"/>
         <source>-E: ignore PYTHON* environment variables (such as PYTHONPATH)</source>
-        <translation type="unfinished"></translation>
+        <translation>-E: Αγνόηση των μεταβλητών περιβάλλοντος της PYTHON* (όπως το PYTHONPATH)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="298"/>
         <source>-O: optimize generated bytecode slightly</source>
-        <translation type="unfinished"></translation>
+        <translation>-O: Ελαφρώς βελτιστοποίηση των παραγόμενων bytecode</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="300"/>
         <source>-OO: remove doc-strings in addition to the -O optimizations</source>
-        <translation type="unfinished"></translation>
+        <translation>-OO: αφαίρεση των doc-strings για την επιπλέον -O βελτιστοποίηση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="302"/>
         <source>-Q: division options:</source>
-        <translation type="unfinished"></translation>
+        <translation>-Q: επιλογές διαίρεσης:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="305"/>
         <source>-s: don&apos;t add user site directory to sys.path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">-s: don&apos;t add user site directory to sys.path</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="307"/>
         <source>-S: don&apos;t imply &apos;import site&apos; on initialization</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">-S: don&apos;t imply &apos;import site&apos; on initialization</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="309"/>
         <source>-t: issue warnings about inconsistent tab usage</source>
-        <translation type="unfinished"></translation>
+        <translation>-t: έκδοση προειδοποίησης για μη συνεκτική χρήση tab</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="311"/>
         <source>-tt: issue errors about inconsistent tab usage</source>
-        <translation type="unfinished"></translation>
+        <translation>-tt: έκδοση προειδοποίησης για μη συνεκτική χρήση tab</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="313"/>
         <source>-v: verbose (trace import statements)</source>
-        <translation type="unfinished"></translation>
+        <translation>-v: αναλυτική καταγραφή (εντοπισμός δηλώσεων import)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="315"/>
         <source>-W: warning control:</source>
-        <translation type="unfinished"></translation>
+        <translation>-W: έλεγχος προειδοποιήσεων:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="319"/>
         <source>-x: skip first line of source</source>
-        <translation type="unfinished"></translation>
+        <translation>-x: παράβλεψη της πρώτης γραμμής κώδικα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="320"/>
         <source>-3: warn about Python 3.x incompatibilities that 2to3 cannot trivially fix</source>
-        <translation type="unfinished"></translation>
+        <translation>-3: προειδοποίηση σχετικά με τις μη συμβατότητες της Python 3.x τις οποίες το 2to3 δεν μπορεί να διορθώσει</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="390"/>
         <source>Select Python Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή της Python Διαδρομής</translation>
     </message>
 </context>
 <context>
@@ -936,17 +946,17 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="143"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Γενικά</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="144"/>
         <source>Execution</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκτέλεση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="145"/>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Συντομεύσεις</translation>
     </message>
 </context>
 <context>
@@ -954,12 +964,12 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="224"/>
         <source>Incorrect Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Λανθασμένη Τοποθεσία</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="224"/>
         <source>The project couldn&apos;t be create</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν ήταν δυνατή η δημιουργία του Έργου</translation>
     </message>
 </context>
 <context>
@@ -967,7 +977,7 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="355"/>
         <source>Uninstall</source>
-        <translation type="unfinished"></translation>
+        <translation>Απεγκατάσταση</translation>
     </message>
 </context>
 <context>
@@ -975,87 +985,87 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="443"/>
         <source>Explorer Panel:</source>
-        <translation type="unfinished"></translation>
+        <translation>Πίνακας Εξερευνητή:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="444"/>
         <source>GUI Customization:</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσαρμογή GUI:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="445"/>
         <source>Tool Bar Customization:</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσαρμογή της Γραμμής Εργαλείων:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="446"/>
         <source>Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Γλώσσα:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="450"/>
         <source>Show Project Explorer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση του Εξερευνητή Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="452"/>
         <source>Show Symbols List.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση της Λίστας Συμβόλων.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="453"/>
         <source>Show Web Inspector.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση του Επιθεωρητή Web.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="454"/>
         <source>Show File Errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση των Σφαλμάτων Αρχείου.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="455"/>
         <source>Show Migration Tips.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση Συμβουλών Μετάβασης.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="478"/>
         <source>Rotate Central</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rotate Central</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="480"/>
         <source>Rotate Lateral</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rotate Lateral</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="482"/>
         <source>Central Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Κεντρικός Προσανατολισμός</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="487"/>
         <source>Toolbar Items:</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντικείμενα Γραμμής Εργαλείων:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="497"/>
         <source>Default Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Προκαθορισμένα Αντικείμενα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="511"/>
         <source>The New Item will be inserted after the item selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Νέο αντικείμενο θα εισαχθεί μετά το επιλεγμένο αντικείμενο.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="515"/>
         <source>Select Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή Γλώσσας:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="519"/>
         <source>Requires restart...</source>
-        <translation type="unfinished"></translation>
+        <translation>Απαιτείται Επανεκκίνηση...</translation>
     </message>
 </context>
 <context>
@@ -1063,22 +1073,22 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/language_manager.py" line="50"/>
         <source>Language Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαχειριστής Γλώσσας</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/language_manager.py" line="58"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλείσιμο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/language_manager.py" line="59"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαναφόρτωση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/language_manager.py" line="89"/>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Γλώσσες</translation>
     </message>
 </context>
 <context>
@@ -1088,7 +1098,9 @@ add Last Line automatically.</source>
         <source>Select the item from the Paste Historial list.
 You can Copy items into this list with: %s
 or Paste them using: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή αντικειμένου από το Ιστορικό Επικόλλησης.
+Μπορείτε να κάνετε Αντιγραφή αντικειμένων στη λίστα αυτή με:%s
+ή Επικόλληση χρησιμοποιώντας: %s</translation>
     </message>
 </context>
 <context>
@@ -1096,7 +1108,7 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="555"/>
         <source>%s of %s</source>
-        <translation type="unfinished"></translation>
+        <translation>%s από %s</translation>
     </message>
 </context>
 <context>
@@ -1104,12 +1116,12 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="592"/>
         <source>Set completion type to: Popup Completion</source>
-        <translation type="unfinished"></translation>
+        <translation>Ορισμός τύπου συμπλήρωσης σε:Popup Συμπλήρωση</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="595"/>
         <source>Set completion type to: Inline Completion</source>
-        <translation type="unfinished"></translation>
+        <translation>Ορισμός συμπλήρωσης σε: Inline Συμπλήρωση</translation>
     </message>
 </context>
 <context>
@@ -1117,7 +1129,7 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="111"/>
         <source>       LOADING: &quot;%s&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>       ΦΟΡΤΩΣΗ: &quot;%s&quot;</translation>
     </message>
 </context>
 <context>
@@ -1125,12 +1137,12 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/tools/locator.py" line="98"/>
         <source>Definition Not Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ο Ορισμός δεν βρέθηκε</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/locator.py" line="98"/>
         <source>This Definition does not belong to this Project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτός ο Ορισμός δεν ανήκει σε αυτότο Έργο.</translation>
     </message>
 </context>
 <context>
@@ -1138,37 +1150,37 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="35"/>
         <source>Show Start Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση της Αρχικής Σελίδας</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="36"/>
         <source>Python Help (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Βοήθεια της Python (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="65"/>
         <source>Report Bugs!</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναφορά Σφάλματος!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="40"/>
         <source>Plugins Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Τεκμηρίωση Πρόσθετου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="44"/>
         <source>About NINJA-IDE</source>
-        <translation type="unfinished"></translation>
+        <translation>Περί NINJA-IDE</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="75"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Περί Qt</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="71"/>
         <source>How to Write NINJA-IDE plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Πως να συντάξετε ένα NINJA-IDE πρόσθετο</translation>
     </message>
 </context>
 <context>
@@ -1176,72 +1188,72 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="38"/>
         <source>Undo (%s+Z)</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναίρεση (%s+Z)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="40"/>
         <source>Redo (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαναφορά (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="43"/>
         <source>&amp;Cut (%s+X)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αποκοή (%s+X)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="45"/>
         <source>&amp;Copy (%s+C)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αντιγραφή (%s+C)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="47"/>
         <source>&amp;Paste (%s+V)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Επικόλληση (%s+V)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="50"/>
         <source>Find (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="53"/>
         <source>Find/Replace (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση/Αντικατάσταση (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="58"/>
         <source>Find using word under cursor (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση χρησιμοποιώντας την λέξη κάτω από τον δρομέα (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="62"/>
         <source>Find in Files (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση σε Αρχεία (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="66"/>
         <source>Code Locator (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εντοπιστής Κώδικα (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="71"/>
         <source>Convert selected Text to: UPPER</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετατροπή επιλεγμένου Κειμένου σε: ΚΕΦΑΛΑΙΑ</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="73"/>
         <source>Convert selected Text to: lower</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετατροπή επιλεγμένου Κειμένου σε: πεζά</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="75"/>
         <source>Convert selected Text to: Title Word</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετατροπή επιλεγμένου Κειμένου σε: Λέξη Τίτλου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="78"/>
         <source>Preference&amp;s</source>
-        <translation type="unfinished"></translation>
+        <translation>Προτιμήσει&amp;ς</translation>
     </message>
 </context>
 <context>
@@ -1249,82 +1261,82 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="41"/>
         <source>&amp;New File (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Νέο Αρχείο (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="45"/>
         <source>New Pro&amp;ject (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Νέο Έ&amp;ργο (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="51"/>
         <source>&amp;Save (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αποθήκευση (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="55"/>
         <source>Save &amp;As</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση &amp;Ως</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="57"/>
         <source>Save All</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση Όλων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="59"/>
         <source>Save Pro&amp;ject  (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση Έρ&amp;γου  (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="65"/>
         <source>Reload File (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαναφόρτωση Αρχείου (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="71"/>
         <source>&amp;Open (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Άνοιγμα (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="75"/>
         <source>Open &amp;Project (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα Έργ&amp;ου (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="80"/>
         <source>Open Recent Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα Προσφάτων Αρχείων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="82"/>
         <source>Activate Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση Προφίλ</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="85"/>
         <source>Deactivate Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Απενεργοποίηση Προφίλ</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="89"/>
         <source>Pr&amp;int File (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκτύ&amp;πωση Αρχείου (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="93"/>
         <source>&amp;Close Tab (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Κλείσιμο Καρτέλας (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="98"/>
         <source>&amp;Close All Projects</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Κλείσιμο Όλων των Έργων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="102"/>
         <source>&amp;Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Έξοδος</translation>
     </message>
 </context>
 <context>
@@ -1332,17 +1344,17 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/gui/menus/menu_plugins.py" line="33"/>
         <source>Manage Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαχείριση Πρόσθετων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_plugins.py" line="34"/>
         <source>Editor Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργαστής Σχήματος</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_plugins.py" line="35"/>
         <source>Languages Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαχειριστής Γλωσσών</translation>
     </message>
 </context>
 <context>
@@ -1350,27 +1362,27 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/gui/menus/menu_project.py" line="33"/>
         <source>Run Project (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκτέλεση Έργου (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_project.py" line="42"/>
         <source>Run File (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκτέλεση Αρχείου (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_project.py" line="47"/>
         <source>Stop (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Διακοπή (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_project.py" line="52"/>
         <source>Open Project Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα Ιδιοτήτων του Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_project.py" line="55"/>
         <source>Preview Web in Default Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Προεπισκόπιση του Web μέσω του Προεπιλεγμένου Περιηγητή</translation>
     </message>
 </context>
 <context>
@@ -1378,92 +1390,92 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="35"/>
         <source>Indent More (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Περισσότερη Εσοχή (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="39"/>
         <source>Indent Less (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Λιγότερη Εσοχή (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="45"/>
         <source>Comment (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Σχολιασμός (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="50"/>
         <source>Uncomment (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποσχολιασμός (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="55"/>
         <source>Insert Horizontal Line (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή Οριζόντιας Γραμμής (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="59"/>
         <source>Insert Title Comment (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή Σχόλιου Τίτλου (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="63"/>
         <source>Count Code Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Καταμέτρηση Γραμμών Κώδικα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="69"/>
         <source>Go To Definition (%s or %s+Click)</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετάβαση στον Ορισμό (%s ή %s+Κλίκ)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="75"/>
         <source>Insert &amp;Import (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή &amp;Import (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="80"/>
         <source>Debugging Tricks</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμβουλές για Αποσφαλμάτωση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="81"/>
         <source>Insert Prints per selected line.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Εισαγωγή Εκτυπώσεων ανά επιλεγμένη γραμμή.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="83"/>
         <source>Insert pdb.set_trace()</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή pdb.set_trace()</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="92"/>
         <source>&amp;Remove Trailing Spaces</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αφαίρεση ίχνους Κενών</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="94"/>
         <source>Replace Tabs With &amp;Spaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντικατάσταση Tabs με &amp;Κενά</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="96"/>
         <source>Move &amp;Up (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετακίνηση προς τα Πάνω  (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="99"/>
         <source>Move &amp;Down (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετακίνηση προς τα Κάτω (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="102"/>
         <source>Duplica&amp;te (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία Αντιγράφου (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="106"/>
         <source>&amp;Remove Line (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αφαίρεση Γραμμής (%s)</translation>
     </message>
 </context>
 <context>
@@ -1471,77 +1483,77 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="36"/>
         <source>Show/Hide &amp;Console (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση/Απόκρυψη Κονσόλας (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="41"/>
         <source>Show/Hide &amp;Editor (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση/Απόκρυψη Κειμενογράφου (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="46"/>
         <source>Show/Hide &amp;All (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση/Απόκρυψη Όλων (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="51"/>
         <source>Show/Hide &amp;Explorer (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση/Απόκρυψη Εξερευνητή (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="56"/>
         <source>Show/Hide &amp;Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση/Απόκρυψη Γραμμής Εργαλείων (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="59"/>
         <source>Full Screen &amp;Mode (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Λειτουργία Πλήρους Οθόνης (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="65"/>
         <source>Split Tabs Horizontally (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Οριζόντιος Διαχωρισμός των Tabs (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="70"/>
         <source>Split Tabs Vertically (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Κάθετος Διαχωρισμός των Tabs (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="75"/>
         <source>Follow Mode (%s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Λειτουργία Παρακολούθησης (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="80"/>
         <source>Group Tabs by Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομαδοποίηση των Καρτελών ανα Έργο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="82"/>
         <source>Deactivate Group Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Απενεργοποίση Ομαδοποίησης των Καρτελών</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="86"/>
         <source>Zoom &amp;In (Shift+Wheel-Up)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Μεγέθυνση (Shift+ροδέλα προς τα πάνω)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="88"/>
         <source>Zoom &amp;Out (Shift+Wheel-Down)</source>
-        <translation type="unfinished"></translation>
+        <translation>Σμίκρυνση (Shift+ροδέλα προς τα κάτω)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="91"/>
         <source>Fade In (Alt+Wheel-Up)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομαλή Εμφάνιση (Alt+ροδέλα προς τα πάνω)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="93"/>
         <source>Fade Out (Alt+Wheel-Down)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομαλό Ξεθώριασμα (Alt+ροδέλα προς τα κάτω)</translation>
     </message>
 </context>
 <context>
@@ -1549,17 +1561,17 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="249"/>
         <source>Click to show the source</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλίκ για την εμφάνιση του πηγαίου κώδικα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="319"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποτέλεσμα Εξόδου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="320"/>
         <source>Clean</source>
-        <translation type="unfinished"></translation>
+        <translation>Καθαρισμός</translation>
     </message>
 </context>
 <context>
@@ -1567,52 +1579,52 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="282"/>
         <source>New Project Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Νέα Δεδομένα Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="283"/>
         <source>Complete the following fields to create the Project Structure</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμπληρώστε τα παρακάτω πεδία για να δημιουργήσετε την Δομή του Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="288"/>
         <source>New Project Name (*):</source>
-        <translation type="unfinished"></translation>
+        <translation>Νέο Όνομα Έργου (*):</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="289"/>
         <source>Project Location (*):</source>
-        <translation type="unfinished"></translation>
+        <translation>Τοποθεσία Έργου (*):</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="290"/>
         <source>Project Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιγραφή Έργου:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="291"/>
         <source>Project License:</source>
-        <translation type="unfinished"></translation>
+        <translation>Άδεια Έργου:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="292"/>
         <source>Virtualenv Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Φάκελος του Virtualenv:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="313"/>
         <source>Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξερεύνηση...</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="352"/>
         <source>New Project Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Νέος Φάκελος Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="357"/>
         <source>Select Virtualenv Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή Φακέλου Virtualenv</translation>
     </message>
 </context>
 <context>
@@ -1620,12 +1632,12 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="247"/>
         <source>Project Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Τύπος Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="248"/>
         <source>Choose the Project Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή του Τύπου Έργου</translation>
     </message>
 </context>
 <context>
@@ -1633,17 +1645,17 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/traceback_widget.py" line="37"/>
         <source>Plugin error report</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναφορά σφάλματος Πρόσθετου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/traceback_widget.py" line="40"/>
         <source>Some plugins have errors and were removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Κάποια πρόσθετα έχουν σφάλματα και αφαιρέθηκαν</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/traceback_widget.py" line="45"/>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποδοχή</translation>
     </message>
 </context>
 <context>
@@ -1651,42 +1663,42 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="82"/>
         <source>Plugins Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαχειρηστής Πρόσθετων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="90"/>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιγραφή:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="94"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλείσιμο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="95"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαναφόρτωση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="173"/>
         <source>Official Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαθέσιμο Επίσημα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="175"/>
         <source>Community Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαθέσιμο απο την Κοινώτητα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="177"/>
         <source>Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενημερώσεις</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="178"/>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Εγκατεστημένo</translation>
     </message>
 </context>
 <context>
@@ -1694,42 +1706,42 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="80"/>
         <source>NINJA-IDE - Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>NINJA-IDE - Προτιμήσεις</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="96"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Γενικά</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="97"/>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Διεπαφή</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="98"/>
         <source>Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Κειμενογράφος</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="99"/>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Πρόσθετα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="100"/>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Θέμα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="103"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="104"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
 </context>
 <context>
@@ -1737,7 +1749,7 @@ or Paste them using: %s</source>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="423"/>
         <source>Profile Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαχειριστής Προφίλ</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="431"/>
@@ -1745,42 +1757,45 @@ or Paste them using: %s</source>
 between projects and files sessions.
 This allows you to save your working environment, keep working in another
 project and then go back exactly where you left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθηκεύστε τα ανοιγμένα αρχεία και έργα σας σε προφίλ και κάντε γρήγορη
+εναλλαγή σε έργα και συνεδρίες αρχείων.
+Αυτό σας δίνει την δυνατότητα να αποθηκεύτε το περιβάλλον εργασίας σας, να δουλέψετε σε ένα
+άλλο έργο και να γυρίσετε πίσω ακριβώς εκεί που είχατε σταματήσει.</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="441"/>
         <source>Delete Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή Προφίλ</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="443"/>
         <source>Update Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενημέρωση Προφίλ</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="445"/>
         <source>Create New Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία Νέου Προφίλ</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="447"/>
         <source>Open Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα Προφίλ</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="472"/>
         <source>Files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Αρχεία:</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="474"/>
         <source>Projects:</source>
-        <translation type="unfinished"></translation>
+        <translation>Έργα:</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="487"/>
         <source>Profile %s Updated!</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Προφίλ %s Ενημερώθηκε!</translation>
     </message>
 </context>
 <context>
@@ -1788,42 +1803,42 @@ project and then go back exactly where you left.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="150"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="158"/>
         <source>Project Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Τύπος Έργου:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="165"/>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιγραφή:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="169"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="173"/>
         <source>Licence:</source>
-        <translation type="unfinished"></translation>
+        <translation>Άδεια:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="193"/>
         <source>Supported Extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Υποστηριζόμενες Επεκτάσεις:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="196"/>
         <source>Indentation: </source>
-        <translation type="unfinished"></translation>
+        <translation>Εσοχή:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="201"/>
         <source>Use Tabs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρήση Tab.</translation>
     </message>
 </context>
 <context>
@@ -1831,87 +1846,87 @@ project and then go back exactly where you left.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="213"/>
         <source>Main File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Κύριο Αρχείο:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="230"/>
         <source>Python Custom Interpreter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσαρμοσμένος Διερμηνέας Python:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="235"/>
         <source>Custom PYTHONPATH:</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσαρμοσμένο PYTHONPATH:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="238"/>
         <source>One path per line</source>
-        <translation type="unfinished"></translation>
+        <translation>Μια διαδρομή ανα γραμμή</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="247"/>
         <source>Pre-exec Script:</source>
-        <translation type="unfinished"></translation>
+        <translation>Script Προ-εκτέλεσης:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="256"/>
         <source>Post-exec Script:</source>
-        <translation type="unfinished"></translation>
+        <translation>Script Μετα-εκτέλεσης:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="264"/>
         <source>Properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιδιότητες:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="266"/>
         <source>Separate the params with commas (ie: help, verbose)</source>
-        <translation type="unfinished"></translation>
+        <translation>Χωρισμός παραμέτρων με κόμμα (πχ: help, verbose)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="269"/>
         <source>Params (comma separated):</source>
-        <translation type="unfinished"></translation>
+        <translation>Παράμετροι (χωρισμένοι με κόμμα):</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="278"/>
         <source>Virtualenv Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Φάκελος Virtualenv:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="293"/>
         <source>Select Python Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή Python Διαδρομής</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="298"/>
         <source>Select Virtualenv Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή Φακέλου Virtualenv</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="306"/>
         <source>Virtualenv Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Φάκελος Virtualenv</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="306"/>
         <source>This is not a valid Virtualenv Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>O Virtualenv Φάκελος δεν είναι έγκυρος</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="314"/>
         <source>Select Main File</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή Κύριου Αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="323"/>
         <source>Select Pre Execution Script File</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή Αρχείου Script Προ-Εκτέλεσης</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="332"/>
         <source>Select Post Execution Script File</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή Αρχείου Script Μετα-Εκτέλεσης</translation>
     </message>
 </context>
 <context>
@@ -1920,12 +1935,12 @@ project and then go back exactly where you left.</source>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="348"/>
         <source>Insert the path of Python Projects relatedto this one in order
 to improve Code Completion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισάγετε τη διαδρομή των Έργων Python σε σχέση με αυτό το έργο ώστε να βελτιωθεί η Συμπλήρωση Κώδικα.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="353"/>
         <source>Split your paths using newlines [ENTER].</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαχωρίστε τις διαδρομές χρησιμοποιώντας νέες γραμμές [ENTER].</translation>
     </message>
 </context>
 <context>
@@ -1933,42 +1948,42 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="62"/>
         <source>Project Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιδιότητες Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="68"/>
         <source>Project Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεδομένα Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="69"/>
         <source>Project Execution</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκτέλεση Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="71"/>
         <source>Project Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadata Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="75"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="76"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="88"/>
         <source>Properties Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρες Ιδιότητες</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="88"/>
         <source>The Project must have a name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Έργο πρέπει να έχει ένα όνομα.</translation>
     </message>
 </context>
 <context>
@@ -1976,12 +1991,12 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="175"/>
         <source>Incorrect Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Λανθασμένη Διαδρομή</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="175"/>
         <source>The project couldn&apos;t be create</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν ήταν δυνατή η δημιουργία του Έργου</translation>
     </message>
 </context>
 <context>
@@ -1989,27 +2004,27 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="61"/>
         <source>no description available</source>
-        <translation type="unfinished"></translation>
+        <translation>δεν υπάρχει διαθέσιμη περιγραφή</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="63"/>
         <source>Click to delete from the list</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλικ για διαγραφή από την λίστα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="64"/>
         <source>Click to dock on the list</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλίκ για προσάρτηση στη λίστα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="106"/>
         <source>Click to remove from favorite projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλικ για αφαίρεση από τα αγαπημένα έργα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="110"/>
         <source>Click to add to favorite projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλικ για πρόσθεση στα αγαπημένα έργα</translation>
     </message>
 </context>
 <context>
@@ -2017,17 +2032,17 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/status_bar.py" line="363"/>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντικατάσταση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/status_bar.py" line="364"/>
         <source>Replace All</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντικατάσταση Όλων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/status_bar.py" line="365"/>
         <source>Replace Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντικατάσταση Επιλεγμένων</translation>
     </message>
 </context>
 <context>
@@ -2035,17 +2050,17 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/misc/results.py" line="38"/>
         <source>Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιεχόμενο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/results.py" line="38"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Αρχείο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/results.py" line="38"/>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Γραμμή</translation>
     </message>
 </context>
 <context>
@@ -2053,39 +2068,43 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="55"/>
         <source>Input:</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεδομένα Εισόδου:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="100"/>
         <source>Failed to start</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα κατα την εκκίνηση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="103"/>
         <source>Error during execution, QProcess error: %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα κατα την εκτέλεση, QProcess error: %d</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="116"/>
         <source>Execution Successful!</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιτυχής Εκτέλεση!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="120"/>
         <source>Execution Interrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>Διακόπηκε η Εκτέλεση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="153"/>
         <source>Pre Execution Script Successfully executed.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Το Script Προ Εκτέλεσης εκτελέστηκε επιτυχώς.
+
+</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="223"/>
         <source>Post Execution Script Successfully executed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Script Μετα Εκτέλεσης εκτελέστηκε επιτυχώς.
+
+</translation>
     </message>
 </context>
 <context>
@@ -2093,17 +2112,17 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/status_bar.py" line="257"/>
         <source>Respect Case Sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Τήρηση Διάκρισης πεζών/κεφαλαίων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/status_bar.py" line="258"/>
         <source>Find Whole Words</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση Ολόκληρων Λέξεων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/status_bar.py" line="271"/>
         <source>Press %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Πατήστε %s</translation>
     </message>
 </context>
 <context>
@@ -2111,327 +2130,327 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="131"/>
         <source>Duplicate the line/selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία αντιγράφου γραμμής/επιλεγμένων στοιχείων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="132"/>
         <source>Remove the line/selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Αφαίρεση γραμμής/επιλεγμένων στοιχείων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="133"/>
         <source>Move the line/selection up</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετακίνη της γραμμής/επιλεγμένων στοιχείων προς τα πάνω</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="134"/>
         <source>Move the line/selection down</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετακίνη της γραμμής/επιλεγμένων στοιχείων προς τα κάτω</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="135"/>
         <source>Close the current tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλείσιμο τρέχον καρτέλας</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="136"/>
         <source>Create a New tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία Νέας καρτέλας</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="137"/>
         <source>Create a new Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία Νέου Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="138"/>
         <source>Open a File</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα ενός Αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="139"/>
         <source>Open a Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα ενός Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="140"/>
         <source>Save the current file</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση τρέχοντος αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="141"/>
         <source>Save the current project opened files</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση των ανοιγμένων αρχείων του τρέχοντος έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="142"/>
         <source>Print current file</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκτύπωση του τρέχοντος αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="143"/>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαναφορά</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="144"/>
         <source>Comment line/selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Σχολιασμός γραμμής/επιλεγμένων στοιχείων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="145"/>
         <source>Uncomment line/selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποσχολιασμός γραμμής/επιλεγμένων στοιχείων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="146"/>
         <source>Insert Horizontal line</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή Οριζόντιας Γραμμής</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="147"/>
         <source>Insert comment Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή Τίτλου σε σχόλιο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="148"/>
         <source>Indent less</source>
-        <translation type="unfinished"></translation>
+        <translation>Λιγότερη Εσοχή</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="149"/>
         <source>Hide Misc Container</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Απόκρυψη Πλαισίου Misc</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="150"/>
         <source>Hide Editor Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Απόκρυψη Περιοχής Κειμενογράφου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="151"/>
         <source>Hide Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Απόκρυψη Εξερευνητή</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="152"/>
         <source>Execute current file</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκτέλεση τρέχοντος αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="153"/>
         <source>Execute current project</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκτέλεση τρέχοντος έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="154"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποσφαλμάτωση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="155"/>
         <source>Switch keyboard focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Εναλλαγή εστίασης πληκτρολογίου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="156"/>
         <source>Stop Execution</source>
-        <translation type="unfinished"></translation>
+        <translation>Διακοπή Εκτέλεσης</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="157"/>
         <source>Hide all (Except Editor)</source>
-        <translation type="unfinished"></translation>
+        <translation>Απόκρυψη Όλων (Εκτός Κειμενογράφου)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="158"/>
         <source>Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Πλήρης Οθόνη</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="159"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="160"/>
         <source>Find &amp; Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση/Αντικατάσταση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="161"/>
         <source>Find word under cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση λέξης κάτω από τον δρομέα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="162"/>
         <source>Find Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση Επόμενου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="163"/>
         <source>Find Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση Προηγούμενου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="164"/>
         <source>Show Python Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση Βοήθειας Python</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="165"/>
         <source>Split Tabs Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Κάθετος Διαχωρισμός των Tabs</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="166"/>
         <source>Split Tabs Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Οριζόντιος Διαχωρισμός των Tabs</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="167"/>
         <source>Activate/Deactivate Follow Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση/Απενεργοποίηση Λειτουργίας Παρακολούθησης</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="168"/>
         <source>Reload File</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαναφόρτωση Αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="169"/>
         <source>Jump to line</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετάβαση στη Γραμμή</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="170"/>
         <source>Find in Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση σε Αρχεία</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="171"/>
         <source>Import from everywhere</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Import from everywhere</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="172"/>
         <source>Go to definition</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετάβαση στον Ορισμό</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="173"/>
         <source>Complete Declarations</source>
-        <translation type="unfinished"></translation>
+        <translation>Ολόκληρες Δηλώσεις</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="174"/>
         <source>Show Code Locator</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση Εντοπιστή Κώδικα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="175"/>
         <source>Show File Opener</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Εμφάνιση Opener Αρχείων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="176"/>
         <source>Navigate Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Πλοήγηση προς τα Πίσω</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="177"/>
         <source>Navigate Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Πλοήγηση προς τα Μπροστά</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="178"/>
         <source>Open recent closed file</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα πρόσφατα κλεισμένων αρχείων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="179"/>
         <source>Change to the next Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Αλλαγή στην επόμενη Καρτέλα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="180"/>
         <source>Change to the previous Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Αλλαγή στην προηγούμενη Καρτέλα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="181"/>
         <source>Activate History Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση Πλοήγησης Ιστορικού</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="182"/>
         <source>Activate Bookmarks Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση Πλοήγησης Σελιδοδεικτών</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="183"/>
         <source>Activate Breakpoints Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση Πλοήγησης Σημείων Διακοπής</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="184"/>
         <source>Show copy/paste history</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση ιστορικού αντιγραφής/επικόλλησης</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="185"/>
         <source>Copy into copy/paste history</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφήση στο ιστορικό αντιγραφής/επικόλλησης</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="186"/>
         <source>Paste from copy/paste history</source>
-        <translation type="unfinished"></translation>
+        <translation>Επικόλληση απο το ιστορικό αντιγραφής/επικόλλησης</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="187"/>
         <source>Change the keyboard focus between the current splits</source>
-        <translation type="unfinished"></translation>
+        <translation>Αλλαγή της εστίασης του πληκτρολογίου μεταξύ των τρέχων διαχωρισμών</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="189"/>
         <source>Insert Bookmark/Breakpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή Σελιδοδείκτη/Σημείου Διακοπής</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="191"/>
         <source>Move the current Tab to the next split.</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετακίνηση της τρέχον Καρτέλας στον επόμενο διαχωρισμό.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="193"/>
         <source>Show/Hide the Tabs in the Editor Area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση/Απόκρυψη των Καρτέλων στη περιοχή του κειμενογράφου.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="195"/>
         <source>Highlight occurrences for word under cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Τονισμός εμφανίσεων της λέξεις κάτω απο τον δρομέα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="205"/>
         <source>Load defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Φόρτωση Προκαθορισμένων ρυθμίσεων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="210"/>
         <source>The Shortcut&apos;s Text in the Menus are going to be refreshed on restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Τα κείμενα στις Συντομεύσεις των Μενού θα ανανεωθούν με επανεκκίνηση.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="251"/>
         <source>Shortcut is already in use</source>
-        <translation type="unfinished"></translation>
+        <translation>Η Συντόμευση χρησιμοποιείται ήδη</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="251"/>
         <source>Do you want to remove it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Θέλετε να το αφαιρέσετε;</translation>
     </message>
 </context>
 <context>
@@ -2439,12 +2458,12 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="72"/>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποδοχή</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="73"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
 </context>
 <context>
@@ -2452,12 +2471,12 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_group.py" line="45"/>
         <source>Expand this Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ανάπτυξη αυτού του Αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_group.py" line="46"/>
         <source>Expand all Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Ανάπτυξη όλων των Ομάδων</translation>
     </message>
 </context>
 <context>
@@ -2465,27 +2484,27 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="488"/>
         <source>Right click to change navigation options</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεξί κλικ για αλλαγή των επιλογών πλοήγησης</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="494"/>
         <source>Navigate</source>
-        <translation type="unfinished"></translation>
+        <translation>Πλοήγηση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="495"/>
         <source>Code Jumps</source>
-        <translation type="unfinished"></translation>
+        <translation>Μεταβάσεις Κώδικα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="499"/>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Σελιδοδείκτες</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="502"/>
         <source>Breakpoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Σημεία Διακοπής</translation>
     </message>
 </context>
 <context>
@@ -2494,83 +2513,85 @@ to improve Code Completion.</source>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="185"/>
         <source>%s
 Do you want to reload it?</source>
-        <translation type="unfinished"></translation>
+        <translation>%s
+Θέλετε να το επαναφορτώσετε;</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="194"/>
         <source>%s
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%s
+</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="274"/>
         <source>The file %s was not saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Το αρχείο %s δεν αποθηκεύτικε</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="274"/>
         <source>Do you want to save before closing?</source>
-        <translation type="unfinished"></translation>
+        <translation>Θέλετε να αποθηκεύσετε πριν το κλείσετε;</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="328"/>
         <source>Add to Project...</source>
-        <translation type="unfinished"></translation>
+        <translation>Πρόσθεση στο Έργου...</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="329"/>
         <source>Run this File!</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκτέλεση αυτού του Αρχείου!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="330"/>
         <source>Change Syntax</source>
-        <translation type="unfinished"></translation>
+        <translation>Αλλαγή Σύνταξης</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="333"/>
         <source>Close This Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλείσιμο αυτής της Καρτέλας</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="334"/>
         <source>Close All Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλείσιμο Όλων των Καρτελών</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="335"/>
         <source>Close Other Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλείσιμο των άλλων Καρτελών</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="339"/>
         <source>Move this Tab to the other Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετακίνηση της Καρτέλας στον άλλο Διαχωρισμό</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="341"/>
         <source>Close Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλείσιμο Διαχωρισμού</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="350"/>
         <source>Split this Tab (Vertically)</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαχωρισμός αυτής της Καρτέλας (Κάθετα)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="352"/>
         <source>Split this Tab (Horizontally)</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαχωρισμός αυτής της Καρτέλας (Οριζόντια)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="360"/>
         <source>Copy file location to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή της τοποθεσίας του αρχείου στο Πρόχειρο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="362"/>
         <source>Reopen last closed File</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκ νέου Άνοιγμα του τελευταίου Αρχείου</translation>
     </message>
 </context>
 <context>
@@ -2578,17 +2599,17 @@ Do you want to reload it?</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1677"/>
         <source>&lt;b&gt;Select Theme:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Επιλιγή Θέματος&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1681"/>
         <source>Delete Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή Θέματος</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1682"/>
         <source>Preview Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Προεπισκόπιση Θέματος</translation>
     </message>
 </context>
 <context>
@@ -2596,37 +2617,37 @@ Do you want to reload it?</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1761"/>
         <source>&lt;b&gt;New Theme Name:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Όνομα Νέου Θέματος&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1764"/>
         <source>Save Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση Θέματος</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1771"/>
         <source>Apply Style Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Εφαρμογή Φύλλου Στυλ</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1819"/>
         <source>Style Sheet Saved</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Το Φύλλο Στυλ Αποθηκεύτικε</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1819"/>
         <source>Theme saved at: &apos;%s&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Θέμα αποθηκεύτικε στο: &apos;%s&apos;.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1823"/>
         <source>File Already Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Αρχείο ήδη υπάρχει</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1823"/>
         <source>Invalid File Name: the file &apos;%s&apos; already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρο Όνομα Αρχείου: Το αρχείο &apos;%s&apos; ήδη υπάρχει.</translation>
     </message>
 </context>
 <context>
@@ -2634,22 +2655,22 @@ Do you want to reload it?</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/themes_manager.py" line="50"/>
         <source>Themes Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαχειριστής Θεμάτων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/themes_manager.py" line="58"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλείσιμο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/themes_manager.py" line="59"/>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαναφόρτωση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/themes_manager.py" line="88"/>
         <source>Editor Schemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργαστής Σχήματος</translation>
     </message>
 </context>
 <context>
@@ -2657,7 +2678,7 @@ Do you want to reload it?</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/traceback_widget.py" line="66"/>
         <source>Traceback</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Traceback</translation>
     </message>
 </context>
 <context>
@@ -2665,30 +2686,33 @@ Do you want to reload it?</source>
     <message>
         <location filename="ninja_ide/gui/updates.py" line="62"/>
         <source>Download Version: %s!</source>
-        <translation type="unfinished"></translation>
+        <translation>Λήψη Έκδοσης: %s!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/updates.py" line="67"/>
         <source>Close Update Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλείσιμο Ειδοποιήσεων Ενημερώσεων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/updates.py" line="89"/>
         <source>NINJA-IDE Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενημερώσεις NINJA-IDE</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/updates.py" line="89"/>
         <source>New Version of NINJA-IDE
 Available: </source>
-        <translation type="unfinished"></translation>
+        <translation>Διαθέσιμες Νέες Ενημερώσεις
+ του NINJA-IDE:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/updates.py" line="82"/>
         <source>
 
 Check the Update Menu in the NINJA-IDE System Tray icon to Download!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+
+Ελέγξτε το Μενού Ενημερώσεων στο εικονίδιο του Συστήματος NINJA-IDE για να κάνετε Λήψη!</translation>
     </message>
 </context>
 <context>
@@ -2696,157 +2720,157 @@ Check the Update Menu in the NINJA-IDE System Tray icon to Download!</source>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="201"/>
         <source>Run Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκτέλεση Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="205"/>
         <source>Set as Main Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Ορισμός ως Κύριο Έργο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="209"/>
         <source>Remove this Project from the Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Αφαίρεση αυτού του Έργου απο την Python Κονσόλα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="214"/>
         <source>Add this Project to the Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Πρόσθεση αυτού του Έργου στη Κονσόλα Python</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="218"/>
         <source>Project Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιδιότητες Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="224"/>
         <source>Refresh Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Ανανέωση Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="229"/>
         <source>Close Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλείσιμο Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="241"/>
         <source>Add New File</source>
-        <translation type="unfinished"></translation>
+        <translation>Πρόσθεση Νέου Αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="245"/>
         <source>Add New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Πρόσθεση Νέου Φακέλου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="249"/>
         <source>Create &apos;__init__&apos; Complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Δημιουργία Συμπλήρωσης &apos;__init__&apos;</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="254"/>
         <source>Remove Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Αφαίρεση Καταλόγου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="512"/>
         <source>Rename File</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετονομασία Αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="266"/>
         <source>Move File</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετακίνηση Αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="551"/>
         <source>Copy File</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή Αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="482"/>
         <source>Delete File</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή Αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="281"/>
         <source>Edit UI File</source>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργασία Αρχείου UI</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="413"/>
         <source>Create INIT fail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Δημιουργία Αποτυχίας INIT</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="423"/>
         <source>New File</source>
-        <translation type="unfinished"></translation>
+        <translation>Νέο Αρχείο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="423"/>
         <source>Enter the File Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισάγετε το Όνομα του Αρχείου:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="589"/>
         <source>File Already Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Αρχείο ήδη υπάρχει</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="589"/>
         <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη Έγκυρη διαδρομή: Το αρχείο &apos;%s&apos; ήδη υπάρχει.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="467"/>
         <source>New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Νέος Φάκελος</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="467"/>
         <source>Enter the Folder Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισάγετε το Όνομα Φακέλου:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="482"/>
         <source>Do you want to delete the following file: </source>
-        <translation type="unfinished"></translation>
+        <translation>Θέλετε να διαγράψετε το παρακάτω αρχείο: </translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="497"/>
         <source>Delete Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή Φακέλου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="497"/>
         <source>Do you want to delete the following folder: </source>
-        <translation type="unfinished"></translation>
+        <translation>Θέλετε να διαγράψετε τον παρακάτω φάκελο: </translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="512"/>
         <source>Enter New File Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισάγετε Νέο Όνομα Αρχείου:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="575"/>
         <source>Copy File to</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή Αρχείου στο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="551"/>
         <source>File Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα Αρχείου:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="554"/>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρο Όνομα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="554"/>
         <source>The file name is empty, please enter a name</source>
-        <translation type="unfinished"></translation>
+        <translation>Το όνομα αρχείου είναι κενό, παρακαλω εισάγετε ένα όνομα</translation>
     </message>
 </context>
 <context>
@@ -2854,12 +2878,12 @@ Check the Update Menu in the NINJA-IDE System Tray icon to Download!</source>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="45"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιγραφή</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="45"/>
         <source>Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Συντόμευση</translation>
     </message>
 </context>
 <context>
@@ -2867,42 +2891,42 @@ Check the Update Menu in the NINJA-IDE System Tray icon to Download!</source>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="74"/>
         <source>Fold all</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναδίπλωση όλων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="75"/>
         <source>Unfold all</source>
-        <translation type="unfinished"></translation>
+        <translation>Ξεδίπλωση όλων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="77"/>
         <source>Unfold classes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ξεδίπλωση κλάσσεων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="78"/>
         <source>Unfold classes and methods</source>
-        <translation type="unfinished"></translation>
+        <translation>Ξεδίπλωση κλάσσεων και μεθόδων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="79"/>
         <source>Unfold classes and attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ξεδίπλωση κλάσσεων και ιδιοτήτων</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="152"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιδιότητες</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="161"/>
         <source>Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Συναρτήσεις</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="172"/>
         <source>Classes</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλάσσεις</translation>
     </message>
 </context>
 <context>
@@ -2910,7 +2934,7 @@ Check the Update Menu in the NINJA-IDE System Tray icon to Download!</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="239"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενημέρωση</translation>
     </message>
 </context>
 <context>
@@ -2918,7 +2942,7 @@ Check the Update Menu in the NINJA-IDE System Tray icon to Download!</source>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="420"/>
         <source>Undock</source>
-        <translation type="unfinished"></translation>
+        <translation>Απαγκύρωση</translation>
     </message>
 </context>
 <context>
@@ -2926,28 +2950,29 @@ Check the Update Menu in the NINJA-IDE System Tray icon to Download!</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="66"/>
         <source>NINJA - New Project Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>NINJA - Οδηγός Νέου Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="113"/>
         <source>Virtualenv Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Φάκελος Virtualenv</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="113"/>
         <source>Folder don&apos;t exists or this is not a valid Folder.
  If you want to set or modify, go to project properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Ο Φάκελος δεν υπάρχει ή ο Φάκελος δεν είναι έγκυρος.
+Εαν θέλετε να ορίσετε ή να τροποποιήσετε, πηγαίνετε στις ιδιότητες του έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="113"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Πίσω</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="113"/>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Συνέχεια</translation>
     </message>
 </context>
 <context>
@@ -2955,81 +2980,85 @@ Check the Update Menu in the NINJA-IDE System Tray icon to Download!</source>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="433"/>
         <source>Add File To Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη αρχείου στο Έργο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="433"/>
         <source>File Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα Αρχείου:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="436"/>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρο Όνομα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="436"/>
         <source>The file name is empty, please enter a name</source>
-        <translation type="unfinished"></translation>
+        <translation>Το όνομα αρχείου είναι κενό, παρακαλω εισάγετε ένα όνομα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="459"/>
         <source>File Already Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Αρχείο ήδη υπάρχει</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="459"/>
         <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη Έγκυρη διαδρομή: Το αρχείο &apos;%s&apos; ήδη υπάρχει.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="492"/>
         <source>Create Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία Προφίλ</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="492"/>
         <source>The Current Files and Projects will be associated to this profile.
 Profile Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Τα τρέχον Αρχεία και Έργα θα συσχετιστούν σε αυτό το προφίλ.
+Όνομα Προφίλ:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="500"/>
         <source>Profile Name Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρο Όνομα Προφίλ</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="500"/>
         <source>The Profile name is invalid or already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το όνομα του Προφίλ δεν είναι έγκυρο ή υπάρχει ήδη.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="557"/>
         <source>Lines code: %s
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Γραμμές κώδικα: %s
+</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="558"/>
         <source>Blanks and commented lines: %s
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Κενά και σχολιασμένες γραμμές: %s
+
+</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="560"/>
         <source>Total lines: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Συνολικές γραμμές: %s</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="561"/>
         <source>Summary of lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Περίληψη των γραμμών</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="999"/>
         <source>Class Diagram v.0.1</source>
-        <translation type="unfinished"></translation>
+        <translation>Διάγραμμα Κλάσσης v.0.1</translation>
     </message>
 </context>
 <context>
@@ -3037,77 +3066,77 @@ Profile Name:</source>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="120"/>
         <source>Migration 2to3</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετάβαση 2to3</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="125"/>
         <source>Projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Έργα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="154"/>
         <source>Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Σύμβολα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="168"/>
         <source>Web Inspector not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν υποστηρίζετε Επιθεωρητής Web</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="168"/>
         <source>Your Qt version doesn&apos;t support the Web Inspector</source>
-        <translation type="unfinished"></translation>
+        <translation>Η Qt έκδοσή σας δεν υποστηρίζει Web Επιθεωρητή</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="218"/>
         <source>Web Inspector</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιθεωρητής Web</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="180"/>
         <source>Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλματα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="213"/>
         <source>Dock</source>
-        <translation type="unfinished"></translation>
+        <translation>Αγκύρωση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="219"/>
         <source>Undock</source>
-        <translation type="unfinished"></translation>
+        <translation>Απαγκύρωση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="318"/>
         <source>Projects Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Έργα Απενεργοποιήθηκαν</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="318"/>
         <source>Project support has been disabled from Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Η υποστήριξη Έργου έχει απενεργοποιηθεί απο τις Προτιμήσεις</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="269"/>
         <source>Open Project Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα Καταλόγου Έργου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="291"/>
         <source>Incorrect Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Λανθασμένο Έργο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="291"/>
         <source>The project could not be loaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν ήταν δυνατή η φόρτωση του Έργου!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="376"/>
         <source>no description available</source>
-        <translation type="unfinished"></translation>
+        <translation>δεν υπάρχει διαθέσιμη περιγραφή</translation>
     </message>
 </context>
 <context>
@@ -3115,54 +3144,56 @@ Profile Name:</source>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="133"/>
         <source>Press and Drag to Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Πάτημα και Σύρσιμο για Μετακίνηση</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="146"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αρχείο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="147"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Επεξεργασία</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="148"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Προβολή</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="149"/>
         <source>&amp;Source</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Πηγή</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="150"/>
         <source>&amp;Project</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Έργα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="151"/>
         <source>&amp;Addins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Πρόσθετα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="152"/>
         <source>Abou&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Περί</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="436"/>
         <source>Some changes were not saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Μερικές αλλαγές δεν αποθηκεύτικαν</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="436"/>
         <source>%s
 
 Do you want to exit anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>%s
+
+Κλείσιμο ούτως ή άλλως;</translation>
     </message>
 </context>
 <context>
@@ -3170,78 +3201,79 @@ Do you want to exit anyway?</source>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="438"/>
         <source>Incorrect File</source>
-        <translation type="unfinished"></translation>
+        <translation>Λανθασμένο Αρχείο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="438"/>
         <source>The image couldn&apos;t be open</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν ήταν δυνατό το άνοιγμα της εικόνας</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="458"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα Αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="506"/>
         <source> (Read-Only)</source>
-        <translation type="unfinished"></translation>
+        <translation> (Μόνο για ανάγνωση)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="521"/>
         <source>The file couldn&apos;t be open</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν ήταν δυνατό το άνοιγμα του αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="588"/>
         <source>Close Deleted File</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλείσιμο Διεγραμμένου Αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="588"/>
         <source>Are you sure you want to close the deleted file?
 The content will be completely deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Είσαστε σίγουροι ότι θέλετε να κλείσετε το διεγραμμένο αρχείο?
+Το περιεχόμενο θα διαγραφτεί εντελώς.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="665"/>
         <source>File Saved: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Αρχείο %s Αποθηκεύτικε</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="680"/>
         <source>Save Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση Σφάλματος</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="680"/>
         <source>The file couldn&apos;t be saved!</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν ήταν δυνατή η αποθήκευση του αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="646"/>
         <source>Save File</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση Αρχείου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="674"/>
         <source>File Already Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Αρχείο ήδη υπάρχει</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="674"/>
         <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη Έγκυρη διαδρομή: Το αρχείο &apos;%s&apos; ήδη υπάρχει.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="682"/>
         <source>New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Νέο Έγγραφο</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="771"/>
         <source>Python Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Τεκμηρίωση Python</translation>
     </message>
 </context>
 <context>
@@ -3249,27 +3281,27 @@ The content will be completely deleted.</source>
     <message>
         <location filename="ninja_ide/gui/misc/misc_container.py" line="89"/>
         <source>Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Κονσόλα</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/misc_container.py" line="91"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποτέλεσμα Εξόδου</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/misc_container.py" line="93"/>
         <source>Web Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Προεπισκόπηση Web</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/misc_container.py" line="95"/>
         <source>Find in Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση σε Αρχεία</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/misc_container.py" line="107"/>
         <source>F4: Show/Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>F4: Εμφάνιση/Απόκρυψη</translation>
     </message>
 </context>
 <context>
@@ -3277,7 +3309,7 @@ The content will be completely deleted.</source>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="832"/>
         <source>Fold/Unfold</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναδίπλωση/Ξεδίπλωση</translation>
     </message>
 </context>
 </TS>
