@@ -1332,7 +1332,7 @@ of plakken met: %s</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="98"/>
         <source>&amp;Close All Projects</source>
-        <translation>All p&amp;rojecten sluiten</translation>
+        <translation>Alle p&amp;rojecten sluiten</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="102"/>
