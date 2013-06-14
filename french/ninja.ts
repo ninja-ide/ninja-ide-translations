@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="fr_FR">
+<TS version="2.0" language="fr" sourcelanguage="en">
 <context>
     <name>AboutNinja</name>
     <message>
@@ -20,34 +20,34 @@ NINJA-IDE fourni des outils pour simplifer le développement logiciel en Python 
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="68"/>
-        <source>Version: %1</source>
-        <translation>Version : %1</translation>
+        <source>Version: %s</source>
+        <translation>Version : %s</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="70"/>
-        <source>Website: &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
-        <translation>Site Web : &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</translation>
+        <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="69"/>
+        <source>Website: &lt;a href=&quot;%s&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ff9e21;&quot;&gt;%s&lt;/span&gt;&lt;/a&gt;</source>
+        <translation>Site Web : &lt;a href=&quot;%s&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ff9e21;&quot;&gt;%s&lt;/span&gt;&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="73"/>
-        <source>Source Code: &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt;</source>
-        <translation>Code Source : &lt;a href=&apos;%1&apos;&gt;%1&lt;/a&gt; </translation>
+        <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="75"/>
+        <source>Source Code: &lt;a href=&quot;%s&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ff9e21;&quot;&gt;%s&lt;/span&gt;&lt;/a&gt;</source>
+        <translation>Code Source : &lt;a href=&quot;%s&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ff9e21;&quot;&gt;%s&lt;/span&gt;&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>AddToProject</name>
     <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="321"/>
+        <location filename="ninja_ide/tools/ui_tools.py" line="326"/>
         <source>Add File to Project</source>
         <translation>Ajouter un Fichier au Projet</translation>
     </message>
     <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="331"/>
+        <location filename="ninja_ide/tools/ui_tools.py" line="336"/>
         <source>Add here!</source>
         <translation>Ajouter ici !</translation>
     </message>
     <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="332"/>
+        <location filename="ninja_ide/tools/ui_tools.py" line="337"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
@@ -55,17 +55,17 @@ NINJA-IDE fourni des outils pour simplifer le développement logiciel en Python 
 <context>
     <name>AvailableWidget</name>
     <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="277"/>
+        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="286"/>
         <source>NINJA needs to be restarted for changes to take effect.</source>
         <translation>NINJA doit être redémarré afin que les changements prennent effet.</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="312"/>
+        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="321"/>
         <source>External Plugins</source>
         <translation>Greffons Externes</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="312"/>
+        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="321"/>
         <source>URL from Plugin missing...</source>
         <translation>URL du Plugin manquante…</translation>
     </message>
@@ -73,37 +73,37 @@ NINJA-IDE fourni des outils pour simplifer le développement logiciel en Python 
 <context>
     <name>ConsoleWidget</name>
     <message>
-        <location filename="ninja_ide/gui/misc/console_widget.py" line="56"/>
+        <location filename="ninja_ide/gui/misc/console_widget.py" line="57"/>
         <source>Show/Hide (F4)</source>
         <translation>Afficher/Cacher (F4)</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/console_widget.py" line="113"/>
+        <location filename="ninja_ide/gui/misc/console_widget.py" line="114"/>
         <source>Cut</source>
         <translation>Couper</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/console_widget.py" line="114"/>
+        <location filename="ninja_ide/gui/misc/console_widget.py" line="115"/>
         <source>Copy</source>
         <translation>Copier</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/console_widget.py" line="115"/>
+        <location filename="ninja_ide/gui/misc/console_widget.py" line="116"/>
         <source>Paste</source>
         <translation>Coller</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/console_widget.py" line="116"/>
+        <location filename="ninja_ide/gui/misc/console_widget.py" line="117"/>
         <source>Clean Console</source>
         <translation>Effacer la Console</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/console_widget.py" line="117"/>
+        <location filename="ninja_ide/gui/misc/console_widget.py" line="118"/>
         <source>Copy History</source>
         <translation>Copier l&apos;Historique</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/console_widget.py" line="118"/>
+        <location filename="ninja_ide/gui/misc/console_widget.py" line="119"/>
         <source>Copy Console Content</source>
         <translation>Copier le Contenu de la Console</translation>
     </message>
@@ -116,7 +116,7 @@ NINJA-IDE fourni des outils pour simplifer le développement logiciel en Python 
         <translation>Dépendances du greffon</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="484"/>
+        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="493"/>
         <source>It seems that some plugins needs some
             dependencies to be solved to work properly, you should install them
             as follows using a Terminal</source>
@@ -125,7 +125,7 @@ NINJA-IDE fourni des outils pour simplifer le développement logiciel en Python 
             de la manière suivante à l&apos;aide d&apos;un Terminal</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="492"/>
+        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="501"/>
         <source>Accept</source>
         <translation>Accepter</translation>
     </message>
@@ -133,32 +133,32 @@ NINJA-IDE fourni des outils pour simplifer le développement logiciel en Python 
 <context>
     <name>Editor</name>
     <message>
-        <location filename="ninja_ide/gui/editor/editor.py" line="159"/>
+        <location filename="ninja_ide/gui/editor/editor.py" line="200"/>
         <source>Find Usages</source>
         <translation>Rechercher les Usages</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/editor/editor.py" line="403"/>
+        <location filename="ninja_ide/gui/editor/editor.py" line="490"/>
         <source>Jump to Line</source>
         <translation>Sauter à la Ligne</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/editor/editor.py" line="403"/>
+        <location filename="ninja_ide/gui/editor/editor.py" line="490"/>
         <source>Line:</source>
         <translation>Ligne :</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/editor/editor.py" line="841"/>
+        <location filename="ninja_ide/gui/editor/editor.py" line="936"/>
         <source>Ignore Lint</source>
         <translation>Ignorer Lint</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/editor/editor.py" line="842"/>
+        <location filename="ninja_ide/gui/editor/editor.py" line="937"/>
         <source>Ignore This Line</source>
         <translation>Ignorer Cette Ligne</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/editor/editor.py" line="844"/>
+        <location filename="ninja_ide/gui/editor/editor.py" line="939"/>
         <source>Ignore Selected Area</source>
         <translation>Ignorer la Zone Sélectionnée</translation>
     </message>
@@ -166,12 +166,12 @@ NINJA-IDE fourni des outils pour simplifer le développement logiciel en Python 
 <context>
     <name>EditorCompletion</name>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1107"/>
+        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1123"/>
         <source>Complete:</source>
         <translation>Compléter :</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1109"/>
+        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1125"/>
         <source>Parentheses: ()</source>
         <translation>Pathèses : ()</translation>
     </message>
@@ -181,34 +181,34 @@ NINJA-IDE fourni des outils pour simplifer le développement logiciel en Python 
         <translation>Accolades : {}</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1113"/>
+        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1129"/>
         <source>Brackets: []</source>
         <translation>Crochets : []</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1115"/>
+        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1131"/>
         <source>Simple Quotes: &apos;&apos;</source>
         <translation>Apostrophes Simples : &apos;&apos;</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1117"/>
+        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1133"/>
         <source>Double Quotes: &quot;&quot;</source>
         <translation>Apostrophes Doubles : &quot;&quot;</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1119"/>
+        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1135"/>
         <source>Complete Declarations
-(execute the opposite action with: %1).</source>
+(execute the opposite action with: %s).</source>
         <translation>Completer les Déclarations
-(exécuter l&apos;action opposée avec : %1).</translation>
+(exécuter l&apos;action opposée avec : %s).</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1132"/>
+        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1138"/>
         <source>Code Completion:</source>
         <translation>Complètement de Code :</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1134"/>
+        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1150"/>
         <source>Activate Code Completion with: &quot;.&quot;</source>
         <translation>Activer le Complètement de Code avec : &quot;.&quot;</translation>
     </message>
@@ -216,7 +216,7 @@ NINJA-IDE fourni des outils pour simplifer le développement logiciel en Python 
 <context>
     <name>EditorConfiguration</name>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="945"/>
+        <location filename="ninja_ide/gui/dialogs/preferences.py" line="952"/>
         <source>Features:</source>
         <translation>Fonctionnalités :</translation>
     </message>
@@ -274,6 +274,11 @@ NINJA-IDE fourni des outils pour simplifer le développement logiciel en Python 
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="997"/>
         <source>Show Tool tip information about the PEP8 errors.</source>
         <translation>Afficher une Infobulle à propos des erreurs PEP8.</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1011"/>
+        <source>Show Python3 Migration Tips.</source>
+        <translation>Afficher les Astuces de Migration pour Python 3.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1004"/>
@@ -564,6 +569,29 @@ add Last Line automatically.</source>
     </message>
 </context>
 <context>
+    <name>ErrorsWidget</name>
+    <message>
+        <location filename="ninja_ide/gui/explorer/errors_lists.py" line="96"/>
+        <source>Lint: ON</source>
+        <translation>Lint : Activé</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/explorer/errors_lists.py" line="98"/>
+        <source>Lint: OFF</source>
+        <translation>Lint : Désactivé</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/explorer/errors_lists.py" line="105"/>
+        <source>PEP8: ON</source>
+        <translation>PEP8 : Activé</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/explorer/errors_lists.py" line="107"/>
+        <source>PEP8: OFF</source>
+        <translation>PEP8 : Désactivé</translation>
+    </message>
+</context>
+<context>
     <name>FileSystemOpener</name>
     <message>
         <location filename="ninja_ide/gui/status_bar.py" line="415"/>
@@ -771,9 +799,9 @@ add Last Line automatically.</source>
         <translation>Activer les Greffons</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="170"/>
-        <source>Nofity me for new available updates.</source>
-        <translation>Me notifier des nouvelles mises à jour disponibles.</translation>
+        <location filename="ninja_ide/gui/dialogs/preferences.py" line="171"/>
+        <source>Notify me of new updates.</source>
+        <translation>Me prévenir des nouvelles mises à jour.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="172"/>
@@ -991,6 +1019,11 @@ add Last Line automatically.</source>
         <translation>Afficher les Erreurs de Fichier.</translation>
     </message>
     <message>
+        <location filename="ninja_ide/gui/dialogs/preferences.py" line="455"/>
+        <source>Show Migration Tips.</source>
+        <translation>Afficher les Conseils de Migration.</translation>
+    </message>
+    <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="477"/>
         <source>Rotate Central</source>
         <translation>Rotation Centrale</translation>
@@ -1039,6 +1072,11 @@ add Last Line automatically.</source>
         <translation>Gestionnaire de Langue</translation>
     </message>
     <message>
+        <location filename="ninja_ide/gui/dialogs/language_manager.py" line="58"/>
+        <source>Close</source>
+        <translation>Fermer</translation>
+    </message>
+    <message>
         <location filename="ninja_ide/gui/dialogs/language_manager.py" line="48"/>
         <source>Reload</source>
         <translation>Recharger</translation>
@@ -1052,21 +1090,21 @@ add Last Line automatically.</source>
 <context>
     <name>LateralPanel</name>
     <message>
-        <location filename="ninja_ide/gui/central_widget.py" line="220"/>
+        <location filename="ninja_ide/gui/central_widget.py" line="218"/>
         <source>Select the item from the Paste Historial list.
-You can Copy items into this list with: %1
-or Paste them using: %2</source>
-        <translation>Choisir l&apos;élément depuis la liste d&apos;Historique de Collage.
-Vous pouvez Copier des éléments vers cette liste avec : %1
-ou les Coller avec : %2</translation>
+You can Copy items into this list with: %s
+or Paste them using: %s</source>
+        <translation>Sélectionner l&apos;élément de la liste d&apos;historique de Collage.
+Vous pouvez Copier des éléments dans cette liste avec : %s
+or les Coller en utilisant : %s</translation>
     </message>
 </context>
 <context>
     <name>LineEditCount</name>
     <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="550"/>
-        <source>%1 of %2</source>
-        <translation>%1 de %2</translation>
+        <location filename="ninja_ide/tools/ui_tools.py" line="555"/>
+        <source>%s of %s</source>
+        <translation>%s de %s</translation>
     </message>
 </context>
 <context>
@@ -1085,9 +1123,9 @@ ou les Coller avec : %2</translation>
 <context>
     <name>LoadingItem</name>
     <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="110"/>
-        <source>       LOADING: &quot;%1&quot;</source>
-        <translation>       CHARGEMENT : « %1 »</translation>
+        <location filename="ninja_ide/tools/ui_tools.py" line="111"/>
+        <source>       LOADING: &quot;%s&quot;</source>
+        <translation>       CHARGEMENT : « %s »</translation>
     </message>
 </context>
 <context>
@@ -1112,8 +1150,8 @@ ou les Coller avec : %2</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="36"/>
-        <source>Python Help (%1)</source>
-        <translation>Aide de Python (%1)</translation>
+        <source>Python Help (%s)</source>
+        <translation>Aide de Python (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="65"/>
@@ -1145,28 +1183,38 @@ ou les Coller avec : %2</translation>
     <name>MenuEdit</name>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="38"/>
-        <source>Undo (%1+Z)</source>
-        <translation>Défaire (%1+Z)</translation>
+        <source>Undo (%s+Z)</source>
+        <translation>Défaire (%s+Z)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="40"/>
-        <source>Redo (%1)</source>
-        <translation>Refaire (%1)</translation>
+        <source>Redo (%s)</source>
+        <translation>Refaire (%s)</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="44"/>
-        <source>&amp;Cut (%1+X)</source>
-        <translation>&amp;Couper (%1+X)</translation>
+        <location filename="ninja_ide/gui/menus/menu_edit.py" line="43"/>
+        <source>&amp;Cut (%s+X)</source>
+        <translation>&amp;Couper (%s+X)</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="46"/>
-        <source>&amp;Copy (%1+C)</source>
-        <translation>&amp;Copier (%1+C)</translation>
+        <location filename="ninja_ide/gui/menus/menu_edit.py" line="45"/>
+        <source>&amp;Copy (%s+C)</source>
+        <translation>&amp;Copier (%s+C)</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="48"/>
-        <source>&amp;Paste (%1+V)</source>
-        <translation>&amp;Coller (%1+V)</translation>
+        <location filename="ninja_ide/gui/menus/menu_edit.py" line="50"/>
+        <source>Find (%s)</source>
+        <translation>Rechercher (%s)</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/menus/menu_edit.py" line="53"/>
+        <source>Find/Replace (%s)</source>
+        <translation>Rechercher/Remplacer (%s)</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/menus/menu_edit.py" line="58"/>
+        <source>Find using word under cursor (%s)</source>
+        <translation>Rechercher le mot sous le curseur (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="51"/>
@@ -1174,14 +1222,19 @@ ou les Coller avec : %2</translation>
         <translation>Rechercher (%1)</translation>
     </message>
     <message>
+        <location filename="ninja_ide/gui/menus/menu_edit.py" line="66"/>
+        <source>Code Locator (%s)</source>
+        <translation>Localisateur de Code (%s)</translation>
+    </message>
+    <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="55"/>
         <source>Find/Replace (%1)</source>
         <translation>Rechercher/Remplacer (%1)</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="60"/>
-        <source>Find using word under cursor (%1)</source>
-        <translation>Rechercher le mot sous le curseur (%1)</translation>
+        <location filename="ninja_ide/gui/menus/menu_edit.py" line="62"/>
+        <source>Find in Files (%s)</source>
+        <translation>Trouver dans les Fichiers (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="64"/>
@@ -1189,47 +1242,22 @@ ou les Coller avec : %2</translation>
         <translation>Trouver dans les Fichiers (%1)</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="68"/>
-        <source>Code Locator (%1)</source>
-        <translation>Localisateur de Code (%1)</translation>
-    </message>
-    <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="73"/>
         <source>Convert selected Text to: UPPER</source>
         <translation>Convertir le Texte séléctionné en : HAUT DE CASSE</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="75"/>
-        <source>Convert selected Text to: lower</source>
-        <translation>Convertir le Texte séléctionné en : bas de casse</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="77"/>
-        <source>Convert selected Text to: Title Word</source>
-        <translation>Convertir le Texte sélectionné en : Mot de Titre</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="80"/>
-        <source>Preference&amp;s</source>
-        <translation>Préférence&amp;s</translation>
     </message>
 </context>
 <context>
     <name>MenuFile</name>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="33"/>
-        <source>&amp;New File (%1)</source>
-        <translation>&amp;Nouveau Fichier (%1)</translation>
+        <location filename="ninja_ide/gui/menus/menu_file.py" line="41"/>
+        <source>&amp;New File (%s)</source>
+        <translation>&amp;Nouveau Fichier (%s)</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="37"/>
-        <source>New Pro&amp;ject (%1)</source>
-        <translation>Nouveau Pro&amp;jet (%1)</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="43"/>
-        <source>&amp;Save (%1)</source>
-        <translation>&amp;Enregistrer (%1)</translation>
+        <location filename="ninja_ide/gui/menus/menu_file.py" line="51"/>
+        <source>&amp;Save (%s)</source>
+        <translation>Enregistrer &amp;Sous (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="47"/>
@@ -1242,44 +1270,44 @@ ou les Coller avec : %2</translation>
         <translation>Tout Enregistrer</translation>
     </message>
     <message>
+        <location filename="ninja_ide/gui/menus/menu_file.py" line="33"/>
+        <source>&amp;New File (%1)</source>
+        <translation>&amp;Nouveau Fichier (%1)</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/menus/menu_file.py" line="37"/>
+        <source>New Pro&amp;ject (%1)</source>
+        <translation>Nouveau Pro&amp;jet (%1)</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/menus/menu_file.py" line="45"/>
+        <source>New Pro&amp;ject (%s)</source>
+        <translation>Nouveau Pro&amp;jet (%s)</translation>
+    </message>
+    <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="51"/>
         <source>Save Pro&amp;ject  (%1)</source>
         <translation>Enregistrer le Pro&amp;jet (%1)</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="57"/>
-        <source>Reload File (%1)</source>
-        <translation>Recharger le Fichier (%1)</translation>
+        <location filename="ninja_ide/gui/menus/menu_file.py" line="89"/>
+        <source>Pr&amp;int File (%s)</source>
+        <translation>&amp;Imrimer le Fichier (%s)</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="63"/>
-        <source>&amp;Open (%1)</source>
-        <translation>&amp;Ouvrir (%1)</translation>
+        <location filename="ninja_ide/gui/menus/menu_file.py" line="93"/>
+        <source>&amp;Close Tab (%s)</source>
+        <translation>&amp;Fermer l&apos;Onglet (%s)</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="67"/>
-        <source>Open &amp;Project (%1)</source>
-        <translation>Ouvrir le &amp;Projet (%1)</translation>
+        <location filename="ninja_ide/gui/menus/menu_file.py" line="59"/>
+        <source>Save Pro&amp;ject  (%s)</source>
+        <translation>Enregistrer le Pro&amp;jet (%s)</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="73"/>
-        <source>Activate Profile</source>
-        <translation>Activer le Profil</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="76"/>
-        <source>Deactivate Profile</source>
-        <translation>Désactiver le Profil</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="80"/>
-        <source>Pr&amp;int File (%1)</source>
-        <translation>&amp;Imprimer le Fichier (%1)</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="84"/>
-        <source>&amp;Close Tab (%1)</source>
-        <translation>&amp;Fermer l&apos;Onglet (%1)</translation>
+        <location filename="ninja_ide/gui/menus/menu_file.py" line="65"/>
+        <source>Reload File (%s)</source>
+        <translation>Recharger le Fichier (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_file.py" line="89"/>
@@ -1287,7 +1315,17 @@ ou les Coller avec : %2</translation>
         <translation>&amp;Fermer Tous les Projets</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="93"/>
+        <location filename="ninja_ide/gui/menus/menu_file.py" line="80"/>
+        <source>Open Recent Files</source>
+        <translation>Ouvrir les Fichiers Récents</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/menus/menu_file.py" line="84"/>
+        <source>&amp;Close Tab (%1)</source>
+        <translation>&amp;Fermer l&apos;Onglet (%1)</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/menus/menu_file.py" line="102"/>
         <source>&amp;Exit</source>
         <translation>&amp;Quitter</translation>
     </message>
@@ -1314,18 +1352,13 @@ ou les Coller avec : %2</translation>
     <name>MenuProject</name>
     <message>
         <location filename="ninja_ide/gui/menus/menu_project.py" line="33"/>
-        <source>Run Project (%1)</source>
-        <translation>Lancer le Projet (%1)</translation>
+        <source>Run Project (%s)</source>
+        <translation>Lancer le Projet (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_project.py" line="42"/>
-        <source>Run File (%1)</source>
-        <translation>Lancer le Fichier (%1)</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_project.py" line="47"/>
-        <source>Stop (%1)</source>
-        <translation>Arrêter (%1)</translation>
+        <source>Run File (%s)</source>
+        <translation>Lancer le Fichier (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_project.py" line="52"/>
@@ -1341,49 +1374,9 @@ ou les Coller avec : %2</translation>
 <context>
     <name>MenuSource</name>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="35"/>
-        <source>Indent More (%1)</source>
-        <translation>Plus Indenter (%1)</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="39"/>
-        <source>Indent Less (%1)</source>
-        <translation>Moins Indenter (%1)</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="45"/>
-        <source>Comment (%1)</source>
-        <translation>Commenter (%1)</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="50"/>
-        <source>Uncomment (%1)</source>
-        <translation>Décommenter (%1)</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="55"/>
-        <source>Insert Horizontal Line (%1)</source>
-        <translation>Insérer une Ligne Horizontale (%1)</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="59"/>
-        <source>Insert Title Comment (%1)</source>
-        <translation>Insérer un Commentaire de Titre (%1)</translation>
-    </message>
-    <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="63"/>
         <source>Count Code Lines</source>
         <translation>Compter les Lignes de Code</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="69"/>
-        <source>Go To Definition (%1 or %2+Click)</source>
-        <translation>Aller à la Définition (%1 ou %2+Clic)</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="75"/>
-        <source>Insert &amp;Import (%1)</source>
-        <translation>Insérer &amp;Import (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="80"/>
@@ -1406,72 +1399,52 @@ ou les Coller avec : %2</translation>
         <translation>Remplacer les Tabulations par des E&amp;spaces</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="94"/>
-        <source>Move &amp;Up (%1)</source>
-        <translation>Déplacer vers le &amp;Haut (%1)</translation>
+        <location filename="ninja_ide/gui/menus/menu_source.py" line="35"/>
+        <source>Indent More (%s)</source>
+        <translation>Indenter Plus(%s)</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="97"/>
-        <source>Move &amp;Down (%1)</source>
-        <translation>Déplacer vers le &amp;Bas (%1)</translation>
+        <location filename="ninja_ide/gui/menus/menu_source.py" line="39"/>
+        <source>Indent Less (%s)</source>
+        <translation>Indenter Moins (%s)</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="100"/>
-        <source>Duplica&amp;te (%1)</source>
-        <translation>&amp;Dupliquer (%1)</translation>
+        <location filename="ninja_ide/gui/menus/menu_source.py" line="45"/>
+        <source>Comment (%s)</source>
+        <translation>Commenter (%s)</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="104"/>
-        <source>&amp;Remove Line (%1)</source>
-        <translation>Supprime&amp;r la Ligne (%1)</translation>
+        <location filename="ninja_ide/gui/menus/menu_source.py" line="50"/>
+        <source>Uncomment (%s)</source>
+        <translation>Décommenter (%s)</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/menus/menu_source.py" line="55"/>
+        <source>Insert Horizontal Line (%s)</source>
+        <translation>Insérer une Ligne Horizontale (%s)</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/menus/menu_source.py" line="59"/>
+        <source>Insert Title Comment (%s)</source>
+        <translation>Insérer un Commentaire de Titre (%s)</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/menus/menu_source.py" line="69"/>
+        <source>Go To Definition (%s or %s+Click)</source>
+        <translation>Aller À la Définition (%s ou %s+Clic)</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/menus/menu_source.py" line="75"/>
+        <source>Insert &amp;Import (%s)</source>
+        <translation>Insérer un &amp;Import (%s)</translation>
     </message>
 </context>
 <context>
     <name>MenuView</name>
     <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="36"/>
-        <source>Show/Hide &amp;Console (%1)</source>
-        <translation>Afficher/Cacher la &amp;Console (%1)</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="41"/>
-        <source>Show/Hide &amp;Editor (%1)</source>
-        <translation>Afficher/Cacher l&apos;Édit&amp;eur (%1)</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="46"/>
-        <source>Show/Hide &amp;All (%1)</source>
-        <translation>Tout &amp;Afficher/Cacher (%1)</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="51"/>
-        <source>Show/Hide &amp;Explorer (%1)</source>
-        <translation>Afficher/Cacher l&apos;Explorat&amp;eur (%1)</translation>
-    </message>
-    <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="56"/>
         <source>Show/Hide &amp;Toolbar</source>
         <translation>Afficher/Cacher la Barre d&apos;Ou&amp;tils</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="59"/>
-        <source>Full Screen &amp;Mode (%1)</source>
-        <translation>&amp;Mode Plein Écran (%1)</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="65"/>
-        <source>Split Tabs Horizontally (%1)</source>
-        <translation>Séparer les Onglets Horizontalement (%1)</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="70"/>
-        <source>Split Tabs Vertically (%1)</source>
-        <translation>Séparer les Onglets Verticalement (%1)</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="75"/>
-        <source>Follow Mode (%1)</source>
-        <translation>Mode Suivi (%1)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="80"/>
@@ -1502,6 +1475,11 @@ ou les Coller avec : %2</translation>
         <location filename="ninja_ide/gui/menus/menu_view.py" line="91"/>
         <source>Fade Out (Alt+Wheel-Down)</source>
         <translation>Fondre Dehors (Alt+Molette Arrière)</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/menus/menu_view.py" line="70"/>
+        <source>Split Tabs Vertically (%1)</source>
+        <translation>Séparer les Onglets Verticalement (%1)</translation>
     </message>
 </context>
 <context>
@@ -1558,11 +1536,6 @@ ou les Coller avec : %2</translation>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="292"/>
         <source>Virtualenv Folder:</source>
         <translation>Répertoire Virtualenv :</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="313"/>
-        <source>Examine...</source>
-        <translation>Examiner…</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="352"/>
@@ -1734,11 +1707,6 @@ dans un autre projet et revenir exactement là où vous en étiez.</translation>
         <location filename="ninja_ide/tools/ui_tools.py" line="469"/>
         <source>Projects:</source>
         <translation>Projets :</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="482"/>
-        <source>Profile %1 Updated!</source>
-        <translation>Profil %1 Mis à Jour !</translation>
     </message>
 </context>
 <context>
@@ -2050,11 +2018,6 @@ afin d&apos;améliorer le Complètement de Code.</translation>
         <source>Find Whole Words</source>
         <translation>Rechercher des Mots Entiers</translation>
     </message>
-    <message>
-        <location filename="ninja_ide/gui/status_bar.py" line="272"/>
-        <source>Press %1</source>
-        <translation>Pressez %1</translation>
-    </message>
 </context>
 <context>
     <name>ShortcutConfiguration</name>
@@ -2229,14 +2192,14 @@ afin d&apos;améliorer le Complètement de Code.</translation>
         <translation>Afficher l&apos;Aide de Python</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="166"/>
-        <source>Split Tabs Horizontally</source>
-        <translation>Séparer les Onglets Horizontalement</translation>
-    </message>
-    <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="167"/>
         <source>Split Tabs Vertically</source>
         <translation>Séparer les Onglets Verticalement</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="166"/>
+        <source>Split Tabs Horizontally</source>
+        <translation>Séparer les Onglets Horizontalement</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="168"/>
@@ -2373,6 +2336,11 @@ afin d&apos;améliorer le Complètement de Code.</translation>
         <source>Do you want to remove it?</source>
         <translation>Voulez-vous le supprimer ?</translation>
     </message>
+    <message>
+        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="191"/>
+        <source>Move the current Tab to the next split.</source>
+        <translation>Déplacer l&apos;Onglet courant vers la séparation suivante.</translation>
+    </message>
 </context>
 <context>
     <name>ShortcutDialog</name>
@@ -2431,25 +2399,6 @@ afin d&apos;améliorer le Complètement de Code.</translation>
 <context>
     <name>TabWidget</name>
     <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="179"/>
-        <source>%1
-Do you want to reload it?</source>
-        <translation>%1
-Voulez-vous le recharger ?</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="188"/>
-        <source>%1
-</source>
-        <translation>%1
-</translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="269"/>
-        <source>The file %1 was not saved</source>
-        <translation>Le fichier %1 n&apos;a pas été enregistré</translation>
-    </message>
-    <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="269"/>
         <source>Do you want to save before closing?</source>
         <translation>Voulez-vous enregistrer avant de fermer ?</translation>
@@ -2495,14 +2444,14 @@ Voulez-vous le recharger ?</translation>
         <translation>Fermer la Séparation</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="356"/>
-        <source>Split this Tab (Horizontally)</source>
-        <translation>Séparer cet Onglet (Horizontallement)</translation>
-    </message>
-    <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="358"/>
         <source>Split this Tab (Vertically)</source>
         <translation>Séparer cet Onglet (Verticalement)</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="356"/>
+        <source>Split this Tab (Horizontally)</source>
+        <translation>Séparer cet Onglet (Horizontallement)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="366"/>
@@ -2599,11 +2548,6 @@ Voulez-vous le recharger ?</translation>
 </context>
 <context>
     <name>TrayIconUpdates</name>
-    <message>
-        <location filename="ninja_ide/gui/updates.py" line="62"/>
-        <source>Download Version: %1!</source>
-        <translation>Télécharger la Version : %1 !</translation>
-    </message>
     <message>
         <location filename="ninja_ide/gui/updates.py" line="67"/>
         <source>Close Update Notifications</source>
@@ -2946,24 +2890,23 @@ Nom du Profil :</translation>
         <translation>Le nom de Profil est invalide ou existe déjà.</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/actions.py" line="533"/>
-        <source>Lines code: %1
+        <location filename="ninja_ide/gui/actions.py" line="557"/>
+        <source>Lines code: %s
 </source>
-        <translation>Lignes de code : %1
-</translation>
+        <translation>Lignes de code : %s</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/actions.py" line="535"/>
-        <source>Blanks and commented lines: %1
+        <location filename="ninja_ide/gui/actions.py" line="558"/>
+        <source>Blanks and commented lines: %s
 
 </source>
-        <translation>Lignes vides et commententées : %1
+        <translation>Lignes vides et commententées : %s
 </translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/actions.py" line="537"/>
-        <source>Total lines: %1</source>
-        <translation>Total de lignes : %1</translation>
+        <location filename="ninja_ide/gui/actions.py" line="560"/>
+        <source>Total lines: %s</source>
+        <translation>Total de lignes : %s</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="538"/>
@@ -2978,6 +2921,11 @@ Nom du Profil :</translation>
 </context>
 <context>
     <name>__ExplorerContainer</name>
+    <message>
+        <location filename="ninja_ide/gui/explorer/explorer_container.py" line="120"/>
+        <source>Migration 2to3</source>
+        <translation>Migration 2 vers 3</translation>
+    </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="112"/>
         <source>Projects</source>
@@ -3097,11 +3045,11 @@ Nom du Profil :</translation>
         <translation>Certaines modifictions n&apos;on pas été enregistrées</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/ide.py" line="412"/>
-        <source>%1
+        <location filename="ninja_ide/gui/ide.py" line="436"/>
+        <source>%s
 
 Do you want to exit anyway?</source>
-        <translation>%1
+        <translation>%s
 
 Voulez-vous tout de même quitter ?</translation>
     </message>
@@ -3146,9 +3094,9 @@ The content will be completely deleted.</source>
 Le contenu sera entièrement supprimé.</translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/main_panel/main_container.py" line="594"/>
-        <source>File Saved: %1</source>
-        <translation>Fichier Enregistré : %1</translation>
+        <location filename="ninja_ide/gui/main_panel/main_container.py" line="665"/>
+        <source>File Saved: %s</source>
+        <translation>Fichier Enregistré : %s</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="608"/>
@@ -3185,6 +3133,11 @@ Le contenu sera entièrement supprimé.</translation>
         <source>Python Documentation</source>
         <translation>Documentation de Python</translation>
     </message>
+    <message>
+        <location filename="ninja_ide/gui/main_panel/main_container.py" line="594"/>
+        <source>File Saved: %1</source>
+        <translation>Fichier Enregistré : %1</translation>
+    </message>
 </context>
 <context>
     <name>__MiscContainer</name>
@@ -3207,6 +3160,11 @@ Le contenu sera entièrement supprimé.</translation>
         <location filename="ninja_ide/gui/misc/misc_container.py" line="89"/>
         <source>Find in Files</source>
         <translation>Rechercher dans les Fichiers</translation>
+    </message>
+    <message>
+        <location filename="ninja_ide/gui/misc/misc_container.py" line="107"/>
+        <source>F4: Show/Hide</source>
+        <translation>F4 : Afficher/Cacher</translation>
     </message>
 </context>
 <context>
