@@ -167,7 +167,7 @@ NINJA-IDE fornisce strumenti per semplificare lo sviluppo di software in Python,
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1123"/>
         <source>Complete:</source>
-        <translation type="unfinished"></translation>
+        <translation>Completa:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1125"/>
@@ -268,7 +268,7 @@ NINJA-IDE fornisce strumenti per semplificare lo sviluppo di software in Python,
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="998"/>
         <source>Find and Show Check Style errors.</source>
         <translatorcomment>&quot;check&quot; don&apos;t sounds good in italian...</translatorcomment>
-        <translation type="unfinished">Trova e mostra errori di style.</translation>
+        <translation>Trova e mostra errori di stile.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1004"/>
@@ -283,7 +283,7 @@ NINJA-IDE fornisce strumenti per semplificare lo sviluppo di software in Python,
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1016"/>
         <source>Center on Scroll.</source>
-        <translation type="unfinished"></translation>
+        <translation>Centra o scorri</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1022"/>
@@ -312,53 +312,53 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="769"/>
         <source>MiniMap:</source>
-        <translation type="unfinished"></translation>
+        <translation>MiniMap:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="770"/>
         <source>Typography:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipografia:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="771"/>
         <source>Scheme Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Schema dei colori</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="793"/>
         <source>Enable/Disable MiniMap (Requires restart):
 (opacity not supported in MAC OS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Abilita/disabilita il MiniMap (richiede il riavvio): (l&apos;opacità non è supportata in Mac OS</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="797"/>
         <source>Max Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacit&agrave; massima:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="799"/>
         <source>Min Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacit&agrave; minima:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="801"/>
         <source>Size Area relative to the Editor:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adatta l&area di lavoro all&apos;editor:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="811"/>
         <source>Editor Font:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Font dell&apos;editor:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="893"/>
         <source>Invalid Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Font non valido</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="893"/>
         <source>This font can not be used in the Editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo font non può essere usato nell&editor.</translation>
     </message>
 </context>
 <context>
@@ -376,42 +376,42 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1265"/>
         <source>Save Scheme!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Salva schema!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1269"/>
         <source>Keyword:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parola chiave:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1272"/>
         <source>Operator:</source>
-        <translation type="unfinished"></translation>
+        <translation>Operatore:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1275"/>
         <source>Braces:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parentesi:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1278"/>
         <source>Definition:</source>
-        <translation type="unfinished"></translation>
+        <translation>Definizione:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1281"/>
         <source>String:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stringa:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1284"/>
         <source>String2:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stringa 2:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1287"/>
         <source>Comment:</source>
-        <translation type="unfinished"></translation>
+        <translation>Commento:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1290"/>
@@ -421,47 +421,47 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1293"/>
         <source>Numbers:</source>
-        <translation type="unfinished"></translation>
+        <translation>Numeri:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1296"/>
         <source>Spaces:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spazi:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1299"/>
         <source>Extras:</source>
-        <translation type="unfinished"></translation>
+        <translation>Extra:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1302"/>
         <source>Editor Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Testo dell&apos;editor:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1305"/>
         <source>Editor Background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sfondo dell&apos;editor:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1308"/>
         <source>Editor Selection Color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Colore di selezione</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1311"/>
         <source>Editor Selection Background:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sfondo di selezione:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1314"/>
         <source>Editor Selected Word:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parola selezionata:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1317"/>
         <source>Current Line:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Riga attuale:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1320"/>
