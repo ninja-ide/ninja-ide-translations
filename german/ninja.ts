@@ -2583,17 +2583,17 @@ Do you want to reload it?</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1677"/>
         <source>&lt;b&gt;Select Theme:&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Wähle Thema:&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Wähle Erscheinungsbild:&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1681"/>
         <source>Delete Theme</source>
-        <translation>Lösche Thema</translation>
+        <translation>Lösche Erscheinungsbild</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1682"/>
         <source>Preview Theme</source>
-        <translation>Themavorschau</translation>
+        <translation>Erscheinungsbildvorschau</translation>
     </message>
 </context>
 <context>
@@ -2601,12 +2601,12 @@ Do you want to reload it?</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1761"/>
         <source>&lt;b&gt;New Theme Name:&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Neuer Thema name&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Neuer Erscheinungsbildname&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1764"/>
         <source>Save Theme</source>
-        <translation>Speichere Thema</translation>
+        <translation>Speichere Erscheinungsbild</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1771"/>
@@ -2621,7 +2621,7 @@ Do you want to reload it?</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1819"/>
         <source>Theme saved at: &apos;%s&apos;.</source>
-        <translation>Thema gespeichert als: &apos;%s&apos;.</translation>
+        <translation>Erscheinungsbild gespeichert als: &apos;%s&apos;.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1823"/>
@@ -2639,7 +2639,7 @@ Do you want to reload it?</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/themes_manager.py" line="50"/>
         <source>Themes Manager</source>
-        <translation>Themenmanager</translation>
+        <translation>Erscheinungsbild Manager</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/themes_manager.py" line="58"/>
