@@ -1793,42 +1793,42 @@ project and then go back exactly where you left.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="150"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Name:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="158"/>
         <source>Project Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekttyp:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="165"/>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Beschreibung:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="169"/>
         <source>URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="173"/>
         <source>Licence:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizenz:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="193"/>
         <source>Supported Extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterstützte Erweiterungen:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="196"/>
         <source>Indentation: </source>
-        <translation type="unfinished"></translation>
+        <translation>Einrückung:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="201"/>
         <source>Use Tabs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutze Tabs.</translation>
     </message>
 </context>
 <context>
@@ -1836,87 +1836,87 @@ project and then go back exactly where you left.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="213"/>
         <source>Main File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hauptdatei:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="230"/>
         <source>Python Custom Interpreter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Python Custom Interpreter:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="235"/>
         <source>Custom PYTHONPATH:</source>
-        <translation type="unfinished"></translation>
+        <translation>Custom PYTHONPATH:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="238"/>
         <source>One path per line</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Pfad pro Zeile</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="247"/>
         <source>Pre-exec Script:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre-exec Script:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="256"/>
         <source>Post-exec Script:</source>
-        <translation type="unfinished"></translation>
+        <translation>Post-exec Script:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="264"/>
         <source>Properties:</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="266"/>
         <source>Separate the params with commas (ie: help, verbose)</source>
-        <translation type="unfinished"></translation>
+        <translation>Trenne die Paramater mit Kommas (z.B: help, verbose)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="269"/>
         <source>Params (comma separated):</source>
-        <translation type="unfinished"></translation>
+        <translation>Parameter (Komma-getrennt):</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="278"/>
         <source>Virtualenv Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Virtualenv Ordner:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="293"/>
         <source>Select Python Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Wähle Python-pfad aus</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="298"/>
         <source>Select Virtualenv Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Wähle Virtualenv-ordner aus</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="306"/>
         <source>Virtualenv Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Virtualenv-ordner</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="306"/>
         <source>This is not a valid Virtualenv Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Das ist kein gültiger Virtualenv-ordner</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="314"/>
         <source>Select Main File</source>
-        <translation type="unfinished"></translation>
+        <translation>Wähle Hauptdatei aus</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="323"/>
         <source>Select Pre Execution Script File</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie eine Pre Execution Script-datei aus</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="332"/>
         <source>Select Post Execution Script File</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie eine Post Execution Script-datei aus</translation>
     </message>
 </context>
 <context>
@@ -1925,12 +1925,12 @@ project and then go back exactly where you left.</source>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="348"/>
         <source>Insert the path of Python Projects relatedto this one in order
 to improve Code Completion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie den Pfad zum Pythonprojekt relativ zu diesem an, um die Codevervollständigung zu verbessern.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="353"/>
         <source>Split your paths using newlines [ENTER].</source>
-        <translation type="unfinished"></translation>
+        <translation>Splitte die Pfade mit newlines [ENTER].</translation>
     </message>
 </context>
 <context>
@@ -1938,42 +1938,42 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="62"/>
         <source>Project Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekteinstellungen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="68"/>
         <source>Project Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektdaten</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="69"/>
         <source>Project Execution</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektausführung</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="71"/>
         <source>Project Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekt Metadaten</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="75"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="76"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="88"/>
         <source>Properties Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen ungültig</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="88"/>
         <source>The Project must have a name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Projekt muss einen Namen haben.</translation>
     </message>
 </context>
 <context>
@@ -1994,27 +1994,27 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="61"/>
         <source>no description available</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Beschreibung verfügbar</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="63"/>
         <source>Click to delete from the list</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken um von der Liste zu entfernen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="64"/>
         <source>Click to dock on the list</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken um an die Liste zu docken</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="106"/>
         <source>Click to remove from favorite projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken um von den favorisierten Projekten zu entfernen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="110"/>
         <source>Click to add to favorite projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken um zu den favorisierten Projekten hinzuzufügen</translation>
     </message>
 </context>
 <context>
@@ -2058,39 +2058,39 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="55"/>
         <source>Input:</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="100"/>
         <source>Failed to start</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Starten</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="103"/>
         <source>Error during execution, QProcess error: %d</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler während der Ausführung, QProcess Fehler: %d</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="116"/>
         <source>Execution Successful!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausführung erfolgreich!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="120"/>
         <source>Execution Interrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausführung unterbrochen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="153"/>
         <source>Pre Execution Script Successfully executed.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Pre Exection Script erfolgreich ausgeführt.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="223"/>
         <source>Post Execution Script Successfully executed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Post Execution Script erfolgreich ausgeführt.</translation>
     </message>
 </context>
 <context>
@@ -2444,12 +2444,12 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="72"/>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Akzeptieren</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="73"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -2470,27 +2470,27 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="488"/>
         <source>Right click to change navigation options</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtsklick um die Navigationsoptionen zu ändern</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="494"/>
         <source>Navigate</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigiere</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="495"/>
         <source>Code Jumps</source>
-        <translation type="unfinished"></translation>
+        <translation>Codesprünge</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="499"/>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Lesezeichen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="502"/>
         <source>Breakpoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Breakpoints</translation>
     </message>
 </context>
 <context>
@@ -2499,83 +2499,85 @@ to improve Code Completion.</source>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="185"/>
         <source>%s
 Do you want to reload it?</source>
-        <translation type="unfinished"></translation>
+        <translation>%s
+Möchten Sie das neu laden?</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="194"/>
         <source>%s
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%s
+</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="274"/>
         <source>The file %s was not saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei %s wurde nicht gespeichert</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="274"/>
         <source>Do you want to save before closing?</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie vor dem Schließen speichern?</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="328"/>
         <source>Add to Project...</source>
-        <translation type="unfinished"></translation>
+        <translation>Füge zum Projekt hinzu...</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="329"/>
         <source>Run this File!</source>
-        <translation type="unfinished"></translation>
+        <translation>Führe diese Datei aus!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="330"/>
         <source>Change Syntax</source>
-        <translation type="unfinished"></translation>
+        <translation>Verändere Syntax</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="333"/>
         <source>Close This Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließe diesen Tab</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="334"/>
         <source>Close All Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließe alle Tabs</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="335"/>
         <source>Close Other Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließe alle anderen Tabs</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="339"/>
         <source>Move this Tab to the other Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Verschiebe diesen Tab zum anderen Split</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="341"/>
         <source>Close Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließe Split</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="350"/>
         <source>Split this Tab (Vertically)</source>
-        <translation type="unfinished"></translation>
+        <translation>Teile diesen Tab (Vertikal)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="352"/>
         <source>Split this Tab (Horizontally)</source>
-        <translation type="unfinished"></translation>
+        <translation>Teile diesen Tab (Horizontal)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="360"/>
         <source>Copy file location to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiere diesen Ort zum Clipboard</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="362"/>
         <source>Reopen last closed File</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffne die zuletzt geschlossene Datei</translation>
     </message>
 </context>
 <context>
@@ -2704,157 +2706,157 @@ Prüfe das Updatemenü im NINJA-IDE System Tray Icon zum Runterladen!</translati
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="201"/>
         <source>Run Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Führe Projekt aus</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="205"/>
         <source>Set as Main Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Setze als Hauptprojekt</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="209"/>
         <source>Remove this Project from the Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Entferne dieses Projekt von der Pythonkonsole</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="214"/>
         <source>Add this Project to the Python Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Füge dieses Projekt der Pythonkonsole hinzu</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="218"/>
         <source>Project Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekteinstellungen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="224"/>
         <source>Refresh Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualisiere Projekt</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="229"/>
         <source>Close Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließe Projekt</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="241"/>
         <source>Add New File</source>
-        <translation type="unfinished"></translation>
+        <translation>Füge neue Datei hinzu</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="245"/>
         <source>Add New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Füge neuen Ordner hinzu</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="249"/>
         <source>Create &apos;__init__&apos; Complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstelle &apos;__init__&apos;</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="254"/>
         <source>Remove Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Entferne Ordner</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="512"/>
         <source>Rename File</source>
-        <translation type="unfinished"></translation>
+        <translation>Benenne Datei um</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="266"/>
         <source>Move File</source>
-        <translation type="unfinished"></translation>
+        <translation>Verschiebe Datei</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="551"/>
         <source>Copy File</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiere Datei</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="482"/>
         <source>Delete File</source>
-        <translation type="unfinished"></translation>
+        <translation>Lösche Datei</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="281"/>
         <source>Edit UI File</source>
-        <translation type="unfinished"></translation>
+        <translation>Editiere UI Datei</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="413"/>
         <source>Create INIT fail</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstelle INIT fail</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="423"/>
         <source>New File</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Datei</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="423"/>
         <source>Enter the File Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie den Dateinamen an:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="589"/>
         <source>File Already Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei existiert bereits</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="589"/>
         <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiger Pfad: Die Datei &apos;%s&apos; existiert bereits.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="467"/>
         <source>New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuer Ordner</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="467"/>
         <source>Enter the Folder Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie den Ordnernamen an:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="482"/>
         <source>Do you want to delete the following file: </source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie die folgende Datei löschen: </translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="497"/>
         <source>Delete Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Lösche Ordner</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="497"/>
         <source>Do you want to delete the following folder: </source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie den folgenden Ordner löschen: </translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="512"/>
         <source>Enter New File Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie einen neuen Dateinamen an:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="575"/>
         <source>Copy File to</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiere Datei nach</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="551"/>
         <source>File Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateiname:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="554"/>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiger Name</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="554"/>
         <source>The file name is empty, please enter a name</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Dateiname ist leer, bitte geben Sie einen Namen ein</translation>
     </message>
 </context>
 <context>
@@ -2862,12 +2864,12 @@ Prüfe das Updatemenü im NINJA-IDE System Tray Icon zum Runterladen!</translati
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="45"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Beschreibung</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="45"/>
         <source>Shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Shortcut</translation>
     </message>
 </context>
 <context>
