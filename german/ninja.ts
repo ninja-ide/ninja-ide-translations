@@ -1981,12 +1981,12 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="175"/>
         <source>Incorrect Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Falscher Ort</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="175"/>
         <source>The project couldn&apos;t be create</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Projekt konnte nicht erstellt werden</translation>
     </message>
 </context>
 <context>
@@ -2022,17 +2022,17 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/status_bar.py" line="363"/>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersetze</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/status_bar.py" line="364"/>
         <source>Replace All</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersetze alle</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/status_bar.py" line="365"/>
         <source>Replace Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ersetze Auswahl</translation>
     </message>
 </context>
 <context>
@@ -2040,17 +2040,17 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/misc/results.py" line="38"/>
         <source>Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhalt</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/results.py" line="38"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/results.py" line="38"/>
         <source>Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeile</translation>
     </message>
 </context>
 <context>
@@ -2098,17 +2098,17 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/status_bar.py" line="257"/>
         <source>Respect Case Sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Achte auf Großschreibung</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/status_bar.py" line="258"/>
         <source>Find Whole Words</source>
-        <translation type="unfinished"></translation>
+        <translation>Finde ganze Wörter</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/status_bar.py" line="271"/>
         <source>Press %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Drücke %s</translation>
     </message>
 </context>
 <context>
@@ -2457,12 +2457,12 @@ to improve Code Completion.</source>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_group.py" line="45"/>
         <source>Expand this Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweitere diese Datei</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_group.py" line="46"/>
         <source>Expand all Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Erweitere alle Gruppen</translation>
     </message>
 </context>
 <context>
@@ -2654,7 +2654,7 @@ Do you want to reload it?</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/themes_manager.py" line="88"/>
         <source>Editor Schemes</source>
-        <translation>Editorschemen</translation>
+        <translation>Editor Schemes</translation>
     </message>
 </context>
 <context>
@@ -2875,42 +2875,42 @@ Prüfe das Updatemenü im NINJA-IDE System Tray Icon zum Runterladen!</translati
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="74"/>
         <source>Fold all</source>
-        <translation type="unfinished"></translation>
+        <translation>Klappe alle zusammen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="75"/>
         <source>Unfold all</source>
-        <translation type="unfinished"></translation>
+        <translation>Klappe alle aus</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="77"/>
         <source>Unfold classes</source>
-        <translation type="unfinished"></translation>
+        <translation>Klappe Klassen aus</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="78"/>
         <source>Unfold classes and methods</source>
-        <translation type="unfinished"></translation>
+        <translation>Klappe Klassen und Methoden aus</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="79"/>
         <source>Unfold classes and attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Klappe Klassen und Attribute aus</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="152"/>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Attribute</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="161"/>
         <source>Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktionen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="172"/>
         <source>Classes</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassen</translation>
     </message>
 </context>
 <context>
@@ -2934,28 +2934,29 @@ Prüfe das Updatemenü im NINJA-IDE System Tray Icon zum Runterladen!</translati
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="66"/>
         <source>NINJA - New Project Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>NINJA - Neues Projekt Assistent </translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="113"/>
         <source>Virtualenv Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Virtualenv Ordner</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="113"/>
         <source>Folder don&apos;t exists or this is not a valid Folder.
  If you want to set or modify, go to project properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordner existiert nicht oder ist ungültig.
+Falls Sie ihn setzen oder verändern möchten gehen Sie in die Projekteinstellungen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="113"/>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Zurück</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="113"/>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortfahren</translation>
     </message>
 </context>
 <context>
@@ -2963,81 +2964,82 @@ Prüfe das Updatemenü im NINJA-IDE System Tray Icon zum Runterladen!</translati
     <message>
         <location filename="ninja_ide/gui/actions.py" line="433"/>
         <source>Add File To Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Füge Datei zum Projekt hinzu</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="433"/>
         <source>File Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateiname:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="436"/>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiger Name</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="436"/>
         <source>The file name is empty, please enter a name</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Dateiname ist leer; bitte fügen Sie einen hinzu</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="459"/>
         <source>File Already Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei existiert bereits</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="459"/>
         <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiger Pfad: Die Datei &apos;%s&apos; existiert bereits.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="492"/>
         <source>Create Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstelle Profil</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="492"/>
         <source>The Current Files and Projects will be associated to this profile.
 Profile Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Die aktuelle Dateuen und Projekte werden mit diesem Profil verknüpft.
+Profilname:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="500"/>
         <source>Profile Name Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Profilname ungültig</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="500"/>
         <source>The Profile name is invalid or already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Profilname ist ungültig oder existiert bereits.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="557"/>
         <source>Lines code: %s
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl Zeilen: %s</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="558"/>
         <source>Blanks and commented lines: %s
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Leere und auskommentierte zeilen: %s</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="560"/>
         <source>Total lines: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl Zeilen: %s</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="561"/>
         <source>Summary of lines</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Summary of lines</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="999"/>
         <source>Class Diagram v.0.1</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassendiagramm v.0.1</translation>
     </message>
 </context>
 <context>
@@ -3045,77 +3047,77 @@ Profile Name:</source>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="120"/>
         <source>Migration 2to3</source>
-        <translation type="unfinished"></translation>
+        <translation>Migration 2to3</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="125"/>
         <source>Projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Projekte</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="154"/>
         <source>Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbole</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="168"/>
         <source>Web Inspector not Supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Web Inspector nicht unterstützt</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="168"/>
         <source>Your Qt version doesn&apos;t support the Web Inspector</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihre Qt-version ünterstützt den Web Inspector nicht</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="218"/>
         <source>Web Inspector</source>
-        <translation type="unfinished"></translation>
+        <translation>Web Inspector</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="180"/>
         <source>Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="213"/>
         <source>Dock</source>
-        <translation type="unfinished"></translation>
+        <translation>Ankoppeln</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="219"/>
         <source>Undock</source>
-        <translation type="unfinished"></translation>
+        <translation>Auskoppeln</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="318"/>
         <source>Projects Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktivierte Projekte</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="318"/>
         <source>Project support has been disabled from Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Projektsupport wurde in den Einstellungen deaktiviert</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="269"/>
         <source>Open Project Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffne Projektordner</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="291"/>
         <source>Incorrect Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiges Projekt</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="291"/>
         <source>The project could not be loaded!</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Projekt konnte nicht geladen werden!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="376"/>
         <source>no description available</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Beschreibung vorhanden</translation>
     </message>
 </context>
 <context>
@@ -3123,54 +3125,56 @@ Profile Name:</source>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="133"/>
         <source>Press and Drag to Move</source>
-        <translation type="unfinished"></translation>
+        <translation>Drücke und halte zum verschieben</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="146"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Datei</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="147"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bearbeiten</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="148"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ansehen</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="149"/>
         <source>&amp;Source</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Quelle</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="150"/>
         <source>&amp;Project</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Project</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="151"/>
         <source>&amp;Addins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Add-ins</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="152"/>
         <source>Abou&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>Ü&amp;ber</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="436"/>
         <source>Some changes were not saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Einige Änderungen wurden nicht gespeichert</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="436"/>
         <source>%s
 
 Do you want to exit anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>$s
+
+Möchten Sie trotzdem beenden?</translation>
     </message>
 </context>
 <context>
@@ -3178,78 +3182,79 @@ Do you want to exit anyway?</source>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="438"/>
         <source>Incorrect File</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Datei</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="438"/>
         <source>The image couldn&apos;t be open</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Bild konnte nicht geöffnet werden</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="458"/>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffne Datei</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="506"/>
         <source> (Read-Only)</source>
-        <translation type="unfinished"></translation>
+        <translation> (nur lesend)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="521"/>
         <source>The file couldn&apos;t be open</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei konnte nicht geöffnet werden</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="588"/>
         <source>Close Deleted File</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließe gelöschte Datei</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="588"/>
         <source>Are you sure you want to close the deleted file?
 The content will be completely deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sind sie sicher, dass sie die gelöschte Datei schließen möchten?
+Der Inhalt wird endgültig gelöscht.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="665"/>
         <source>File Saved: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei gespeichert: %s</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="680"/>
         <source>Save Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Speichern</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="680"/>
         <source>The file couldn&apos;t be saved!</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei konnte nicht gespeichert werden!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="646"/>
         <source>Save File</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichere Datei</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="674"/>
         <source>File Already Exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei existiert bereits</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="674"/>
         <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiger Pfad: Die Datei &apos;%s&apos; existiert bereits.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="682"/>
         <source>New Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Neues Dokument</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="771"/>
         <source>Python Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Python Dokumentation</translation>
     </message>
 </context>
 <context>
