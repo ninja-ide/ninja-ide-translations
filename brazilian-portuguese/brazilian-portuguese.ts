@@ -15,7 +15,7 @@ cross-platform integrated development environment specially design
 to build Python Applications.
 NINJA-IDE provides tools to simplify the Python-software development
 and handles all kinds of situations thanks to its rich extensibility.</source>
-        <translation>NINJA-IDE (de: &quot;Ninja Is Not Just Another IDE, Ninja não é apenas outra IDE), É um
+        <translation>NINJA-IDE (de: &quot;Ninja Is Not Just Another IDE, Ninja não é apenas outra IDE), é um
 ambiente de desenvolvimento integrado cross-plataforma desenvolvido especialmente
 para criaçãao de aplicações Python
 NINJA-IDE fornece ferramentas para simplificar o desenvolvimento de softwares em Python
@@ -298,7 +298,7 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1027"/>
         <source>Show Tabs and Spaces.</source>
-        <translation>Exibir Tabs e Espaços.</translation>
+        <translation>Exibir Tabulações e Espaços.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1031"/>
@@ -333,22 +333,22 @@ adicionar ultima linha automaticamente.</translation>
         <source>Enable/Disable MiniMap (Requires restart):
 (opacity not supported in MAC OS)</source>
         <translation>Habilitar/Desabilitar MiniMapa (Requer reiniciar o programa):
-(opacidade nÃ£o suportada em MAC OS)</translation>
+(opacidade não suportada em MAC OS)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="797"/>
         <source>Max Opacity:</source>
-        <translation>MÃ¡xima Opacidade:</translation>
+        <translation>Opacidade Máxima:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="799"/>
         <source>Min Opacity:</source>
-        <translation>MÃ­nima Opacidade:</translation>
+        <translation>Opacidade Mínima:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="801"/>
         <source>Size Area relative to the Editor:</source>
-        <translation>Tamanha da area relativa ao Editor:</translation>
+        <translation>Tamanha da área relativa ao Editor:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="811"/>
@@ -358,12 +358,12 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="893"/>
         <source>Invalid Font</source>
-        <translation>Fonte invÃ¡lida</translation>
+        <translation>Fonte inválida</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="893"/>
         <source>This font can not be used in the Editor.</source>
-        <translation>Esta fonte nÃ£o pode ser usado no Editor.</translation>
+        <translation>Esta fonte não pode ser usada no Editor.</translation>
     </message>
 </context>
 <context>
@@ -401,7 +401,7 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1278"/>
         <source>Definition:</source>
-        <translation>DefiniÃ§Ã£o:</translation>
+        <translation>Definição:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1281"/>
@@ -416,7 +416,7 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1287"/>
         <source>Comment:</source>
-        <translation>ComentÃ¡rio:</translation>
+        <translation>Comentário:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1290"/>
@@ -426,12 +426,12 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1293"/>
         <source>Numbers:</source>
-        <translation>NÃºmeros:</translation>
+        <translation>Números:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1296"/>
         <source>Spaces:</source>
-        <translation>EspaÃ§os:</translation>
+        <translation>Espaços:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1299"/>
@@ -446,22 +446,22 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1305"/>
         <source>Editor Background:</source>
-        <translation>Editor Fundo:</translation>
+        <translation>Fundo do Editor:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1308"/>
         <source>Editor Selection Color:</source>
-        <translation>Editor SeleÃ§Ã£o de Cor:</translation>
+        <translation>Seleção de Cor do Editor:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1311"/>
         <source>Editor Selection Background:</source>
-        <translation>Editor SeleÃ§Ã£o de Fundo:</translation>
+        <translation>Seleção de Fundod do Editor:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1314"/>
         <source>Editor Selected Word:</source>
-        <translation>Editor Palavra selecionada:</translation>
+        <translation>Palavra selecionada do Editor:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1317"/>
@@ -521,7 +521,7 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1643"/>
         <source>Scheme already exists</source>
-        <translation>Esquema jÃ¡ existe</translation>
+        <translation>Esquema já existe</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1643"/>
@@ -541,12 +541,12 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1653"/>
         <source>Scheme Not Saved</source>
-        <translation>Esquema nÃ£o salvo</translation>
+        <translation>Esquema não salvo</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1653"/>
         <source>The name probably is invalid.</source>
-        <translation>O nome Ã© provavelmente invÃ¡lido.</translation>
+        <translation>O nome é provavelmente inválido.</translation>
     </message>
 </context>
 <context>
@@ -559,17 +559,17 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="749"/>
         <source>Configuration</source>
-        <translation>ConfiguraÃ§Ã£o</translation>
+        <translation>Configuração</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="750"/>
         <source>Completion</source>
-        <translation>ConclusÃ£o</translation>
+        <translation>Conclusão</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="751"/>
         <source>Editor Scheme Designer</source>
-        <translation>Editor Esquema de Cores</translation>
+        <translation>Esquema de Cores do Editor</translation>
     </message>
 </context>
 <context>
@@ -638,7 +638,7 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="197"/>
         <source>Search for all the words (anywhere in the document, not together).</source>
-        <translation>Procurar por todas palavras (qualquer lugar do documento, nÃ£o juntas).</translation>
+        <translation>Procurar por todas palavras (qualquer lugar do documento, não juntas).</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="200"/>
@@ -663,7 +663,7 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="215"/>
         <source>Directory: </source>
-        <translation>DiretÃ³rio:</translation>
+        <translation>Diretório:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="218"/>
@@ -673,12 +673,12 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="228"/>
         <source>Options</source>
-        <translation>OpÃ§Ãµes</translation>
+        <translation>Opções</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="299"/>
         <source>Open Directory</source>
-        <translation>Abrir diretÃ³rio</translation>
+        <translation>Abrir diretório</translation>
     </message>
 </context>
 <context>
@@ -729,14 +729,14 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="478"/>
         <source>Replace Files Contents</source>
-        <translation>Substituir conteudo dos arquivos</translation>
+        <translation>Substituir conteúdo dos arquivos</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/find_in_files.py" line="478"/>
         <source>Are you sure you want to replace the content in this files?
 (The change is not reversible)</source>
-        <translation>VocÃª tem certeza que deseja substituir o conteudo nestes arquivos?
-(A alteraÃ§Ã£o nÃ£o Ã© reversÃ­vel)</translation>
+        <translation>Você tem certeza que deseja substituir o conteudo nestes arquivos?
+(A alteração nãoo é reversí­vel)</translation>
     </message>
 </context>
 <context>
@@ -790,12 +790,12 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="164"/>
         <source>Reset NINJA-IDE Preferences:</source>
-        <translation>Resetar PreferÃªncias NINJA-IDE:</translation>
+        <translation>Resetar Preferências NINJA-IDE:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="168"/>
         <source>Load files from last session</source>
-        <translation>Carregar arquivos da ultima sessÃ£o</translation>
+        <translation>Carregar arquivos da ultima sessão</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="170"/>
@@ -805,17 +805,17 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="171"/>
         <source>Notify me of new updates.</source>
-        <translation>Avisar-me sobre novas atualizaÃ§Ãµes.</translation>
+        <translation>Avisar-me sobre novas atualizações.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="173"/>
         <source>Show Start Page</source>
-        <translation>Exibir PÃ¡gina Inicial</translation>
+        <translation>Exibir Página Inicial</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="180"/>
         <source>Confirm Exit.</source>
-        <translation>Confirma saÃ­da.</translation>
+        <translation>Confirma saí­da.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="191"/>
@@ -825,12 +825,12 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="196"/>
         <source>Supported Extensions:</source>
-        <translation>ExtensÃµes suportadas:</translation>
+        <translation>Extensões suportadas:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="202"/>
         <source>Reset preferences</source>
-        <translation>Resetar preferÃªncias</translation>
+        <translation>Resetar preferências</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="234"/>
@@ -845,12 +845,12 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="267"/>
         <source>Reset preferences?</source>
-        <translation>Resetar preferÃªncias?</translation>
+        <translation>Resetar preferências?</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="267"/>
         <source>Are you sure you want to reset your preferences?</source>
-        <translation>VocÃª tem certeza que deseja resetar suas preferÃªncias?</translation>
+        <translation>Você tem certeza que deseja resetar suas preferências?</translation>
     </message>
 </context>
 <context>
