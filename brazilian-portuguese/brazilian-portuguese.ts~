@@ -1253,7 +1253,7 @@ ou Colar utilizando: %s</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="78"/>
         <source>Preference&amp;s</source>
-        <translation>Preferência&amp;s</translation>
+        <translation>PreferÃªncia&amp;s</translation>
     </message>
 </context>
 <context>
