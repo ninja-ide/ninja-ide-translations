@@ -868,12 +868,12 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="293"/>
         <source>-B: don&apos;t write .py[co] files on import</source>
-        <translation>-B: nÃ£o escreva .py[co] arquivos ao importar</translation>
+        <translation>-B: não escreva .py[co] arquivos ao importar</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="295"/>
         <source>-d: debug output from parser</source>
-        <translation>-d: debug saÃ­da de parser</translation>
+        <translation>-d: debug saí­da de parser</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="296"/>
@@ -888,22 +888,22 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="300"/>
         <source>-OO: remove doc-strings in addition to the -O optimizations</source>
-        <translation>-OO remove doc-strings em adiÃ§ao as otimizaÃ§Ãµes -O</translation>
+        <translation>-OO remove doc-strings em adição as otimizaçoes -O</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="302"/>
         <source>-Q: division options:</source>
-        <translation>-Q opÃ§Ãµes divisÃ£o:</translation>
+        <translation>-Q opçoes de divisão:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="305"/>
         <source>-s: don&apos;t add user site directory to sys.path</source>
-        <translation>-s: nÃ£o adiciona diretÃ³rio de usuÃ¡rio ao sys.path</translation>
+        <translation>-s: não adiciona diretório de usuário ao sys.path</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="307"/>
         <source>-S: don&apos;t imply &apos;import site&apos; on initialization</source>
-        <translation>-S: nÃ£o implica &apos;importar local&apos; na inicializaÃ§Ã£o</translation>
+        <translation>-S: não implica &apos;importar local&apos; na inicialização</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="309"/>
@@ -918,7 +918,7 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="313"/>
         <source>-v: verbose (trace import statements)</source>
-        <translation>-v: verbose (traÃ§a declaraÃ§Ãµes de importaÃ§Ã£o)</translation>
+        <translation>-v: verbose (traça declarações de importação)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="315"/>
@@ -928,12 +928,12 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="319"/>
         <source>-x: skip first line of source</source>
-        <translation>-x: pula primeira linha do cÃ³digo</translation>
+        <translation>-x: pula primeira linha do código</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="320"/>
         <source>-3: warn about Python 3.x incompatibilities that 2to3 cannot trivially fix</source>
-        <translation>-3: avisa sobre incompatibilidades Python 3.x que 2to3 nÃ£o podem ser trivialmente corrigidas</translation>
+        <translation>-3: avisa sobre incompatibilidades Python 3.x que 2to3 não podem ser trivialmente corrigidas</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="390"/>
@@ -951,7 +951,7 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="144"/>
         <source>Execution</source>
-        <translation>ExecuÃ§Ã£o</translation>
+        <translation>Execução</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="145"/>
@@ -964,12 +964,12 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="224"/>
         <source>Incorrect Location</source>
-        <translation>LocalizaÃ§Ã£o incorreta</translation>
+        <translation>Localização incorreta</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="224"/>
         <source>The project couldn&apos;t be create</source>
-        <translation>O projeto nÃ£o pode ser criado</translation>
+        <translation>O projeto não pode ser criado</translation>
     </message>
 </context>
 <context>
@@ -990,12 +990,12 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="444"/>
         <source>GUI Customization:</source>
-        <translation>CustomizaÃ§Ã£o GUI:</translation>
+        <translation>Customização GUI:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="445"/>
         <source>Tool Bar Customization:</source>
-        <translation>CustomizaÃ§Ã£o Barra de ferramentas:</translation>
+        <translation>Customização da Barra de ferramentas:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="446"/>
@@ -1025,7 +1025,7 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="455"/>
         <source>Show Migration Tips.</source>
-        <translation>Exibir dicas migraÃ§Ã£o.</translation>
+        <translation>Exibir dicas migração.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="478"/>
@@ -1040,7 +1040,7 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="482"/>
         <source>Central Orientation</source>
-        <translation>OrientaÃ§Ã£o Central</translation>
+        <translation>Orientação Central</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="487"/>
@@ -1050,7 +1050,7 @@ adicionar ultima linha automaticamente.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="497"/>
         <source>Default Items</source>
-        <translation>Itens padrÃ£o</translation>
+        <translation>Itens padrões</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="511"/>
@@ -1098,8 +1098,8 @@ adicionar ultima linha automaticamente.</translation>
         <source>Select the item from the Paste Historial list.
 You can Copy items into this list with: %s
 or Paste them using: %s</source>
-        <translation>Selecione o item do histÃ³rico de Colar.
-VocÃª pode Copiar itens para esta lista com: %s
+        <translation>Selecione o item do históico de Colar.
+VocÊ pode Copiar itens para esta lista com: %s
 ou Colar utilizando: %s</translation>
     </message>
 </context>
@@ -1116,12 +1116,12 @@ ou Colar utilizando: %s</translation>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="592"/>
         <source>Set completion type to: Popup Completion</source>
-        <translation>Informe tipo de conclusÃ£o para: ConclusÃ£o Popup</translation>
+        <translation>Informe tipo de auto-completar para: Completar com Popup</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="595"/>
         <source>Set completion type to: Inline Completion</source>
-        <translation>Informe tipo de conclusÃ£o para: ConclusÃ£o Inline</translation>
+        <translation>Informe tipo de auto-completar para: Completar com Inline</translation>
     </message>
 </context>
 <context>
@@ -1137,12 +1137,12 @@ ou Colar utilizando: %s</translation>
     <message>
         <location filename="ninja_ide/tools/locator.py" line="98"/>
         <source>Definition Not Found</source>
-        <translation>DefiniÃ§Ã£o nÃ£o encontrada</translation>
+        <translation>Definição não encontrada</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/locator.py" line="98"/>
         <source>This Definition does not belong to this Project.</source>
-        <translation>Esta definiÃ§Ã£o nÃ£o pertence a esse Projeto.</translation>
+        <translation>Esta definição não pertence a esse Projeto.</translation>
     </message>
 </context>
 <context>
@@ -1150,7 +1150,7 @@ ou Colar utilizando: %s</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="35"/>
         <source>Show Start Page</source>
-        <translation>Exibir PÃ¡gina Inicial</translation>
+        <translation>Exibir Página Inicial</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="36"/>
@@ -1165,7 +1165,7 @@ ou Colar utilizando: %s</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="40"/>
         <source>Plugins Documentation</source>
-        <translation>DocumentaÃ§Ã£o Plugin</translation>
+        <translation>Documentação Plugin</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_about.py" line="44"/>
@@ -1233,7 +1233,7 @@ ou Colar utilizando: %s</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="66"/>
         <source>Code Locator (%s)</source>
-        <translation>Localizador de CÃ³digo (%s)</translation>
+        <translation>Localizador de Código (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_edit.py" line="71"/>
@@ -1382,7 +1382,7 @@ ou Colar utilizando: %s</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_project.py" line="55"/>
         <source>Preview Web in Default Browser</source>
-        <translation>Pre-visualizar Web em Navegador PadrÃ£o</translation>
+        <translation>Pre-visualizar Web em Navegador Padrão</translation>
     </message>
 </context>
 <context>
@@ -1400,7 +1400,7 @@ ou Colar utilizando: %s</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="45"/>
         <source>Comment (%s)</source>
-        <translation>Comentario (%s)</translation>
+        <translation>Comentário (%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="50"/>
@@ -1415,17 +1415,17 @@ ou Colar utilizando: %s</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="59"/>
         <source>Insert Title Comment (%s)</source>
-        <translation>Inserir Comentario TÃ­tulo (%s)</translation>
+        <translation>Inserir Comentario de Título(%s)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="63"/>
         <source>Count Code Lines</source>
-        <translation>Contar linhas do cÃ³digo</translation>
+        <translation>Contar linhas do código</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="69"/>
         <source>Go To Definition (%s or %s+Click)</source>
-        <translation>Ir Para DefiniÃ§Ã£o (%s ou %s+Click)</translation>
+        <translation>Ir Para Definição (%s ou %s+Click)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="75"/>
@@ -1440,7 +1440,7 @@ ou Colar utilizando: %s</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="81"/>
         <source>Insert Prints per selected line.</source>
-        <translation>Inserir ImpressÃµes por linha selecionada.</translation>
+        <translation>Inserir Impressões por linha selecionada.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="83"/>
@@ -1450,12 +1450,12 @@ ou Colar utilizando: %s</translation>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="92"/>
         <source>&amp;Remove Trailing Spaces</source>
-        <translation>&amp;Remover EspaÃ§os Ã  direita</translation>
+        <translation>&amp;Remover Espaços á direita</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="94"/>
         <source>Replace Tabs With &amp;Spaces</source>
-        <translation>Substituir Tabs com E&amp;spaÃ§os</translation>
+        <translation>Substituir Tabs com E&amp;spaços</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/menus/menu_source.py" line="96"/>
@@ -1566,12 +1566,12 @@ ou Colar utilizando: %s</translation>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="319"/>
         <source>Output</source>
-        <translation>SaÃ­da</translation>
+        <translation>Saí­da</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="320"/>
         <source>Clean</source>
-        <translation>Limpo</translation>
+        <translation>Limpar</translation>
     </message>
 </context>
 <context>
@@ -1594,17 +1594,17 @@ ou Colar utilizando: %s</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="289"/>
         <source>Project Location (*):</source>
-        <translation>LocalizaÃ§Ã£o do Projeto (*):</translation>
+        <translation>Localização do Projeto (*):</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="290"/>
         <source>Project Description:</source>
-        <translation>DescriÃ§Ã£o do Projeto:</translation>
+        <translation>Descrição do Projeto:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="291"/>
         <source>Project License:</source>
-        <translation>LicenÃ§a do Projeto:</translation>
+        <translation>Licença do Projeto:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="292"/>
@@ -1650,7 +1650,7 @@ ou Colar utilizando: %s</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/traceback_widget.py" line="40"/>
         <source>Some plugins have errors and were removed</source>
-        <translation>Alguns plugins contÃ©m erros e foram removidos</translation>
+        <translation>Alguns plugins contúm erros e foram removidos</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/traceback_widget.py" line="45"/>
@@ -1706,7 +1706,7 @@ ou Colar utilizando: %s</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="80"/>
         <source>NINJA-IDE - Preferences</source>
-        <translation>NINJA-IDE PreferÃªncias</translation>
+        <translation>NINJA-IDE Preferências</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="96"/>
@@ -1758,9 +1758,9 @@ between projects and files sessions.
 This allows you to save your working environment, keep working in another
 project and then go back exactly where you left.</source>
         <translation>Salve seus arquivos e projetos abertos em um perfil e mude rapidamente
-entre sessÃµes de projetos e arquivos.
-Isto permite que vocÃª salve seu ambiente de trabalho, continue trabalhando em outro
-projeto e entÃ£o volte exatamente onde vocÃª parou.</translation>
+entre sessões de projetos e arquivos.
+Isto permite que você salve seu ambiente de trabalho, continue trabalhando em outro
+projeto e então volte exatamente onde você parou.</translation>
     </message>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="441"/>
@@ -1813,7 +1813,7 @@ projeto e entÃ£o volte exatamente onde vocÃª parou.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="165"/>
         <source>Description:</source>
-        <translation>DescriÃ§Ã£o:</translation>
+        <translation>Descrição:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="169"/>
@@ -1823,17 +1823,17 @@ projeto e entÃ£o volte exatamente onde vocÃª parou.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="173"/>
         <source>Licence:</source>
-        <translation>LicenÃ§a:</translation>
+        <translation>Licença:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="193"/>
         <source>Supported Extensions:</source>
-        <translation>ExtensÃµes suportadas:</translation>
+        <translation>Extensões suportadas:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="196"/>
         <source>Indentation: </source>
-        <translation>IdentaÃ§Ã£o:</translation>
+        <translation>Identação:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="201"/>
@@ -1881,12 +1881,12 @@ projeto e entÃ£o volte exatamente onde vocÃª parou.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="266"/>
         <source>Separate the params with commas (ie: help, verbose)</source>
-        <translation>Separar os parÃ¢metros com virgulas (ex: help, verbose)</translation>
+        <translation>Separar os parâmetros com virgulas (ex: help, verbose)</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="269"/>
         <source>Params (comma separated):</source>
-        <translation>Parametros (separados por virgula):</translation>
+        <translation>Parâmetros (separados por virgula):</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="278"/>
@@ -1911,7 +1911,7 @@ projeto e entÃ£o volte exatamente onde vocÃª parou.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="306"/>
         <source>This is not a valid Virtualenv Folder</source>
-        <translation>Esta nÃ£o Ã© uma pasta Virtualenv vÃ¡lida</translation>
+        <translation>Esta não é uma pasta Virtualenv válida</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="314"/>
@@ -1921,12 +1921,12 @@ projeto e entÃ£o volte exatamente onde vocÃª parou.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="323"/>
         <source>Select Pre Execution Script File</source>
-        <translation>Selecione Arquivo Script de Pre ExecuÃ§Ã£o</translation>
+        <translation>Selecione Arquivo Script de Pre Execução</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="332"/>
         <source>Select Post Execution Script File</source>
-        <translation>Selecione Arquivo Script de PÃ³s ExecuÃ§Ã£o</translation>
+        <translation>Selecione Arquivo Script de Pós Execução</translation>
     </message>
 </context>
 <context>
@@ -1936,7 +1936,7 @@ projeto e entÃ£o volte exatamente onde vocÃª parou.</translation>
         <source>Insert the path of Python Projects relatedto this one in order
 to improve Code Completion.</source>
         <translation>Insira o caminho dos Projetos Python relacionados a esse a fim de
-melhorar a conclusÃ£o do cÃ³digo.</translation>
+melhorar o auto-completar do código.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="353"/>
@@ -1959,7 +1959,7 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="69"/>
         <source>Project Execution</source>
-        <translation>ExecuÃ§Ã£o do Projeto</translation>
+        <translation>Execução do Projeto</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="71"/>
@@ -1974,12 +1974,12 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="76"/>
         <source>Cancel</source>
-        <translation>Cancela</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="88"/>
         <source>Properties Invalid</source>
-        <translation>Propriedades InvÃ¡lidas</translation>
+        <translation>Propriedades Inválidas</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="88"/>
@@ -1992,12 +1992,12 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="175"/>
         <source>Incorrect Location</source>
-        <translation>LocalizaÃ§Ã£o incorreta</translation>
+        <translation>Localização incorreta</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="175"/>
         <source>The project couldn&apos;t be create</source>
-        <translation>O projeto nÃ£o pode ser criado</translation>
+        <translation>O projeto não pode ser criado</translation>
     </message>
 </context>
 <context>
@@ -2005,7 +2005,7 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="61"/>
         <source>no description available</source>
-        <translation>nenhuma descriÃ§ao disponÃ­vel</translation>
+        <translation>nenhuma descrição disponí­vel</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="63"/>
@@ -2025,7 +2025,7 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="110"/>
         <source>Click to add to favorite projects</source>
-        <translation>Clique para adicionar Ã  projetos favoritos</translation>
+        <translation>Clique para adicionar á projetos favoritos</translation>
     </message>
 </context>
 <context>
@@ -2043,7 +2043,7 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/status_bar.py" line="365"/>
         <source>Replace Selection</source>
-        <translation>Substituir seleÃ§Ã£o</translation>
+        <translation>Substituir seleção</translation>
     </message>
 </context>
 <context>
@@ -2051,7 +2051,7 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/results.py" line="38"/>
         <source>Content</source>
-        <translation>ConteÃºdo</translation>
+        <translation>Conteúdo</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/results.py" line="38"/>
@@ -2079,31 +2079,31 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="103"/>
         <source>Error during execution, QProcess error: %d</source>
-        <translation>Erro durante execuÃ§Ã£o. Erro QProcess: %d</translation>
+        <translation>Erro durante execução. Erro QProcess: %d</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="116"/>
         <source>Execution Successful!</source>
-        <translation>Sucesso na execuÃ§Ã£o!</translation>
+        <translation>Sucesso na execução!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="120"/>
         <source>Execution Interrupted</source>
-        <translation>ExecuÃ§Ã£o interrompida</translation>
+        <translation>Execução interrompida</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="153"/>
         <source>Pre Execution Script Successfully executed.
 
 </source>
-        <translation>Script de Pre ExecuÃ§Ã£o executado com sucesso.
+        <translation>Script de Pre Execução executado com sucesso.
 
 </translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/run_widget.py" line="223"/>
         <source>Post Execution Script Successfully executed.</source>
-        <translation>Script de PÃ³s ExecuÃ§Ã£o executado com sucesso.</translation>
+        <translation>Script de Pós Execução executado com sucesso.</translation>
     </message>
 </context>
 <context>
@@ -2129,22 +2129,22 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="131"/>
         <source>Duplicate the line/selection</source>
-        <translation>Duplicar a linha/seleÃ§Ã£o</translation>
+        <translation>Duplicar a linha/seleção</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="132"/>
         <source>Remove the line/selection</source>
-        <translation>Remover a linha/seleÃ§Ã£o</translation>
+        <translation>Remover a linha/seleção</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="133"/>
         <source>Move the line/selection up</source>
-        <translation>Mover a linha/seleÃ§Ã£o para cima</translation>
+        <translation>Mover a linha/seleção para cima</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="134"/>
         <source>Move the line/selection down</source>
-        <translation>Mover a linha/seleÃ§Ã£o para baixo</translation>
+        <translation>Mover a linha/seleção para baixo</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="135"/>
@@ -2194,12 +2194,12 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="144"/>
         <source>Comment line/selection</source>
-        <translation>Comentar linha/seleÃ§Ã£o</translation>
+        <translation>Comentar linha/seleção</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="145"/>
         <source>Uncomment line/selection</source>
-        <translation></translation>
+        <translation>Descomentar linha/seleção</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="146"/>
@@ -2209,7 +2209,7 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="147"/>
         <source>Insert comment Title</source>
-        <translation>Inserir Titulo ComentÃ¡rio</translation>
+        <translation>Inserir Titulo Comentário</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="148"/>
@@ -2219,12 +2219,12 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="149"/>
         <source>Hide Misc Container</source>
-        <translation>Esconder ConteÃºdo Misc</translation>
+        <translation>Esconder Conteúdo Misc</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="150"/>
         <source>Hide Editor Area</source>
-        <translation>Esconder Area do Editor</translation>
+        <translation>Esconder Área do Editor</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="151"/>
@@ -2254,7 +2254,7 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="156"/>
         <source>Stop Execution</source>
-        <translation>Parar ExecuÃ§Ã£o</translation>
+        <translation>Parar Execução</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="157"/>
@@ -2284,7 +2284,7 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="162"/>
         <source>Find Next</source>
-        <translation>Procurar prÃ³xima</translation>
+        <translation>Procurar próxima</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="163"/>
@@ -2334,17 +2334,17 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="172"/>
         <source>Go to definition</source>
-        <translation>Ir Para DefiniÃ§Ã£o</translation>
+        <translation>Ir Para Definição</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="173"/>
         <source>Complete Declarations</source>
-        <translation>Completar DeclaraÃ§Ãµes</translation>
+        <translation>Completar Declarações</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="174"/>
         <source>Show Code Locator</source>
-        <translation>Exibir Localizador de cÃ³digo</translation>
+        <translation>Exibir Localizador de código</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="175"/>
@@ -2359,7 +2359,7 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="177"/>
         <source>Navigate Forward</source>
-        <translation>Navegar PrÃ³xima</translation>
+        <translation>Navegar Próxima</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="178"/>
@@ -2379,17 +2379,17 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="181"/>
         <source>Activate History Navigation</source>
-        <translation>Ativar NavegaÃ§Ã£o Historico</translation>
+        <translation>Ativar Navegação Historico</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="182"/>
         <source>Activate Bookmarks Navigation</source>
-        <translation>Ativar NavegaÃ§Ã£o Favoritos</translation>
+        <translation>Ativar Navegação Favoritos</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="183"/>
         <source>Activate Breakpoints Navigation</source>
-        <translation>Ativar NavegaÃ§Ã£o Breakpoints</translation>
+        <translation>Ativar Navegação Breakpoints</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="184"/>
@@ -2399,17 +2399,17 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="185"/>
         <source>Copy into copy/paste history</source>
-        <translation>Copiar para histÃ³rico copiar/colar</translation>
+        <translation>Copiar para histórico copiar/colar</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="186"/>
         <source>Paste from copy/paste history</source>
-        <translation>Colar do histÃ³rico copiar/colar</translation>
+        <translation>Colar do histórico copiar/colar</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="187"/>
         <source>Change the keyboard focus between the current splits</source>
-        <translation>Mudar o foco do teclado entre as divisÃµes atuais</translation>
+        <translation>Mudar o foco do teclado entre as divisões atuais</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="189"/>
@@ -2419,7 +2419,7 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="191"/>
         <source>Move the current Tab to the next split.</source>
-        <translation>Mover a Aba atual para a prÃ³xima divisÃ£o.</translation>
+        <translation>Mover a Aba atual para a próxima divisão.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="193"/>
@@ -2429,22 +2429,22 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="195"/>
         <source>Highlight occurrences for word under cursor</source>
-        <translation>Destacar ocorrÃªncias para a palavra sob o cursor</translation>
+        <translation>Destacar ocorrências para a palavra sob o cursor</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="205"/>
         <source>Load defaults</source>
-        <translation>Carregar padrÃµes</translation>
+        <translation>Carregar padrões</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="210"/>
         <source>The Shortcut&apos;s Text in the Menus are going to be refreshed on restart.</source>
-        <translation>O texto do Atalho nos Menus serÃ¡ atualizado ao reiniciar.</translation>
+        <translation>O texto do Atalho nos Menus serão atualizado ao reiniciar.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="251"/>
         <source>Shortcut is already in use</source>
-        <translation>Atalha jÃ¡ em uso</translation>
+        <translation>Atalho já esta em uso</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="251"/>
@@ -2457,12 +2457,12 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="72"/>
         <source>Accept</source>
-        <translation>Aceito</translation>
+        <translation>Aceitar</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="73"/>
         <source>Cancel</source>
-        <translation>Cancela</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2483,7 +2483,7 @@ melhorar a conclusÃ£o do cÃ³digo.</translation>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="488"/>
         <source>Right click to change navigation options</source>
-        <translation>Clique botÃ£o direito para alterar opÃ§Ãµes de navegaÃ§Ã£o</translation>
+        <translation>Clique botão direito para alterar opções de navegação</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="494"/>
@@ -2525,7 +2525,7 @@ Deseja recarregar?</translation>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="274"/>
         <source>The file %s was not saved</source>
-        <translation>O arquivo %s nÃ£o foi salvo</translation>
+        <translation>O arquivo %s não foi salvo</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="274"/>
@@ -2565,12 +2565,12 @@ Deseja recarregar?</translation>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="339"/>
         <source>Move this Tab to the other Split</source>
-        <translation>Mover esta Aba para outra divisÃ£o</translation>
+        <translation>Mover esta Aba para outra divisão</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="341"/>
         <source>Close Split</source>
-        <translation>Fechar DivisÃ£o</translation>
+        <translation>Fechar Divisão</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="350"/>
@@ -2585,12 +2585,12 @@ Deseja recarregar?</translation>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="360"/>
         <source>Copy file location to Clipboard</source>
-        <translation>Copiar localizaÃ§Ã£o do arquivo para Clipboard</translation>
+        <translation>Copiar localização do arquivo para Clipboard</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="362"/>
         <source>Reopen last closed File</source>
-        <translation>Reabrir ultimo arquivo fechado</translation>
+        <translation>Reabrir último arquivo fechado</translation>
     </message>
 </context>
 <context>
@@ -2641,12 +2641,12 @@ Deseja recarregar?</translation>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1823"/>
         <source>File Already Exists</source>
-        <translation></translation>
+        <translation>Arquivo já Existe</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1823"/>
         <source>Invalid File Name: the file &apos;%s&apos; already exists.</source>
-        <translation>Nome do arquivo invÃ¡lido: o arquivo &apos;%s&apos; jÃ¡ existe.</translation>
+        <translation>Nome do arquivo inválido: o arquivo &apos;%s&apos; já existe.</translation>
     </message>
 </context>
 <context>
@@ -2685,24 +2685,24 @@ Deseja recarregar?</translation>
     <message>
         <location filename="ninja_ide/gui/updates.py" line="62"/>
         <source>Download Version: %s!</source>
-        <translation>VersÃ£o Download: %s!</translation>
+        <translation>Versão Download: %s!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/updates.py" line="67"/>
         <source>Close Update Notifications</source>
-        <translation>Fechar notificaÃ§Ãµes de atualizaÃ§Ã£o</translation>
+        <translation>Fechar notificações de atualização</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/updates.py" line="89"/>
         <source>NINJA-IDE Updates</source>
-        <translation>AtualizaÃ§Ãµes NINJA-IDE</translation>
+        <translation>Atualizações NINJA-IDE</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/updates.py" line="89"/>
         <source>New Version of NINJA-IDE
 Available: </source>
-        <translation>Nova versÃ£o de NINJA-IDE
-DisponÃ­vel: </translation>
+        <translation>Nova versão de NINJA-IDE
+Disponível: </translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/updates.py" line="82"/>
@@ -2711,7 +2711,7 @@ DisponÃ­vel: </translation>
 Check the Update Menu in the NINJA-IDE System Tray icon to Download!</source>
         <translation>
 
-Procure o Menu AtualizaÃ§Ã£o no icone do NINJA-IDE prÃ³ximo ao relÃ³gio do sistema para Download!</translation>
+Procure o Menu Atualização no icone do NINJA-IDE próximo ao relógio do sistema para Download!</translation>
     </message>
 </context>
 <context>
@@ -2764,7 +2764,7 @@ Procure o Menu AtualizaÃ§Ã£o no icone do NINJA-IDE prÃ³ximo ao relÃ³gio 
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="249"/>
         <source>Create &apos;__init__&apos; Complete</source>
-        <translation>Criar conclusÃ£o &apos;__init__&apos;</translation>
+        <translation>Criar &apos;__init__&apos; Completo</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="254"/>
@@ -2814,12 +2814,12 @@ Procure o Menu AtualizaÃ§Ã£o no icone do NINJA-IDE prÃ³ximo ao relÃ³gio 
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="589"/>
         <source>File Already Exists</source>
-        <translation>Arquivo jÃ¡ existe</translation>
+        <translation>Arquivo já existe</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="589"/>
         <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation>Caminho invÃ¡lido: o arquivo &apos;%s&apos; jÃ¡ existe.</translation>
+        <translation>Caminho inválido: o arquivo &apos;%s&apos; já existe.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="467"/>
@@ -2864,7 +2864,7 @@ Procure o Menu AtualizaÃ§Ã£o no icone do NINJA-IDE prÃ³ximo ao relÃ³gio 
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="554"/>
         <source>Invalid Name</source>
-        <translation>Nome invÃ¡lido</translation>
+        <translation>Nome inválido</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="554"/>
@@ -2877,7 +2877,7 @@ Procure o Menu AtualizaÃ§Ã£o no icone do NINJA-IDE prÃ³ximo ao relÃ³gio 
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="45"/>
         <source>Description</source>
-        <translation>DescriÃ§Ã£o</translation>
+        <translation>Descrição</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="45"/>
@@ -2920,7 +2920,7 @@ Procure o Menu AtualizaÃ§Ã£o no icone do NINJA-IDE prÃ³ximo ao relÃ³gio 
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="161"/>
         <source>Functions</source>
-        <translation>FunÃ§Ãµes</translation>
+        <translation>Funções</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="172"/>
@@ -2933,7 +2933,7 @@ Procure o Menu AtualizaÃ§Ã£o no icone do NINJA-IDE prÃ³ximo ao relÃ³gio 
     <message>
         <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="239"/>
         <source>Update</source>
-        <translation>AtualizaÃ§Ã£o</translation>
+        <translation>Atualização</translation>
     </message>
 </context>
 <context>
@@ -2960,8 +2960,8 @@ Procure o Menu AtualizaÃ§Ã£o no icone do NINJA-IDE prÃ³ximo ao relÃ³gio 
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="113"/>
         <source>Folder don&apos;t exists or this is not a valid Folder.
  If you want to set or modify, go to project properties</source>
-        <translation>Pasta nÃ£o existe ou esta nÃ£o Ã© uma pasta vÃ¡lida.
-Se vocÃª deseja informar ou modificar, vÃ¡ em propriedades do projeto</translation>
+        <translation>Pasta não existe ou esta não é uma pasta válida.
+Se você deseja informar ou modificar, vá em propriedades do projeto</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="113"/>
@@ -2989,7 +2989,7 @@ Se vocÃª deseja informar ou modificar, vÃ¡ em propriedades do projeto</trans
     <message>
         <location filename="ninja_ide/gui/actions.py" line="436"/>
         <source>Invalid Name</source>
-        <translation>Nome invÃ¡lido</translation>
+        <translation>Nome inválido</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="436"/>
@@ -3004,7 +3004,7 @@ Se vocÃª deseja informar ou modificar, vÃ¡ em propriedades do projeto</trans
     <message>
         <location filename="ninja_ide/gui/actions.py" line="459"/>
         <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation>Caminho invÃ¡lido: o arquivo &apos;%s&apos; jÃ¡ existe.</translation>
+        <translation>Caminho inválido: o arquivo &apos;%s&apos; já existe.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="492"/>
@@ -3015,24 +3015,24 @@ Se vocÃª deseja informar ou modificar, vÃ¡ em propriedades do projeto</trans
         <location filename="ninja_ide/gui/actions.py" line="492"/>
         <source>The Current Files and Projects will be associated to this profile.
 Profile Name:</source>
-        <translation>Arquivos atuais e Projetos serÃ£o associados Ã  este perfil
+        <translation>Arquivos atuais e Projetos serão associados á este perfil
 Nome do perfil:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="500"/>
         <source>Profile Name Invalid</source>
-        <translation>Nome do perfil invÃ¡lido</translation>
+        <translation>Nome do perfil inválido</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="500"/>
         <source>The Profile name is invalid or already exists.</source>
-        <translation></translation>
+        <translation>O Nome do Perfil é inválido ou já existe.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="557"/>
         <source>Lines code: %s
 </source>
-        <translation>Linhas de cÃ³digo: %s</translation>
+        <translation>Linhas de código: %s</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/actions.py" line="558"/>
@@ -3064,7 +3064,7 @@ Nome do perfil:</translation>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="120"/>
         <source>Migration 2to3</source>
-        <translation>MigraÃ§Ã£o 2to3</translation>
+        <translation>Migração 2to3</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="125"/>
@@ -3079,12 +3079,12 @@ Nome do perfil:</translation>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="168"/>
         <source>Web Inspector not Supported</source>
-        <translation>Web Inspector nÃ£o suportado</translation>
+        <translation>Web Inspector não suportado</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="168"/>
         <source>Your Qt version doesn&apos;t support the Web Inspector</source>
-        <translation>Sua versÃ£o do Qt nÃ£o suporta Web Inspector</translation>
+        <translation>Sua versão do Qt não suporta Web Inspector</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="218"/>
@@ -3114,7 +3114,7 @@ Nome do perfil:</translation>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="318"/>
         <source>Project support has been disabled from Preferences</source>
-        <translation>Suporte ao projeto foi desabilitado nas Preferencias</translation>
+        <translation>Suporte ao projeto foi desabilitado nas Preferências</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="269"/>
@@ -3129,12 +3129,12 @@ Nome do perfil:</translation>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="291"/>
         <source>The project could not be loaded!</source>
-        <translation>O projeto nÃ£o pode ser carregado!</translation>
+        <translation>O projeto não pode ser carregado!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/explorer_container.py" line="376"/>
         <source>no description available</source>
-        <translation>nenhuma descriÃ§ao disponÃ­vel</translation>
+        <translation>nenhuma descriçao disponí­vel</translation>
     </message>
 </context>
 <context>
@@ -3182,7 +3182,7 @@ Nome do perfil:</translation>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="436"/>
         <source>Some changes were not saved</source>
-        <translation>Algumas alteraÃ§Ãµes nÃ£o foram salvas</translation>
+        <translation>Algumas alterações não foram salvas</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="436"/>
@@ -3204,7 +3204,7 @@ Deseja sair de qualquer maneira?</translation>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="438"/>
         <source>The image couldn&apos;t be open</source>
-        <translation>A imagem nÃ£o pode ser aberta</translation>
+        <translation>A imagem não pode ser aberta</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="458"/>
@@ -3219,7 +3219,7 @@ Deseja sair de qualquer maneira?</translation>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="521"/>
         <source>The file couldn&apos;t be open</source>
-        <translation>O arquivo nÃ£o pode ser aberto</translation>
+        <translation>O arquivo não pode ser aberto</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="588"/>
@@ -3230,8 +3230,8 @@ Deseja sair de qualquer maneira?</translation>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="588"/>
         <source>Are you sure you want to close the deleted file?
 The content will be completely deleted.</source>
-        <translation>VocÃª tem certeza que deseja fechar o arquivo deletado?
-O conteudo serÃ¡ completamente deletado.</translation>
+        <translation>Você tem certeza que deseja fechar o arquivo deletado?
+O conteudo será completamente deletado.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="665"/>
@@ -3246,7 +3246,7 @@ O conteudo serÃ¡ completamente deletado.</translation>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="680"/>
         <source>The file couldn&apos;t be saved!</source>
-        <translation>O arquivo nÃ£o pode ser salvo!</translation>
+        <translation>O arquivo não pode ser salvo!</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="646"/>
@@ -3256,12 +3256,12 @@ O conteudo serÃ¡ completamente deletado.</translation>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="674"/>
         <source>File Already Exists</source>
-        <translation>Arquivo jÃ¡ existente</translation>
+        <translation>Arquivo já existente</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="674"/>
         <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation>Caminho invalido: o arquivo &apos;%s&apos; jÃ¡ existe.</translation>
+        <translation>Caminho invalido: o arquivo &apos;%s&apos; já existe.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="682"/>
@@ -3271,7 +3271,7 @@ O conteudo serÃ¡ completamente deletado.</translation>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="771"/>
         <source>Python Documentation</source>
-        <translation>DocumentaÃ§ao Python</translation>
+        <translation>Documentação Python</translation>
     </message>
 </context>
 <context>
@@ -3284,7 +3284,7 @@ O conteudo serÃ¡ completamente deletado.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/misc_container.py" line="91"/>
         <source>Output</source>
-        <translation>Saida</translation>
+        <translation>Saída</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/misc_container.py" line="93"/>
