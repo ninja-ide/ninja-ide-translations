@@ -2407,27 +2407,27 @@ para implementa el completado de código.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="187"/>
         <source>Change the keyboard focus between the current splits</source>
-        <translation>Change the keyboard focus between the current splits</translation>
+        <translation>Cambiar el enfoque del teclado entre las divisiones</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="189"/>
         <source>Insert Bookmark/Breakpoint</source>
-        <translation>Insertar marcador/breakpoint</translation>
+        <translation>Insertar marcador/punto de interrupción</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="191"/>
         <source>Move the current Tab to the next split.</source>
-        <translation>Move the current Tab to the next split.</translation>
+        <translation>Mover pestaña actual a la siguente división.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="193"/>
         <source>Show/Hide the Tabs in the Editor Area.</source>
-        <translation>Show/Hide the Tabs in the Editor Area.</translation>
+        <translation>Mostrar/Esconder las pestañas en el Editor de Área.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="195"/>
         <source>Highlight occurrences for word under cursor</source>
-        <translation>Highlight occurrences for word under cursor</translation>
+        <translation>Resaltar incidencias para la palabra bajo el cursor</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="205"/>
@@ -2437,7 +2437,7 @@ para implementa el completado de código.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="210"/>
         <source>The Shortcut&apos;s Text in the Menus are going to be refreshed on restart.</source>
-        <translation>The Shortcut&apos;s Text in the Menus are going to be refreshed on restart.</translation>
+        <translation>Los Atajo&apos;s de Texto en los menús serán actualizados al reiniciar.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="251"/>
@@ -2447,7 +2447,7 @@ para implementa el completado de código.</translation>
     <message>
         <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="251"/>
         <source>Do you want to remove it?</source>
-        <translation>Quieres eliminar esto?</translation>
+        <translation>¿Desea eliminarlo?</translation>
     </message>
 </context>
 <context>
@@ -2722,7 +2722,7 @@ Revisa el menú de actualización de NINJA-IDE en el icono del panel para descar
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="205"/>
         <source>Set as Main Project</source>
-        <translation>Setear como proyecto principal</translation>
+        <translation>Determinar como proyecto principal</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="209"/>
@@ -3138,7 +3138,7 @@ Nombre del perfil:</translation>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="133"/>
         <source>Press and Drag to Move</source>
-        <translation>Clickea y mueve el cursor para mover</translation>
+        <translation>Pulsa y mueve el cursor para mover</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="146"/>
@@ -3168,7 +3168,7 @@ Nombre del perfil:</translation>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="151"/>
         <source>&amp;Addins</source>
-        <translation>&amp;Add ons</translation>
+        <translation>&amp;Complementos</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/ide.py" line="152"/>
@@ -3187,7 +3187,7 @@ Nombre del perfil:</translation>
 Do you want to exit anyway?</source>
         <translation>%s
 
-Deseas salir igual?</translation>
+¿Desea salir de todos modos?</translation>
     </message>
 </context>
 <context>
@@ -3200,7 +3200,7 @@ Deseas salir igual?</translation>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="438"/>
         <source>The image couldn&apos;t be open</source>
-        <translation>La imagen no puede ser abierta</translation>
+        <translation>La imagen no pudo ser abierta</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="458"/>
@@ -3215,7 +3215,7 @@ Deseas salir igual?</translation>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="521"/>
         <source>The file couldn&apos;t be open</source>
-        <translation>El archivo no puede ser abierto</translation>
+        <translation>El archivo no pudo ser abierto</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="588"/>
@@ -3226,7 +3226,7 @@ Deseas salir igual?</translation>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="588"/>
         <source>Are you sure you want to close the deleted file?
 The content will be completely deleted.</source>
-        <translation>Segúro que deseas cerrar el archivo borrado?
+        <translation>¿Seguro que deseas cerrar el archivo borrado?
 El contenido sera eliminado completamente.</translation>
     </message>
     <message>
@@ -3257,7 +3257,7 @@ El contenido sera eliminado completamente.</translation>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="674"/>
         <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation>Ubicación invalida: el archivo &apos;%s&apos; ya existe.</translation>
+        <translation>Ubicación inválida: el archivo &apos;%s&apos; ya existe.</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="682"/>
@@ -3267,7 +3267,7 @@ El contenido sera eliminado completamente.</translation>
     <message>
         <location filename="ninja_ide/gui/main_panel/main_container.py" line="771"/>
         <source>Python Documentation</source>
-        <translation>Documentación de python</translation>
+        <translation>Documentación de Python</translation>
     </message>
 </context>
 <context>
