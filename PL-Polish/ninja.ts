@@ -328,7 +328,7 @@ add Last Line automatically.</source>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="793"/>
         <source>Enable/Disable MiniMap (Requires restart):
 (opacity not supported in MAC OS)</source>
-        <translation>Włącz/Wyłącz mini mapę (wymagany restart programu): 
+        <translation>Włącz/Wyłącz mini mapę (wymagany restart programu):
 		(przenikanie nie jest obsługiwane przez MacOs)</translation>
     </message>
     <message>
@@ -1124,7 +1124,7 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/tools/ui_tools.py" line="111"/>
         <source>       LOADING: &quot;%s&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>       Ładowanie: &quot;%s&quot;</translation>
     </message>
 </context>
 <context>
