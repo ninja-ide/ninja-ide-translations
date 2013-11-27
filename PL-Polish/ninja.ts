@@ -412,7 +412,7 @@ add Last Line automatically.</source>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1287"/>
         <source>Comment:</source>
-        <translation><Komentarz:/translation>
+        <translation>Komentarz:</translation>
     </message>
     <message>
         <location filename="ninja_ide/gui/dialogs/preferences.py" line="1290"/>
