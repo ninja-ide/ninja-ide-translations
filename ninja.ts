@@ -1,3281 +1,1145 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS><TS version="2.0">
 <context>
-    <name>AboutNinja</name>
+    <name>@default</name>
     <message>
-        <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="42"/>
-        <source>About NINJA-IDE</source>
+        <location filename="ninja_ide/translations.py" line="8"/>
+        <source>NINJA-IDE</source>
+        <comment>&amp;File</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="62"/>
-        <source>NINJA-IDE (from: &quot;Ninja Is Not Just Another IDE&quot;), is a
-cross-platform integrated development environment specially design
-to build Python Applications.
-NINJA-IDE provides tools to simplify the Python-software development
-and handles all kinds of situations thanks to its rich extensibility.</source>
+        <location filename="ninja_ide/translations.py" line="9"/>
+        <source>NINJA-IDE</source>
+        <comment>&amp;Edit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="68"/>
-        <source>Version: %s</source>
+        <location filename="ninja_ide/translations.py" line="10"/>
+        <source>NINJA-IDE</source>
+        <comment>&amp;View</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="69"/>
-        <source>Website: &lt;a href=&quot;%s&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ff9e21;&quot;&gt;%s&lt;/span&gt;&lt;/a&gt;</source>
+        <location filename="ninja_ide/translations.py" line="11"/>
+        <source>NINJA-IDE</source>
+        <comment>&amp;Source</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/about_ninja.py" line="75"/>
-        <source>Source Code: &lt;a href=&quot;%s&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#ff9e21;&quot;&gt;%s&lt;/span&gt;&lt;/a&gt;</source>
+        <location filename="ninja_ide/translations.py" line="12"/>
+        <source>NINJA-IDE</source>
+        <comment>&amp;Project</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>AddToProject</name>
     <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="326"/>
-        <source>Add File to Project</source>
+        <location filename="ninja_ide/translations.py" line="13"/>
+        <source>NINJA-IDE</source>
+        <comment>E&amp;xtensions</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="336"/>
-        <source>Add here!</source>
+        <location filename="ninja_ide/translations.py" line="14"/>
+        <source>NINJA-IDE</source>
+        <comment>Abou&amp;t</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="337"/>
-        <source>Cancel</source>
+        <location filename="ninja_ide/translations.py" line="16"/>
+        <source>NINJA-IDE</source>
+        <comment>NINJA-IDE (SESSION: %(session)s)</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>AvailableWidget</name>
     <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="286"/>
-        <source>NINJA needs to be restarted for changes to take effect.</source>
+        <location filename="ninja_ide/translations.py" line="17"/>
+        <source>NINJA-IDE</source>
+        <comment>Duplicate</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="321"/>
-        <source>External Plugins</source>
+        <location filename="ninja_ide/translations.py" line="18"/>
+        <source>NINJA-IDE</source>
+        <comment>Remove Line</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="321"/>
-        <source>URL from Plugin missing...</source>
+        <location filename="ninja_ide/translations.py" line="19"/>
+        <source>NINJA-IDE</source>
+        <comment>Move Up</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>ConsoleWidget</name>
     <message>
-        <location filename="ninja_ide/gui/misc/console_widget.py" line="57"/>
-        <source>Show/Hide (F4)</source>
+        <location filename="ninja_ide/translations.py" line="20"/>
+        <source>NINJA-IDE</source>
+        <comment>Move Down</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/console_widget.py" line="114"/>
-        <source>Cut</source>
+        <location filename="ninja_ide/translations.py" line="21"/>
+        <source>NINJA-IDE</source>
+        <comment>Close File</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/console_widget.py" line="115"/>
-        <source>Copy</source>
+        <location filename="ninja_ide/translations.py" line="22"/>
+        <source>NINJA-IDE</source>
+        <comment>New File</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/console_widget.py" line="116"/>
-        <source>Paste</source>
+        <location filename="ninja_ide/translations.py" line="23"/>
+        <source>NINJA-IDE</source>
+        <comment>Open</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/console_widget.py" line="117"/>
-        <source>Clean Console</source>
+        <location filename="ninja_ide/translations.py" line="24"/>
+        <source>NINJA-IDE</source>
+        <comment>Save</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/console_widget.py" line="118"/>
-        <source>Copy History</source>
+        <location filename="ninja_ide/translations.py" line="25"/>
+        <source>NINJA-IDE</source>
+        <comment>Save As</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/console_widget.py" line="119"/>
-        <source>Copy Console Content</source>
+        <location filename="ninja_ide/translations.py" line="26"/>
+        <source>NINJA-IDE</source>
+        <comment>Save All</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>DependenciesHelpDialog</name>
     <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="490"/>
-        <source>Plugin requirements</source>
+        <location filename="ninja_ide/translations.py" line="27"/>
+        <source>NINJA-IDE</source>
+        <comment>Undo</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="493"/>
-        <source>It seems that some plugins needs some
-            dependencies to be solved to work properly, you should install them
-            as follows using a Terminal</source>
+        <location filename="ninja_ide/translations.py" line="28"/>
+        <source>NINJA-IDE</source>
+        <comment>Redo</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="501"/>
-        <source>Accept</source>
+        <location filename="ninja_ide/translations.py" line="29"/>
+        <source>NINJA-IDE</source>
+        <comment>Comment</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>Editor</name>
     <message>
-        <location filename="ninja_ide/gui/editor/editor.py" line="200"/>
-        <source>Find Usages</source>
+        <location filename="ninja_ide/translations.py" line="30"/>
+        <source>NINJA-IDE</source>
+        <comment>Uncomment</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/editor/editor.py" line="490"/>
-        <source>Jump to Line</source>
+        <location filename="ninja_ide/translations.py" line="31"/>
+        <source>NINJA-IDE</source>
+        <comment>Insert Horizontal Line</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/editor/editor.py" line="490"/>
-        <source>Line:</source>
+        <location filename="ninja_ide/translations.py" line="32"/>
+        <source>NINJA-IDE</source>
+        <comment>Insert Title Comment</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/editor/editor.py" line="936"/>
-        <source>Ignore Lint</source>
+        <location filename="ninja_ide/translations.py" line="33"/>
+        <source>NINJA-IDE</source>
+        <comment>Indent More</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/editor/editor.py" line="937"/>
-        <source>Ignore This Line</source>
+        <location filename="ninja_ide/translations.py" line="34"/>
+        <source>NINJA-IDE</source>
+        <comment>Indent Less</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/editor/editor.py" line="939"/>
-        <source>Ignore Selected Area</source>
+        <location filename="ninja_ide/translations.py" line="35"/>
+        <source>NINJA-IDE</source>
+        <comment>Split Editor Horizontally</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>EditorCompletion</name>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1123"/>
-        <source>Complete:</source>
+        <location filename="ninja_ide/translations.py" line="36"/>
+        <source>NINJA-IDE</source>
+        <comment>Split Editor Vertically</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1125"/>
-        <source>Parentheses: ()</source>
+        <location filename="ninja_ide/translations.py" line="37"/>
+        <source>NINJA-IDE</source>
+        <comment>Follow Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1127"/>
-        <source>Keys: {}</source>
+        <location filename="ninja_ide/translations.py" line="38"/>
+        <source>NINJA-IDE</source>
+        <comment>Reload File</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1129"/>
-        <source>Brackets: []</source>
+        <location filename="ninja_ide/translations.py" line="39"/>
+        <source>NINJA-IDE</source>
+        <comment>Insert &amp;Import</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1131"/>
-        <source>Simple Quotes: &apos;&apos;</source>
+        <location filename="ninja_ide/translations.py" line="40"/>
+        <source>NINJA-IDE</source>
+        <comment>Go To Definition</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1133"/>
-        <source>Double Quotes: &quot;&quot;</source>
+        <location filename="ninja_ide/translations.py" line="41"/>
+        <source>NINJA-IDE</source>
+        <comment>Python Help</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1135"/>
-        <source>Complete Declarations
-(execute the opposite action with: %s).</source>
+        <location filename="ninja_ide/translations.py" line="42"/>
+        <source>NINJA-IDE</source>
+        <comment>Print File</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1148"/>
-        <source>Code Completion:</source>
+        <location filename="ninja_ide/translations.py" line="43"/>
+        <source>NINJA-IDE</source>
+        <comment>New Project</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1150"/>
-        <source>Activate Code Completion with: &quot;.&quot;</source>
+        <location filename="ninja_ide/translations.py" line="44"/>
+        <source>NINJA-IDE</source>
+        <comment>Open Project</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>EditorConfiguration</name>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="952"/>
-        <source>Features:</source>
+        <location filename="ninja_ide/translations.py" line="45"/>
+        <source>NINJA-IDE</source>
+        <comment>Save Project</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="954"/>
-        <source>Indentation Length:</source>
+        <location filename="ninja_ide/translations.py" line="46"/>
+        <source>NINJA-IDE</source>
+        <comment>Find in Files</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="961"/>
-        <source>Use Tabs.</source>
+        <location filename="ninja_ide/translations.py" line="47"/>
+        <source>NINJA-IDE</source>
+        <comment>Run File</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1060"/>
-        <source>  (tab size)</source>
+        <location filename="ninja_ide/translations.py" line="48"/>
+        <source>NINJA-IDE</source>
+        <comment>Run Project</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1058"/>
-        <source>  (spaces)</source>
+        <location filename="ninja_ide/translations.py" line="49"/>
+        <source>NINJA-IDE</source>
+        <comment>Stop</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="972"/>
-        <source>Margin Line:</source>
+        <location filename="ninja_ide/translations.py" line="50"/>
+        <source>NINJA-IDE</source>
+        <comment>Manage Plugins</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="977"/>
-        <source>Show Margin Line</source>
+        <location filename="ninja_ide/translations.py" line="51"/>
+        <source>NINJA-IDE</source>
+        <comment>Editor Schemes</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="981"/>
-        <source>Highlight the whole line for Errors and PEP8.</source>
+        <location filename="ninja_ide/translations.py" line="52"/>
+        <source>NINJA-IDE</source>
+        <comment>Languages Manager</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="986"/>
-        <source>Find and Show Errors.</source>
+        <location filename="ninja_ide/translations.py" line="237"/>
+        <source>NINJA-IDE</source>
+        <comment>Show Start Page</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="991"/>
-        <source>Show Tool tip information about the errors.</source>
+        <location filename="ninja_ide/translations.py" line="54"/>
+        <source>NINJA-IDE</source>
+        <comment>Report Bugs!</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="998"/>
-        <source>Find and Show Check Style errors.</source>
+        <location filename="ninja_ide/translations.py" line="55"/>
+        <source>NINJA-IDE</source>
+        <comment>Plugins Documentation</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1004"/>
-        <source>Show Tool tip information about the PEP8 errors.</source>
+        <location filename="ninja_ide/translations.py" line="56"/>
+        <source>NINJA-IDE</source>
+        <comment>About NINJA-IDE</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1011"/>
-        <source>Show Python3 Migration Tips.</source>
+        <location filename="ninja_ide/translations.py" line="57"/>
+        <source>NINJA-IDE</source>
+        <comment>About Qt</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1016"/>
-        <source>Center on Scroll.</source>
+        <location filename="ninja_ide/translations.py" line="58"/>
+        <source>NINJA-IDE</source>
+        <comment>Python Documentation</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1022"/>
-        <source>Remove Trailing Spaces and
-add Last Line automatically.</source>
+        <location filename="ninja_ide/translations.py" line="59"/>
+        <source>NINJA-IDE</source>
+        <comment>How to Write NINJA-IDE plugins</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1027"/>
-        <source>Show Tabs and Spaces.</source>
+        <location filename="ninja_ide/translations.py" line="60"/>
+        <source>NINJA-IDE</source>
+        <comment>Cut</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1031"/>
-        <source>Allow Word Wrap.</source>
+        <location filename="ninja_ide/translations.py" line="61"/>
+        <source>NINJA-IDE</source>
+        <comment>Copy</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1034"/>
-        <source>Check for Docstrings in Classes and Functions.</source>
+        <location filename="ninja_ide/translations.py" line="62"/>
+        <source>NINJA-IDE</source>
+        <comment>Paste</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>EditorGeneral</name>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="769"/>
-        <source>MiniMap:</source>
+        <location filename="ninja_ide/translations.py" line="63"/>
+        <source>NINJA-IDE</source>
+        <comment>Find</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="770"/>
-        <source>Typography:</source>
+        <location filename="ninja_ide/translations.py" line="64"/>
+        <source>NINJA-IDE</source>
+        <comment>Find and Replace</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="771"/>
-        <source>Scheme Color:</source>
+        <location filename="ninja_ide/translations.py" line="65"/>
+        <source>NINJA-IDE</source>
+        <comment>Find using word under cursor</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="793"/>
-        <source>Enable/Disable MiniMap (Requires restart):
-(opacity not supported in MAC OS)</source>
+        <location filename="ninja_ide/translations.py" line="66"/>
+        <source>NINJA-IDE</source>
+        <comment>Code Locator</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="797"/>
-        <source>Max Opacity:</source>
+        <location filename="ninja_ide/translations.py" line="67"/>
+        <source>NINJA-IDE</source>
+        <comment>Convert selected Text to: UPPER</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="799"/>
-        <source>Min Opacity:</source>
+        <location filename="ninja_ide/translations.py" line="68"/>
+        <source>NINJA-IDE</source>
+        <comment>Convert selected Text to: lower</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="801"/>
-        <source>Size Area relative to the Editor:</source>
+        <location filename="ninja_ide/translations.py" line="69"/>
+        <source>NINJA-IDE</source>
+        <comment>Convert selected Text to: Title Word</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="811"/>
-        <source>Editor Font:</source>
+        <location filename="ninja_ide/translations.py" line="70"/>
+        <source>NINJA-IDE</source>
+        <comment>Preferences</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="893"/>
-        <source>Invalid Font</source>
+        <location filename="ninja_ide/translations.py" line="214"/>
+        <source>NINJA-IDE</source>
+        <comment>Activate Session</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="893"/>
-        <source>This font can not be used in the Editor.</source>
+        <location filename="ninja_ide/translations.py" line="72"/>
+        <source>NINJA-IDE</source>
+        <comment>Deactivate Session</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>EditorSchemeDesigner</name>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1259"/>
-        <source>Pick Color</source>
+        <location filename="ninja_ide/translations.py" line="73"/>
+        <source>NINJA-IDE</source>
+        <comment>Close All Projects</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1262"/>
-        <source>&lt;b&gt;New Theme Name:&lt;/b&gt;</source>
+        <location filename="ninja_ide/translations.py" line="74"/>
+        <source>NINJA-IDE</source>
+        <comment>Exit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1265"/>
-        <source>Save Scheme!</source>
+        <location filename="ninja_ide/translations.py" line="75"/>
+        <source>NINJA-IDE</source>
+        <comment>Open Project Properties</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1269"/>
-        <source>Keyword:</source>
+        <location filename="ninja_ide/translations.py" line="76"/>
+        <source>NINJA-IDE</source>
+        <comment>Preview Web in Default Browser</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1272"/>
-        <source>Operator:</source>
+        <location filename="ninja_ide/translations.py" line="77"/>
+        <source>NINJA-IDE</source>
+        <comment>Show/Hide &amp;Console</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1275"/>
-        <source>Braces:</source>
+        <location filename="ninja_ide/translations.py" line="78"/>
+        <source>NINJA-IDE</source>
+        <comment>Show/Hide &amp;Editor</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1278"/>
-        <source>Definition:</source>
+        <location filename="ninja_ide/translations.py" line="79"/>
+        <source>NINJA-IDE</source>
+        <comment>Show/Hide &amp;All</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1281"/>
-        <source>String:</source>
+        <location filename="ninja_ide/translations.py" line="80"/>
+        <source>NINJA-IDE</source>
+        <comment>Show/Hide &amp;Explorer</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1284"/>
-        <source>String2:</source>
+        <location filename="ninja_ide/translations.py" line="81"/>
+        <source>NINJA-IDE</source>
+        <comment>Show/Hide &amp;Toolbar</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1287"/>
-        <source>Comment:</source>
+        <location filename="ninja_ide/translations.py" line="82"/>
+        <source>NINJA-IDE</source>
+        <comment>Full Screen &amp;Mode</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1290"/>
-        <source>Proper Object:</source>
+        <location filename="ninja_ide/translations.py" line="83"/>
+        <source>NINJA-IDE</source>
+        <comment>Zoom &amp;In  (Ctrl+Wheel-Up)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1293"/>
-        <source>Numbers:</source>
+        <location filename="ninja_ide/translations.py" line="84"/>
+        <source>NINJA-IDE</source>
+        <comment>Zoom &amp;Out  (Ctrl+Wheel-Down)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1296"/>
-        <source>Spaces:</source>
+        <location filename="ninja_ide/translations.py" line="85"/>
+        <source>NINJA-IDE</source>
+        <comment>Count Code Lines</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1299"/>
-        <source>Extras:</source>
+        <location filename="ninja_ide/translations.py" line="87"/>
+        <source>NINJA-IDE</source>
+        <comment>Debugging Tricks</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1302"/>
-        <source>Editor Text:</source>
+        <location filename="ninja_ide/translations.py" line="88"/>
+        <source>NINJA-IDE</source>
+        <comment>Insert Prints per selected line.</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1305"/>
-        <source>Editor Background:</source>
+        <location filename="ninja_ide/translations.py" line="89"/>
+        <source>NINJA-IDE</source>
+        <comment>Insert pdb.set_trace()</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1308"/>
-        <source>Editor Selection Color:</source>
+        <location filename="ninja_ide/translations.py" line="90"/>
+        <source>NINJA-IDE</source>
+        <comment>&amp;Remove Trailing Spaces</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1311"/>
-        <source>Editor Selection Background:</source>
+        <location filename="ninja_ide/translations.py" line="91"/>
+        <source>NINJA-IDE</source>
+        <comment>Replace Tabs With &amp;Spaces</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1314"/>
-        <source>Editor Selected Word:</source>
+        <location filename="ninja_ide/translations.py" line="92"/>
+        <source>NINJA-IDE</source>
+        <comment>Close Split</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1317"/>
-        <source>Current Line:</source>
+        <location filename="ninja_ide/translations.py" line="93"/>
+        <source>NINJA-IDE</source>
+        <comment>Right click to change navigation options</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1320"/>
-        <source>Fold Area:</source>
+        <location filename="ninja_ide/translations.py" line="95"/>
+        <source>NINJA-IDE</source>
+        <comment>Code Jumps</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1323"/>
-        <source>Fold Arrow:</source>
+        <location filename="ninja_ide/translations.py" line="96"/>
+        <source>NINJA-IDE</source>
+        <comment>Bookmarks</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1326"/>
-        <source>Link Navigate:</source>
+        <location filename="ninja_ide/translations.py" line="97"/>
+        <source>NINJA-IDE</source>
+        <comment>Breakpoints</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1329"/>
-        <source>Brace Background:</source>
+        <location filename="ninja_ide/translations.py" line="98"/>
+        <source>NINJA-IDE</source>
+        <comment>New Document</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1332"/>
-        <source>Brace Foreground:</source>
+        <location filename="ninja_ide/translations.py" line="99"/>
+        <source>NINJA-IDE</source>
+        <comment> (Read-Only)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1335"/>
-        <source>Error Underline:</source>
+        <location filename="ninja_ide/translations.py" line="100"/>
+        <source>NINJA-IDE</source>
+        <comment>no description available</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1338"/>
-        <source>PEP8 Underline:</source>
+        <location filename="ninja_ide/translations.py" line="101"/>
+        <source>NINJA-IDE</source>
+        <comment>Left-Click to change File.
+Right-Click to see Options.</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1341"/>
-        <source>Sidebar Background:</source>
+        <location filename="ninja_ide/translations.py" line="103"/>
+        <source>NINJA-IDE</source>
+        <comment>Add to Project...</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1344"/>
-        <source>Sidebar Foreground:</source>
+        <location filename="ninja_ide/translations.py" line="104"/>
+        <source>NINJA-IDE</source>
+        <comment>Change Syntax</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1562"/>
-        <source>Choose Color for: </source>
+        <location filename="ninja_ide/translations.py" line="105"/>
+        <source>NINJA-IDE</source>
+        <comment>Close All Files</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1643"/>
-        <source>Scheme already exists</source>
+        <location filename="ninja_ide/translations.py" line="106"/>
+        <source>NINJA-IDE</source>
+        <comment>Close Other Files, except this one</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1643"/>
-        <source>Do you want to override the file: %s?</source>
+        <location filename="ninja_ide/translations.py" line="107"/>
+        <source>NINJA-IDE</source>
+        <comment>Copy file location to Clipboard</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1650"/>
-        <source>Scheme Saved</source>
+        <location filename="ninja_ide/translations.py" line="109"/>
+        <source>NINJA-IDE</source>
+        <comment>Reopen last closed File</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1650"/>
-        <source>The scheme has been saved at: %s.</source>
+        <location filename="ninja_ide/translations.py" line="110"/>
+        <source>NINJA-IDE</source>
+        <comment>Click for Project options.</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1653"/>
-        <source>Scheme Not Saved</source>
+        <location filename="ninja_ide/translations.py" line="111"/>
+        <source>NINJA-IDE</source>
+        <comment>Undock</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1653"/>
-        <source>The name probably is invalid.</source>
+        <location filename="ninja_ide/translations.py" line="112"/>
+        <source>NINJA-IDE</source>
+        <comment>Projects</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>EditorTab</name>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="748"/>
-        <source>General</source>
+        <location filename="ninja_ide/translations.py" line="113"/>
+        <source>NINJA-IDE</source>
+        <comment>Symbols</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="749"/>
-        <source>Configuration</source>
+        <location filename="ninja_ide/translations.py" line="114"/>
+        <source>NINJA-IDE</source>
+        <comment>Errors</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="750"/>
-        <source>Completion</source>
+        <location filename="ninja_ide/translations.py" line="115"/>
+        <source>NINJA-IDE</source>
+        <comment>Migration 2to3</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="751"/>
-        <source>Editor Scheme Designer</source>
+        <location filename="ninja_ide/translations.py" line="116"/>
+        <source>NINJA-IDE</source>
+        <comment>Web Inspector</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>ErrorsWidget</name>
     <message>
-        <location filename="ninja_ide/gui/explorer/errors_lists.py" line="96"/>
-        <source>Lint: ON</source>
+        <location filename="ninja_ide/translations.py" line="117"/>
+        <source>NINJA-IDE</source>
+        <comment>Add File to Project</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/explorer/errors_lists.py" line="98"/>
-        <source>Lint: OFF</source>
+        <location filename="ninja_ide/translations.py" line="118"/>
+        <source>NINJA-IDE</source>
+        <comment>Cancel</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/explorer/errors_lists.py" line="105"/>
-        <source>PEP8: ON</source>
+        <location filename="ninja_ide/translations.py" line="119"/>
+        <source>NINJA-IDE</source>
+        <comment>Add here!</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/explorer/errors_lists.py" line="107"/>
-        <source>PEP8: OFF</source>
+        <location filename="ninja_ide/translations.py" line="121"/>
+        <source>NINJA-IDE</source>
+        <comment>Project Properties</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>FileSystemOpener</name>
     <message>
-        <location filename="ninja_ide/gui/status_bar.py" line="415"/>
-        <source>Path:</source>
+        <location filename="ninja_ide/translations.py" line="122"/>
+        <source>NINJA-IDE</source>
+        <comment>Project Data</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>FindInFilesDialog</name>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="184"/>
-        <source>Open</source>
+        <location filename="ninja_ide/translations.py" line="123"/>
+        <source>NINJA-IDE</source>
+        <comment>Project Execution</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="189"/>
-        <source>Replace: </source>
+        <location filename="ninja_ide/translations.py" line="124"/>
+        <source>NINJA-IDE</source>
+        <comment>Project Metadata</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="190"/>
-        <source>C&amp;ase sensitive</source>
+        <location filename="ninja_ide/translations.py" line="125"/>
+        <source>NINJA-IDE</source>
+        <comment>Name:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="191"/>
-        <source>R&amp;egular Expression</source>
+        <location filename="ninja_ide/translations.py" line="126"/>
+        <source>NINJA-IDE</source>
+        <comment>Project Location:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="192"/>
-        <source>Rec&amp;ursive</source>
+        <location filename="ninja_ide/translations.py" line="127"/>
+        <source>NINJA-IDE</source>
+        <comment>Project Type:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="194"/>
-        <source>Search by Phrase (Exact Match).</source>
+        <location filename="ninja_ide/translations.py" line="128"/>
+        <source>NINJA-IDE</source>
+        <comment>Description:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="197"/>
-        <source>Search for all the words (anywhere in the document, not together).</source>
+        <location filename="ninja_ide/translations.py" line="129"/>
+        <source>NINJA-IDE</source>
+        <comment>URL:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="200"/>
-        <source>Find!</source>
+        <location filename="ninja_ide/translations.py" line="130"/>
+        <source>NINJA-IDE</source>
+        <comment>Licence:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="202"/>
-        <source>Cancel</source>
+        <location filename="ninja_ide/translations.py" line="240"/>
+        <source>NINJA-IDE</source>
+        <comment>Supported Extensions:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="211"/>
-        <source>Main</source>
+        <location filename="ninja_ide/translations.py" line="132"/>
+        <source>NINJA-IDE</source>
+        <comment>Indentation:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="213"/>
-        <source>Text: </source>
+        <location filename="ninja_ide/translations.py" line="133"/>
+        <source>NINJA-IDE</source>
+        <comment>Use Tabs.</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="215"/>
-        <source>Directory: </source>
+        <location filename="ninja_ide/translations.py" line="134"/>
+        <source>NINJA-IDE</source>
+        <comment>Properties Invalid</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="218"/>
-        <source>Filter: </source>
+        <location filename="ninja_ide/translations.py" line="135"/>
+        <source>NINJA-IDE</source>
+        <comment>The Project must have a name.</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="228"/>
-        <source>Options</source>
+        <location filename="ninja_ide/translations.py" line="136"/>
+        <source>NINJA-IDE</source>
+        <comment>Main File:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="299"/>
-        <source>Open Directory</source>
+        <location filename="ninja_ide/translations.py" line="137"/>
+        <source>NINJA-IDE</source>
+        <comment>Python Custom Interpreter:</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>FindInFilesResult</name>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="145"/>
-        <source>File</source>
+        <location filename="ninja_ide/translations.py" line="138"/>
+        <source>NINJA-IDE</source>
+        <comment>Custom PYTHONPATH:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="145"/>
-        <source>Line</source>
+        <location filename="ninja_ide/translations.py" line="139"/>
+        <source>NINJA-IDE</source>
+        <comment>One path per line</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>FindInFilesWidget</name>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="362"/>
-        <source>Find!</source>
+        <location filename="ninja_ide/translations.py" line="140"/>
+        <source>NINJA-IDE</source>
+        <comment>Additional builtins/globals:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="363"/>
-        <source>Stop</source>
+        <location filename="ninja_ide/translations.py" line="162"/>
+        <source>NINJA-IDE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="364"/>
-        <source>Clear!</source>
+        <location filename="ninja_ide/translations.py" line="144"/>
+        <source>NINJA-IDE</source>
+        <comment>Pre-exec Script:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="365"/>
-        <source>Replace</source>
+        <location filename="ninja_ide/translations.py" line="145"/>
+        <source>NINJA-IDE</source>
+        <comment>Post-exec Script:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="367"/>
-        <source>No Results</source>
+        <location filename="ninja_ide/translations.py" line="146"/>
+        <source>NINJA-IDE</source>
+        <comment>Properties:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="373"/>
-        <source>Replace results with:</source>
+        <location filename="ninja_ide/translations.py" line="147"/>
+        <source>NINJA-IDE</source>
+        <comment>Separate the params with commas (ie: help, verbose)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="478"/>
-        <source>Replace Files Contents</source>
+        <location filename="ninja_ide/translations.py" line="149"/>
+        <source>NINJA-IDE</source>
+        <comment>Params (comma separated):</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/misc/find_in_files.py" line="478"/>
-        <source>Are you sure you want to replace the content in this files?
-(The change is not reversible)</source>
+        <location filename="ninja_ide/translations.py" line="150"/>
+        <source>NINJA-IDE</source>
+        <comment>Virtualenv Folder:</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>FoldingContextMenu</name>
     <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="834"/>
-        <source>Fold the project</source>
+        <location filename="ninja_ide/translations.py" line="243"/>
+        <source>NINJA-IDE</source>
+        <comment>Select Python Path</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="835"/>
-        <source>Unfold the project</source>
+        <location filename="ninja_ide/translations.py" line="152"/>
+        <source>NINJA-IDE</source>
+        <comment>Select Virtualenv Folder</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="837"/>
-        <source>Fold all projects</source>
+        <location filename="ninja_ide/translations.py" line="153"/>
+        <source>NINJA-IDE</source>
+        <comment>Virtualenv Folder</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="838"/>
-        <source>Unfold all projects</source>
+        <location filename="ninja_ide/translations.py" line="155"/>
+        <source>NINJA-IDE</source>
+        <comment>This is not a valid Virtualenv Folder</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>FromImportDialog</name>
     <message>
-        <location filename="ninja_ide/gui/dialogs/from_import_dialog.py" line="48"/>
-        <source>Add</source>
+        <location filename="ninja_ide/translations.py" line="157"/>
+        <source>NINJA-IDE</source>
+        <comment>Select Main File</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>GeneralConfiguration</name>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="161"/>
-        <source>On Start:</source>
+        <location filename="ninja_ide/translations.py" line="158"/>
+        <source>NINJA-IDE</source>
+        <comment>Select Pre Execution Script File</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="162"/>
-        <source>On Close:</source>
+        <location filename="ninja_ide/translations.py" line="160"/>
+        <source>NINJA-IDE</source>
+        <comment>Select Post Execution Script File</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="163"/>
-        <source>Workspace and Project:</source>
+        <location filename="ninja_ide/translations.py" line="165"/>
+        <source>NINJA-IDE</source>
+        <comment>Split your paths using newlines [ENTER].</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="164"/>
-        <source>Reset NINJA-IDE Preferences:</source>
+        <location filename="ninja_ide/translations.py" line="169"/>
+        <source>NINJA-IDE</source>
+        <comment>@<byte value="x9"/>(Filter only by Files)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="168"/>
-        <source>Load files from last session</source>
+        <location filename="ninja_ide/translations.py" line="170"/>
+        <source>NINJA-IDE</source>
+        <comment>&lt;<byte value="x9"/>(Filter only by Classes)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="170"/>
-        <source>Activate Plugins</source>
+        <location filename="ninja_ide/translations.py" line="171"/>
+        <source>NINJA-IDE</source>
+        <comment>&gt;<byte value="x9"/>(Filter only by Methods)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="171"/>
-        <source>Notify me of new updates.</source>
+        <location filename="ninja_ide/translations.py" line="172"/>
+        <source>NINJA-IDE</source>
+        <comment>-<byte value="x9"/>(Filter only by Attributes)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="173"/>
-        <source>Show Start Page</source>
+        <location filename="ninja_ide/translations.py" line="173"/>
+        <source>NINJA-IDE</source>
+        <comment>.<byte value="x9"/>(Filter only by Classes and Methods in this File)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="180"/>
-        <source>Confirm Exit.</source>
+        <location filename="ninja_ide/translations.py" line="175"/>
+        <source>NINJA-IDE</source>
+        <comment>/<byte value="x9"/>(Filter only by the current Editors)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="191"/>
-        <source>Workspace</source>
+        <location filename="ninja_ide/translations.py" line="177"/>
+        <source>NINJA-IDE</source>
+        <comment>:<byte value="x9"/>(Go to Line)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="196"/>
-        <source>Supported Extensions:</source>
+        <location filename="ninja_ide/translations.py" line="178"/>
+        <source>NINJA-IDE</source>
+        <comment>!<byte value="x9"/>(Filter only by Non Python Files)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="202"/>
-        <source>Reset preferences</source>
+        <location filename="ninja_ide/translations.py" line="179"/>
+        <source>NINJA-IDE</source>
+        <comment>No results were found!</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="234"/>
-        <source>Select Workspace</source>
+        <location filename="ninja_ide/translations.py" line="180"/>
+        <source>NINJA-IDE</source>
+        <comment>Definition Not Found</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="239"/>
-        <source>Select Python Path</source>
+        <location filename="ninja_ide/translations.py" line="181"/>
+        <source>NINJA-IDE</source>
+        <comment>This Definition does not belong to this Project.</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="267"/>
-        <source>Reset preferences?</source>
+        <location filename="ninja_ide/translations.py" line="183"/>
+        <source>NINJA-IDE</source>
+        <comment>Session active</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="267"/>
-        <source>Are you sure you want to reset your preferences?</source>
+        <location filename="ninja_ide/translations.py" line="185"/>
+        <source>NINJA-IDE</source>
+        <comment>Session: %(session)s still active, do you want to update this session with the current files and projects before closing?</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>GeneralExecution</name>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="281"/>
-        <source>Workspace and Project:</source>
+        <location filename="ninja_ide/translations.py" line="188"/>
+        <source>NINJA-IDE</source>
+        <comment>Some changes were not saved</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="288"/>
-        <source>Python Path:</source>
+        <location filename="ninja_ide/translations.py" line="189"/>
+        <source>NINJA-IDE</source>
+        <comment>%(files)s
+
+Do you want to save them?</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="293"/>
-        <source>-B: don&apos;t write .py[co] files on import</source>
+        <location filename="ninja_ide/translations.py" line="191"/>
+        <source>NINJA-IDE</source>
+        <comment>Press and Drag to Move</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="295"/>
-        <source>-d: debug output from parser</source>
+        <location filename="ninja_ide/translations.py" line="194"/>
+        <source>NINJA-IDE</source>
+        <comment>Respect Case Sensitive</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="296"/>
-        <source>-E: ignore PYTHON* environment variables (such as PYTHONPATH)</source>
+        <location filename="ninja_ide/translations.py" line="195"/>
+        <source>NINJA-IDE</source>
+        <comment>Find Whole Words</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="298"/>
-        <source>-O: optimize generated bytecode slightly</source>
+        <location filename="ninja_ide/translations.py" line="198"/>
+        <source>NINJA-IDE</source>
+        <comment>PEP8 violations: </comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="300"/>
-        <source>-OO: remove doc-strings in addition to the -O optimizations</source>
+        <location filename="ninja_ide/translations.py" line="199"/>
+        <source>NINJA-IDE</source>
+        <comment>Lint errors: </comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="302"/>
-        <source>-Q: division options:</source>
+        <location filename="ninja_ide/translations.py" line="202"/>
+        <source>NINJA-IDE</source>
+        <comment>NINJA-IDE - Preferences</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="305"/>
-        <source>-s: don&apos;t add user site directory to sys.path</source>
+        <location filename="ninja_ide/translations.py" line="203"/>
+        <source>NINJA-IDE</source>
+        <comment>Sessions Manager</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="307"/>
-        <source>-S: don&apos;t imply &apos;import site&apos; on initialization</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="309"/>
-        <source>-t: issue warnings about inconsistent tab usage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="311"/>
-        <source>-tt: issue errors about inconsistent tab usage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="313"/>
-        <source>-v: verbose (trace import statements)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="315"/>
-        <source>-W: warning control:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="319"/>
-        <source>-x: skip first line of source</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="320"/>
-        <source>-3: warn about Python 3.x incompatibilities that 2to3 cannot trivially fix</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="390"/>
-        <source>Select Python Path</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>GeneralTab</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="143"/>
-        <source>General</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="144"/>
-        <source>Execution</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="145"/>
-        <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ImportFromSourcesProjectHandler</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="224"/>
-        <source>Incorrect Location</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="224"/>
-        <source>The project couldn&apos;t be create</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>InstalledWidget</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="355"/>
-        <source>Uninstall</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>InterfaceTab</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="443"/>
-        <source>Explorer Panel:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="444"/>
-        <source>GUI Customization:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="445"/>
-        <source>Tool Bar Customization:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="446"/>
-        <source>Language:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="450"/>
-        <source>Show Project Explorer.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="452"/>
-        <source>Show Symbols List.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="453"/>
-        <source>Show Web Inspector.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="454"/>
-        <source>Show File Errors.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="455"/>
-        <source>Show Migration Tips.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="478"/>
-        <source>Rotate Central</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="480"/>
-        <source>Rotate Lateral</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="482"/>
-        <source>Central Orientation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="487"/>
-        <source>Toolbar Items:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="497"/>
-        <source>Default Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="511"/>
-        <source>The New Item will be inserted after the item selected.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="515"/>
-        <source>Select Language:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="519"/>
-        <source>Requires restart...</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>LanguagesManagerWidget</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/language_manager.py" line="50"/>
-        <source>Language Manager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/language_manager.py" line="58"/>
-        <source>Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/language_manager.py" line="59"/>
-        <source>Reload</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/language_manager.py" line="89"/>
-        <source>Languages</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>LateralPanel</name>
-    <message>
-        <location filename="ninja_ide/gui/central_widget.py" line="218"/>
-        <source>Select the item from the Paste Historial list.
-You can Copy items into this list with: %s
-or Paste them using: %s</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>LineEditCount</name>
-    <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="555"/>
-        <source>%s of %s</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>LineEditTabCompleter</name>
-    <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="592"/>
-        <source>Set completion type to: Popup Completion</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="595"/>
-        <source>Set completion type to: Inline Completion</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>LoadingItem</name>
-    <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="111"/>
-        <source>       LOADING: &quot;%s&quot;</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Locator</name>
-    <message>
-        <location filename="ninja_ide/tools/locator.py" line="98"/>
-        <source>Definition Not Found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/tools/locator.py" line="98"/>
-        <source>This Definition does not belong to this Project.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MenuAbout</name>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_about.py" line="35"/>
-        <source>Show Start Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_about.py" line="36"/>
-        <source>Python Help (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_about.py" line="65"/>
-        <source>Report Bugs!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_about.py" line="40"/>
-        <source>Plugins Documentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_about.py" line="44"/>
-        <source>About NINJA-IDE</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_about.py" line="75"/>
-        <source>About Qt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_about.py" line="71"/>
-        <source>How to Write NINJA-IDE plugins</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MenuEdit</name>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="38"/>
-        <source>Undo (%s+Z)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="40"/>
-        <source>Redo (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="43"/>
-        <source>&amp;Cut (%s+X)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="45"/>
-        <source>&amp;Copy (%s+C)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="47"/>
-        <source>&amp;Paste (%s+V)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="50"/>
-        <source>Find (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="53"/>
-        <source>Find/Replace (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="58"/>
-        <source>Find using word under cursor (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="62"/>
-        <source>Find in Files (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="66"/>
-        <source>Code Locator (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="71"/>
-        <source>Convert selected Text to: UPPER</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="73"/>
-        <source>Convert selected Text to: lower</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="75"/>
-        <source>Convert selected Text to: Title Word</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_edit.py" line="78"/>
-        <source>Preference&amp;s</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MenuFile</name>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="41"/>
-        <source>&amp;New File (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="45"/>
-        <source>New Pro&amp;ject (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="51"/>
-        <source>&amp;Save (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="55"/>
-        <source>Save &amp;As</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="57"/>
-        <source>Save All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="59"/>
-        <source>Save Pro&amp;ject  (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="65"/>
-        <source>Reload File (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="71"/>
-        <source>&amp;Open (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="75"/>
-        <source>Open &amp;Project (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="80"/>
-        <source>Open Recent Files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="82"/>
-        <source>Activate Profile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="85"/>
-        <source>Deactivate Profile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="89"/>
-        <source>Pr&amp;int File (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="93"/>
-        <source>&amp;Close Tab (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="98"/>
-        <source>&amp;Close All Projects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_file.py" line="102"/>
-        <source>&amp;Exit</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MenuPlugins</name>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_plugins.py" line="33"/>
-        <source>Manage Plugins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_plugins.py" line="34"/>
-        <source>Editor Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_plugins.py" line="35"/>
-        <source>Languages Manager</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MenuProject</name>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_project.py" line="33"/>
-        <source>Run Project (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_project.py" line="42"/>
-        <source>Run File (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_project.py" line="47"/>
-        <source>Stop (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_project.py" line="52"/>
-        <source>Open Project Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_project.py" line="55"/>
-        <source>Preview Web in Default Browser</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MenuSource</name>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="35"/>
-        <source>Indent More (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="39"/>
-        <source>Indent Less (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="45"/>
-        <source>Comment (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="50"/>
-        <source>Uncomment (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="55"/>
-        <source>Insert Horizontal Line (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="59"/>
-        <source>Insert Title Comment (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="63"/>
-        <source>Count Code Lines</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="69"/>
-        <source>Go To Definition (%s or %s+Click)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="75"/>
-        <source>Insert &amp;Import (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="80"/>
-        <source>Debugging Tricks</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="81"/>
-        <source>Insert Prints per selected line.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="83"/>
-        <source>Insert pdb.set_trace()</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="92"/>
-        <source>&amp;Remove Trailing Spaces</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="94"/>
-        <source>Replace Tabs With &amp;Spaces</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="96"/>
-        <source>Move &amp;Up (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="99"/>
-        <source>Move &amp;Down (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="102"/>
-        <source>Duplica&amp;te (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_source.py" line="106"/>
-        <source>&amp;Remove Line (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MenuView</name>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="36"/>
-        <source>Show/Hide &amp;Console (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="41"/>
-        <source>Show/Hide &amp;Editor (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="46"/>
-        <source>Show/Hide &amp;All (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="51"/>
-        <source>Show/Hide &amp;Explorer (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="56"/>
-        <source>Show/Hide &amp;Toolbar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="59"/>
-        <source>Full Screen &amp;Mode (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="65"/>
-        <source>Split Tabs Horizontally (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="70"/>
-        <source>Split Tabs Vertically (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="75"/>
-        <source>Follow Mode (%s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="80"/>
-        <source>Group Tabs by Project</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="82"/>
-        <source>Deactivate Group Tabs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="86"/>
-        <source>Zoom &amp;In (Shift+Wheel-Up)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="88"/>
-        <source>Zoom &amp;Out (Shift+Wheel-Down)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="91"/>
-        <source>Fade In (Alt+Wheel-Up)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/menus/menu_view.py" line="93"/>
-        <source>Fade Out (Alt+Wheel-Down)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OutputWidget</name>
-    <message>
-        <location filename="ninja_ide/gui/misc/run_widget.py" line="249"/>
-        <source>Click to show the source</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/run_widget.py" line="319"/>
-        <source>Output</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/run_widget.py" line="320"/>
-        <source>Clean</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PageProjectProperties</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="282"/>
-        <source>New Project Data</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="283"/>
-        <source>Complete the following fields to create the Project Structure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="288"/>
-        <source>New Project Name (*):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="289"/>
-        <source>Project Location (*):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="290"/>
-        <source>Project Description:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="291"/>
-        <source>Project License:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="292"/>
-        <source>Virtualenv Folder:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="313"/>
-        <source>Browse...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="352"/>
-        <source>New Project Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="357"/>
-        <source>Select Virtualenv Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PageProjectType</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="247"/>
-        <source>Project Type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="248"/>
-        <source>Choose the Project Type</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PluginErrorDialog</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/traceback_widget.py" line="37"/>
-        <source>Plugin error report</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/traceback_widget.py" line="40"/>
-        <source>Some plugins have errors and were removed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/traceback_widget.py" line="45"/>
-        <source>Accept</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PluginsManagerWidget</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="82"/>
-        <source>Plugins Manager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="90"/>
-        <source>Description:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="94"/>
-        <source>Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="95"/>
-        <source>Reload</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="173"/>
-        <source>Official Available</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="175"/>
-        <source>Community Available</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="177"/>
-        <source>Updates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="178"/>
-        <source>Installed</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PreferencesWidget</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="80"/>
-        <source>NINJA-IDE - Preferences</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="96"/>
-        <source>General</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="97"/>
-        <source>Interface</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="98"/>
-        <source>Editor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="99"/>
-        <source>Plugins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="100"/>
-        <source>Theme</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="103"/>
-        <source>Save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="104"/>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ProfilesLoader</name>
-    <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="423"/>
-        <source>Profile Manager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="431"/>
-        <source>Save your opened files and projects into a profile and change really quick
+        <location filename="ninja_ide/translations.py" line="204"/>
+        <source>NINJA-IDE</source>
+        <comment>Save your opened files and projects into a session and change really quick
 between projects and files sessions.
 This allows you to save your working environment, keep working in another
-project and then go back exactly where you left.</source>
+project and then go back exactly where you left.</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="441"/>
-        <source>Delete Profile</source>
+        <location filename="ninja_ide/translations.py" line="211"/>
+        <source>NINJA-IDE</source>
+        <comment>Delete Session</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="443"/>
-        <source>Update Profile</source>
+        <location filename="ninja_ide/translations.py" line="212"/>
+        <source>NINJA-IDE</source>
+        <comment>Update Session</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="445"/>
-        <source>Create New Profile</source>
+        <location filename="ninja_ide/translations.py" line="213"/>
+        <source>NINJA-IDE</source>
+        <comment>Create New Session</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="447"/>
-        <source>Open Profile</source>
+        <location filename="ninja_ide/translations.py" line="215"/>
+        <source>NINJA-IDE</source>
+        <comment>Create Session</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="472"/>
-        <source>Files:</source>
+        <location filename="ninja_ide/translations.py" line="216"/>
+        <source>NINJA-IDE</source>
+        <comment>The Current Files and Projects will be associated to this session.
+Session Name:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="474"/>
-        <source>Projects:</source>
+        <location filename="ninja_ide/translations.py" line="218"/>
+        <source>NINJA-IDE</source>
+        <comment>Session Name Invalid</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/tools/ui_tools.py" line="487"/>
-        <source>Profile %s Updated!</source>
+        <location filename="ninja_ide/translations.py" line="219"/>
+        <source>NINJA-IDE</source>
+        <comment>The Session name is invalid or already exists.</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>ProjectData</name>
     <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="150"/>
-        <source>Name:</source>
+        <location filename="ninja_ide/translations.py" line="221"/>
+        <source>NINJA-IDE</source>
+        <comment>Session %(session)s Updated!</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="158"/>
-        <source>Project Type:</source>
+        <location filename="ninja_ide/translations.py" line="224"/>
+        <source>NINJA-IDE</source>
+        <comment>General</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="165"/>
-        <source>Description:</source>
+        <location filename="ninja_ide/translations.py" line="225"/>
+        <source>NINJA-IDE</source>
+        <comment>Editor</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="169"/>
-        <source>URL:</source>
+        <location filename="ninja_ide/translations.py" line="226"/>
+        <source>NINJA-IDE</source>
+        <comment>Configuration</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="173"/>
-        <source>Licence:</source>
+        <location filename="ninja_ide/translations.py" line="227"/>
+        <source>NINJA-IDE</source>
+        <comment>On Start:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="193"/>
-        <source>Supported Extensions:</source>
+        <location filename="ninja_ide/translations.py" line="228"/>
+        <source>NINJA-IDE</source>
+        <comment>On Close:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="196"/>
-        <source>Indentation: </source>
+        <location filename="ninja_ide/translations.py" line="229"/>
+        <source>NINJA-IDE</source>
+        <comment>Workspace and Project:</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="201"/>
-        <source>Use Tabs.</source>
+        <location filename="ninja_ide/translations.py" line="230"/>
+        <source>NINJA-IDE</source>
+        <comment>Reset NINJA-IDE Preferences:</comment>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>ProjectExecution</name>
     <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="213"/>
-        <source>Main File:</source>
+        <location filename="ninja_ide/translations.py" line="231"/>
+        <source>NINJA-IDE</source>
+        <comment>Load files from last session</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="230"/>
-        <source>Python Custom Interpreter:</source>
+        <location filename="ninja_ide/translations.py" line="233"/>
+        <source>NINJA-IDE</source>
+        <comment>Activate Plugins</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="235"/>
-        <source>Custom PYTHONPATH:</source>
+        <location filename="ninja_ide/translations.py" line="235"/>
+        <source>NINJA-IDE</source>
+        <comment>Notify me of new updates.</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="238"/>
-        <source>One path per line</source>
+        <location filename="ninja_ide/translations.py" line="238"/>
+        <source>NINJA-IDE</source>
+        <comment>Confirm Exit.</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="247"/>
-        <source>Pre-exec Script:</source>
+        <location filename="ninja_ide/translations.py" line="239"/>
+        <source>NINJA-IDE</source>
+        <comment>Workspace</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="256"/>
-        <source>Post-exec Script:</source>
+        <location filename="ninja_ide/translations.py" line="241"/>
+        <source>NINJA-IDE</source>
+        <comment>Reset preferences</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="264"/>
-        <source>Properties:</source>
+        <location filename="ninja_ide/translations.py" line="242"/>
+        <source>NINJA-IDE</source>
+        <comment>Select Workspace</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="266"/>
-        <source>Separate the params with commas (ie: help, verbose)</source>
+        <location filename="ninja_ide/translations.py" line="245"/>
+        <source>NINJA-IDE</source>
+        <comment>Reset preferences?</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="269"/>
-        <source>Params (comma separated):</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="278"/>
-        <source>Virtualenv Folder:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="293"/>
-        <source>Select Python Path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="298"/>
-        <source>Select Virtualenv Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="306"/>
-        <source>Virtualenv Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="306"/>
-        <source>This is not a valid Virtualenv Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="314"/>
-        <source>Select Main File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="323"/>
-        <source>Select Pre Execution Script File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="332"/>
-        <source>Select Post Execution Script File</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ProjectMetadata</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="348"/>
-        <source>Insert the path of Python Projects relatedto this one in order
-to improve Code Completion.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="353"/>
-        <source>Split your paths using newlines [ENTER].</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ProjectProperties</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="62"/>
-        <source>Project Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="68"/>
-        <source>Project Data</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="69"/>
-        <source>Project Execution</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="71"/>
-        <source>Project Metadata</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="75"/>
-        <source>Save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="76"/>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="88"/>
-        <source>Properties Invalid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/project_properties_widget.py" line="88"/>
-        <source>The Project must have a name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PythonProjectHandler</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="175"/>
-        <source>Incorrect Location</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="175"/>
-        <source>The project couldn&apos;t be create</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>RecentProjectItem</name>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="61"/>
-        <source>no description available</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="63"/>
-        <source>Click to delete from the list</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="64"/>
-        <source>Click to dock on the list</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="106"/>
-        <source>Click to remove from favorite projects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/recent_project_item.py" line="110"/>
-        <source>Click to add to favorite projects</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ReplaceWidget</name>
-    <message>
-        <location filename="ninja_ide/gui/status_bar.py" line="363"/>
-        <source>Replace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/status_bar.py" line="364"/>
-        <source>Replace All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/status_bar.py" line="365"/>
-        <source>Replace Selection</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Results</name>
-    <message>
-        <location filename="ninja_ide/gui/misc/results.py" line="38"/>
-        <source>Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/results.py" line="38"/>
-        <source>File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/results.py" line="38"/>
-        <source>Line</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>RunWidget</name>
-    <message>
-        <location filename="ninja_ide/gui/misc/run_widget.py" line="55"/>
-        <source>Input:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/run_widget.py" line="100"/>
-        <source>Failed to start</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/run_widget.py" line="103"/>
-        <source>Error during execution, QProcess error: %d</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/run_widget.py" line="116"/>
-        <source>Execution Successful!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/run_widget.py" line="120"/>
-        <source>Execution Interrupted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/run_widget.py" line="153"/>
-        <source>Pre Execution Script Successfully executed.
-
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/run_widget.py" line="223"/>
-        <source>Post Execution Script Successfully executed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SearchWidget</name>
-    <message>
-        <location filename="ninja_ide/gui/status_bar.py" line="257"/>
-        <source>Respect Case Sensitive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/status_bar.py" line="258"/>
-        <source>Find Whole Words</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/status_bar.py" line="271"/>
-        <source>Press %s</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ShortcutConfiguration</name>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="131"/>
-        <source>Duplicate the line/selection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="132"/>
-        <source>Remove the line/selection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="133"/>
-        <source>Move the line/selection up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="134"/>
-        <source>Move the line/selection down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="135"/>
-        <source>Close the current tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="136"/>
-        <source>Create a New tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="137"/>
-        <source>Create a new Project</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="138"/>
-        <source>Open a File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="139"/>
-        <source>Open a Project</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="140"/>
-        <source>Save the current file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="141"/>
-        <source>Save the current project opened files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="142"/>
-        <source>Print current file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="143"/>
-        <source>Redo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="144"/>
-        <source>Comment line/selection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="145"/>
-        <source>Uncomment line/selection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="146"/>
-        <source>Insert Horizontal line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="147"/>
-        <source>Insert comment Title</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="148"/>
-        <source>Indent less</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="149"/>
-        <source>Hide Misc Container</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="150"/>
-        <source>Hide Editor Area</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="151"/>
-        <source>Hide Explorer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="152"/>
-        <source>Execute current file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="153"/>
-        <source>Execute current project</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="154"/>
-        <source>Debug</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="155"/>
-        <source>Switch keyboard focus</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="156"/>
-        <source>Stop Execution</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="157"/>
-        <source>Hide all (Except Editor)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="158"/>
-        <source>Full Screen</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="159"/>
-        <source>Find</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="160"/>
-        <source>Find &amp; Replace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="161"/>
-        <source>Find word under cursor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="162"/>
-        <source>Find Next</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="163"/>
-        <source>Find Previous</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="164"/>
-        <source>Show Python Help</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="165"/>
-        <source>Split Tabs Vertically</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="166"/>
-        <source>Split Tabs Horizontally</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="167"/>
-        <source>Activate/Deactivate Follow Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="168"/>
-        <source>Reload File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="169"/>
-        <source>Jump to line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="170"/>
-        <source>Find in Files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="171"/>
-        <source>Import from everywhere</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="172"/>
-        <source>Go to definition</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="173"/>
-        <source>Complete Declarations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="174"/>
-        <source>Show Code Locator</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="175"/>
-        <source>Show File Opener</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="176"/>
-        <source>Navigate Back</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="177"/>
-        <source>Navigate Forward</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="178"/>
-        <source>Open recent closed file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="179"/>
-        <source>Change to the next Tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="180"/>
-        <source>Change to the previous Tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="181"/>
-        <source>Activate History Navigation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="182"/>
-        <source>Activate Bookmarks Navigation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="183"/>
-        <source>Activate Breakpoints Navigation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="184"/>
-        <source>Show copy/paste history</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="185"/>
-        <source>Copy into copy/paste history</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="186"/>
-        <source>Paste from copy/paste history</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="187"/>
-        <source>Change the keyboard focus between the current splits</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="189"/>
-        <source>Insert Bookmark/Breakpoint</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="191"/>
-        <source>Move the current Tab to the next split.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="193"/>
-        <source>Show/Hide the Tabs in the Editor Area.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="195"/>
-        <source>Highlight occurrences for word under cursor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="205"/>
-        <source>Load defaults</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="210"/>
-        <source>The Shortcut&apos;s Text in the Menus are going to be refreshed on restart.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="251"/>
-        <source>Shortcut is already in use</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="251"/>
-        <source>Do you want to remove it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ShortcutDialog</name>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="72"/>
-        <source>Accept</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="73"/>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>TabGroup</name>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_group.py" line="45"/>
-        <source>Expand this Files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_group.py" line="46"/>
-        <source>Expand all Groups</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>TabNavigator</name>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="488"/>
-        <source>Right click to change navigation options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="494"/>
-        <source>Navigate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="495"/>
-        <source>Code Jumps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="499"/>
-        <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="502"/>
-        <source>Breakpoints</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>TabWidget</name>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="185"/>
-        <source>%s
-Do you want to reload it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="194"/>
-        <source>%s
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="274"/>
-        <source>The file %s was not saved</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="274"/>
-        <source>Do you want to save before closing?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="328"/>
-        <source>Add to Project...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="329"/>
-        <source>Run this File!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="330"/>
-        <source>Change Syntax</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="333"/>
-        <source>Close This Tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="334"/>
-        <source>Close All Tabs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="335"/>
-        <source>Close Other Tabs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="339"/>
-        <source>Move this Tab to the other Split</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="341"/>
-        <source>Close Split</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="350"/>
-        <source>Split this Tab (Vertically)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="352"/>
-        <source>Split this Tab (Horizontally)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="360"/>
-        <source>Copy file location to Clipboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/tab_widget.py" line="362"/>
-        <source>Reopen last closed File</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ThemeChooser</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1677"/>
-        <source>&lt;b&gt;Select Theme:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1681"/>
-        <source>Delete Theme</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1682"/>
-        <source>Preview Theme</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ThemeDesigner</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1761"/>
-        <source>&lt;b&gt;New Theme Name:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1764"/>
-        <source>Save Theme</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1771"/>
-        <source>Apply Style Sheet</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1819"/>
-        <source>Style Sheet Saved</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1819"/>
-        <source>Theme saved at: &apos;%s&apos;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1823"/>
-        <source>File Already Exists</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/preferences.py" line="1823"/>
-        <source>Invalid File Name: the file &apos;%s&apos; already exists.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ThemesManagerWidget</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/themes_manager.py" line="50"/>
-        <source>Themes Manager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/themes_manager.py" line="58"/>
-        <source>Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/themes_manager.py" line="59"/>
-        <source>Reload</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/themes_manager.py" line="88"/>
-        <source>Editor Schemes</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>TracebackWidget</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/traceback_widget.py" line="66"/>
-        <source>Traceback</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>TrayIconUpdates</name>
-    <message>
-        <location filename="ninja_ide/gui/updates.py" line="62"/>
-        <source>Download Version: %s!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/updates.py" line="67"/>
-        <source>Close Update Notifications</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/updates.py" line="89"/>
-        <source>NINJA-IDE Updates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/updates.py" line="89"/>
-        <source>New Version of NINJA-IDE
-Available: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/updates.py" line="82"/>
-        <source>
-
-Check the Update Menu in the NINJA-IDE System Tray icon to Download!</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>TreeProjectsWidget</name>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="201"/>
-        <source>Run Project</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="205"/>
-        <source>Set as Main Project</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="209"/>
-        <source>Remove this Project from the Python Console</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="214"/>
-        <source>Add this Project to the Python Console</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="218"/>
-        <source>Project Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="224"/>
-        <source>Refresh Project</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="229"/>
-        <source>Close Project</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="241"/>
-        <source>Add New File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="245"/>
-        <source>Add New Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="249"/>
-        <source>Create &apos;__init__&apos; Complete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="254"/>
-        <source>Remove Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="512"/>
-        <source>Rename File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="266"/>
-        <source>Move File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="551"/>
-        <source>Copy File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="482"/>
-        <source>Delete File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="281"/>
-        <source>Edit UI File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="413"/>
-        <source>Create INIT fail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="423"/>
-        <source>New File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="423"/>
-        <source>Enter the File Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="589"/>
-        <source>File Already Exists</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="589"/>
-        <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="467"/>
-        <source>New Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="467"/>
-        <source>Enter the Folder Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="482"/>
-        <source>Do you want to delete the following file: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="497"/>
-        <source>Delete Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="497"/>
-        <source>Do you want to delete the following folder: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="512"/>
-        <source>Enter New File Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="575"/>
-        <source>Copy File to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="551"/>
-        <source>File Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="554"/>
-        <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="554"/>
-        <source>The file name is empty, please enter a name</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>TreeResult</name>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="45"/>
-        <source>Description</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/shortcut_manager.py" line="45"/>
-        <source>Shortcut</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>TreeSymbolsWidget</name>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="74"/>
-        <source>Fold all</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="75"/>
-        <source>Unfold all</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="77"/>
-        <source>Unfold classes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="78"/>
-        <source>Unfold classes and methods</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="79"/>
-        <source>Unfold classes and attributes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="152"/>
-        <source>Attributes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="161"/>
-        <source>Functions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_symbols_widget.py" line="172"/>
-        <source>Classes</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>UpdatesWidget</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/plugins_manager.py" line="239"/>
-        <source>Update</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>WebInspector</name>
-    <message>
-        <location filename="ninja_ide/gui/explorer/explorer_container.py" line="420"/>
-        <source>Undock</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>WizardNewProject</name>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="66"/>
-        <source>NINJA - New Project Wizard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="113"/>
-        <source>Virtualenv Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="113"/>
-        <source>Folder don&apos;t exists or this is not a valid Folder.
- If you want to set or modify, go to project properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="113"/>
-        <source>Back</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/dialogs/wizard_new_project.py" line="113"/>
-        <source>Continue</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>__Actions</name>
-    <message>
-        <location filename="ninja_ide/gui/actions.py" line="433"/>
-        <source>Add File To Project</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/actions.py" line="433"/>
-        <source>File Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/actions.py" line="436"/>
-        <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/actions.py" line="436"/>
-        <source>The file name is empty, please enter a name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/actions.py" line="459"/>
-        <source>File Already Exists</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/actions.py" line="459"/>
-        <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/actions.py" line="492"/>
-        <source>Create Profile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/actions.py" line="492"/>
-        <source>The Current Files and Projects will be associated to this profile.
-Profile Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/actions.py" line="500"/>
-        <source>Profile Name Invalid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/actions.py" line="500"/>
-        <source>The Profile name is invalid or already exists.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/actions.py" line="557"/>
-        <source>Lines code: %s
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/actions.py" line="558"/>
-        <source>Blanks and commented lines: %s
-
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/actions.py" line="560"/>
-        <source>Total lines: %s</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/actions.py" line="561"/>
-        <source>Summary of lines</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/actions.py" line="999"/>
-        <source>Class Diagram v.0.1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>__ExplorerContainer</name>
-    <message>
-        <location filename="ninja_ide/gui/explorer/explorer_container.py" line="120"/>
-        <source>Migration 2to3</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/explorer_container.py" line="125"/>
-        <source>Projects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/explorer_container.py" line="154"/>
-        <source>Symbols</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/explorer_container.py" line="168"/>
-        <source>Web Inspector not Supported</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/explorer_container.py" line="168"/>
-        <source>Your Qt version doesn&apos;t support the Web Inspector</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/explorer_container.py" line="218"/>
-        <source>Web Inspector</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/explorer_container.py" line="180"/>
-        <source>Errors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/explorer_container.py" line="213"/>
-        <source>Dock</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/explorer_container.py" line="219"/>
-        <source>Undock</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/explorer_container.py" line="318"/>
-        <source>Projects Disabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/explorer_container.py" line="318"/>
-        <source>Project support has been disabled from Preferences</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/explorer_container.py" line="269"/>
-        <source>Open Project Directory</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/explorer_container.py" line="291"/>
-        <source>Incorrect Project</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/explorer_container.py" line="291"/>
-        <source>The project could not be loaded!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/explorer/explorer_container.py" line="376"/>
-        <source>no description available</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>__IDE</name>
-    <message>
-        <location filename="ninja_ide/gui/ide.py" line="133"/>
-        <source>Press and Drag to Move</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/ide.py" line="146"/>
-        <source>&amp;File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/ide.py" line="147"/>
-        <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/ide.py" line="148"/>
-        <source>&amp;View</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/ide.py" line="149"/>
-        <source>&amp;Source</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/ide.py" line="150"/>
-        <source>&amp;Project</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/ide.py" line="151"/>
-        <source>&amp;Addins</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/ide.py" line="152"/>
-        <source>Abou&amp;t</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/ide.py" line="436"/>
-        <source>Some changes were not saved</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/ide.py" line="436"/>
-        <source>%s
-
-Do you want to exit anyway?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>__MainContainer</name>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/main_container.py" line="438"/>
-        <source>Incorrect File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/main_container.py" line="438"/>
-        <source>The image couldn&apos;t be open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/main_container.py" line="458"/>
-        <source>Open File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/main_container.py" line="506"/>
-        <source> (Read-Only)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/main_container.py" line="521"/>
-        <source>The file couldn&apos;t be open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/main_container.py" line="588"/>
-        <source>Close Deleted File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/main_container.py" line="588"/>
-        <source>Are you sure you want to close the deleted file?
-The content will be completely deleted.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/main_container.py" line="665"/>
-        <source>File Saved: %s</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/main_container.py" line="680"/>
-        <source>Save Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/main_container.py" line="680"/>
-        <source>The file couldn&apos;t be saved!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/main_container.py" line="646"/>
-        <source>Save File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/main_container.py" line="674"/>
-        <source>File Already Exists</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/main_container.py" line="674"/>
-        <source>Invalid Path: the file &apos;%s&apos; already exists.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/main_container.py" line="682"/>
-        <source>New Document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/main_panel/main_container.py" line="771"/>
-        <source>Python Documentation</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>__MiscContainer</name>
-    <message>
-        <location filename="ninja_ide/gui/misc/misc_container.py" line="89"/>
-        <source>Console</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/misc_container.py" line="91"/>
-        <source>Output</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/misc_container.py" line="93"/>
-        <source>Web Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/misc_container.py" line="95"/>
-        <source>Find in Files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ninja_ide/gui/misc/misc_container.py" line="107"/>
-        <source>F4: Show/Hide</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>tree</name>
-    <message>
-        <location filename="ninja_ide/gui/explorer/tree_projects_widget.py" line="832"/>
-        <source>Fold/Unfold</source>
+        <location filename="ninja_ide/translations.py" line="246"/>
+        <source>NINJA-IDE</source>
+        <comment>Are you sure you want to reset your preferences?</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
