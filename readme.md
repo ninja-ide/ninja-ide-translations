@@ -1,6 +1,6 @@
 Translate Ninja IDE
 ===================
-Translate NINJA-IDE to your language is really simple, you only need to edit the proper .tz file (Qt Translation file - xml structure). Let's see how:
+Translate NINJA-IDE to your language is really simple, you only need to edit the proper .ts file (Qt Translation file - xml structure). Let's see how:
 
   * You need to install Qt Linguist to translate the dictionary of words. You can find a step by step guide: http://qt-project.org/doc/qt-5.0/qtlinguist/linguist-translators.html
   * Download the ".ts" file (coming soon)
