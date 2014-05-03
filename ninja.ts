@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="el_GR" sourcelanguage="en">
+<TS version="2.0" language="de_DE" sourcelanguage="en">
 <context>
     <name>@default</name>
     <message>
         <location filename="ninja_ide/translations.py" line="8"/>
         <source>NINJA-IDE</source>
         <comment>&amp;File</comment>
-        <translation type="unfinished"></translation>
+        <translation>Datei</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="9"/>
         <source>NINJA-IDE</source>
         <comment>&amp;Edit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="10"/>
         <source>NINJA-IDE</source>
         <comment>&amp;View</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ansicht</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="11"/>
         <source>NINJA-IDE</source>
         <comment>&amp;Source</comment>
-        <translation type="unfinished"></translation>
+        <translation>Quelle</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="12"/>
         <source>NINJA-IDE</source>
         <comment>&amp;Project</comment>
-        <translation type="unfinished"></translation>
+        <translation>Projekt</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="13"/>
         <source>NINJA-IDE</source>
         <comment>E&amp;xtensions</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erweiterungen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="14"/>
         <source>NINJA-IDE</source>
         <comment>Abou&amp;t</comment>
-        <translation type="unfinished"></translation>
+        <translation>Über</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="16"/>
@@ -55,79 +55,79 @@
         <location filename="ninja_ide/translations.py" line="17"/>
         <source>NINJA-IDE</source>
         <comment>Duplicate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Duplizieren</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="18"/>
         <source>NINJA-IDE</source>
         <comment>Remove Line</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeile löschen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="19"/>
         <source>NINJA-IDE</source>
         <comment>Move Up</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aufwärts</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="20"/>
         <source>NINJA-IDE</source>
         <comment>Move Down</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="21"/>
         <source>NINJA-IDE</source>
         <comment>Close File</comment>
-        <translation type="unfinished"></translation>
+        <translation>Datei schließen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="22"/>
         <source>NINJA-IDE</source>
         <comment>New File</comment>
-        <translation type="unfinished"></translation>
+        <translation>Neue Datei</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="23"/>
         <source>NINJA-IDE</source>
         <comment>Open</comment>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="24"/>
         <source>NINJA-IDE</source>
         <comment>Save</comment>
-        <translation type="unfinished"></translation>
+        <translation>Speichern</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="25"/>
         <source>NINJA-IDE</source>
         <comment>Save As</comment>
-        <translation type="unfinished"></translation>
+        <translation>Speichern unter</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="26"/>
         <source>NINJA-IDE</source>
         <comment>Save All</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alles speichern</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="27"/>
         <source>NINJA-IDE</source>
         <comment>Undo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rückgängig</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="28"/>
         <source>NINJA-IDE</source>
         <comment>Redo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wiederholen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="29"/>
         <source>NINJA-IDE</source>
         <comment>Comment</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kommentar</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="30"/>
@@ -139,13 +139,13 @@
         <location filename="ninja_ide/translations.py" line="31"/>
         <source>NINJA-IDE</source>
         <comment>Insert Horizontal Line</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zeile hinzufügen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="32"/>
         <source>NINJA-IDE</source>
         <comment>Insert Title Comment</comment>
-        <translation type="unfinished"></translation>
+        <translation>Titelkommentar hinzufügen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="33"/>
@@ -181,7 +181,7 @@
         <location filename="ninja_ide/translations.py" line="38"/>
         <source>NINJA-IDE</source>
         <comment>Reload File</comment>
-        <translation type="unfinished"></translation>
+        <translation>neu laden</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="39"/>
@@ -199,37 +199,37 @@
         <location filename="ninja_ide/translations.py" line="41"/>
         <source>NINJA-IDE</source>
         <comment>Python Help</comment>
-        <translation type="unfinished"></translation>
+        <translation>Python Hilfe</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="42"/>
         <source>NINJA-IDE</source>
         <comment>Print File</comment>
-        <translation type="unfinished"></translation>
+        <translation>Datei drucken</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="43"/>
         <source>NINJA-IDE</source>
         <comment>New Project</comment>
-        <translation type="unfinished"></translation>
+        <translation>Neues Projekt</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="44"/>
         <source>NINJA-IDE</source>
         <comment>Open Project</comment>
-        <translation type="unfinished"></translation>
+        <translation>Projekt öffnen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="45"/>
         <source>NINJA-IDE</source>
         <comment>Save Project</comment>
-        <translation type="unfinished"></translation>
+        <translation>Projekt speichern</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="46"/>
         <source>NINJA-IDE</source>
         <comment>Find in Files</comment>
-        <translation type="unfinished"></translation>
+        <translation>In Datei suchen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="47"/>
@@ -247,61 +247,61 @@
         <location filename="ninja_ide/translations.py" line="49"/>
         <source>NINJA-IDE</source>
         <comment>Stop</comment>
-        <translation type="unfinished"></translation>
+        <translation>Stop</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="50"/>
         <source>NINJA-IDE</source>
         <comment>Manage Plugins</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plugins verwalten</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="51"/>
         <source>NINJA-IDE</source>
         <comment>Editor Schemes</comment>
-        <translation type="unfinished"></translation>
+        <translation>Schema Editor</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="52"/>
         <source>NINJA-IDE</source>
         <comment>Languages Manager</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sprachpaket Manager</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="237"/>
         <source>NINJA-IDE</source>
         <comment>Show Start Page</comment>
-        <translation type="unfinished"></translation>
+        <translation>Starseite anzeigen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="54"/>
         <source>NINJA-IDE</source>
         <comment>Report Bugs!</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reporte Bugs!</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="55"/>
         <source>NINJA-IDE</source>
         <comment>Plugins Documentation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dokumentation der Erweiterungen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="56"/>
         <source>NINJA-IDE</source>
         <comment>About NINJA-IDE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Über NINJA-IDE</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="57"/>
         <source>NINJA-IDE</source>
         <comment>About Qt</comment>
-        <translation type="unfinished"></translation>
+        <translation>Über Qt</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="58"/>
         <source>NINJA-IDE</source>
         <comment>Python Documentation</comment>
-        <translation type="unfinished"></translation>
+        <translation>Python Dokumentation</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="59"/>
@@ -313,31 +313,31 @@
         <location filename="ninja_ide/translations.py" line="60"/>
         <source>NINJA-IDE</source>
         <comment>Cut</comment>
-        <translation type="unfinished"></translation>
+        <translation>Auschneiden</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="61"/>
         <source>NINJA-IDE</source>
         <comment>Copy</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kopieren</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="62"/>
         <source>NINJA-IDE</source>
         <comment>Paste</comment>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="63"/>
         <source>NINJA-IDE</source>
         <comment>Find</comment>
-        <translation type="unfinished"></translation>
+        <translation>Suche</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="64"/>
         <source>NINJA-IDE</source>
         <comment>Find and Replace</comment>
-        <translation type="unfinished"></translation>
+        <translation>Suchen und ersetzen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="65"/>
@@ -373,85 +373,85 @@
         <location filename="ninja_ide/translations.py" line="70"/>
         <source>NINJA-IDE</source>
         <comment>Preferences</comment>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="214"/>
         <source>NINJA-IDE</source>
         <comment>Activate Session</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aktive Session</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="72"/>
         <source>NINJA-IDE</source>
         <comment>Deactivate Session</comment>
-        <translation type="unfinished"></translation>
+        <translation>Deaktvierte Session</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="73"/>
         <source>NINJA-IDE</source>
         <comment>Close All Projects</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alle Projekte schließen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="74"/>
         <source>NINJA-IDE</source>
         <comment>Exit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Beenden</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="75"/>
         <source>NINJA-IDE</source>
         <comment>Open Project Properties</comment>
-        <translation type="unfinished"></translation>
+        <translation>Projekt Einstellungen öffnen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="76"/>
         <source>NINJA-IDE</source>
         <comment>Preview Web in Default Browser</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vorschau im Standard Webbrowser</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="77"/>
         <source>NINJA-IDE</source>
         <comment>Show/Hide &amp;Console</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ein- &amp; Ausblenden der Kommandozeile</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="78"/>
         <source>NINJA-IDE</source>
         <comment>Show/Hide &amp;Editor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ein- &amp; Ausblenden des Editors</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="79"/>
         <source>NINJA-IDE</source>
         <comment>Show/Hide &amp;All</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alles Ein- &amp; Ausblenden</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="80"/>
         <source>NINJA-IDE</source>
         <comment>Show/Hide &amp;Explorer</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ein- &amp; Ausblenden des Explorers</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="81"/>
         <source>NINJA-IDE</source>
         <comment>Show/Hide &amp;Toolbar</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ein- &amp; Ausblenden der Toolbar</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="82"/>
         <source>NINJA-IDE</source>
         <comment>Full Screen &amp;Mode</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vollbild Modus</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="83"/>
         <source>NINJA-IDE</source>
         <comment>Zoom &amp;In  (Ctrl+Wheel-Up)</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ein- &amp; Ausblenden der </translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="84"/>
@@ -463,7 +463,7 @@
         <location filename="ninja_ide/translations.py" line="85"/>
         <source>NINJA-IDE</source>
         <comment>Count Code Lines</comment>
-        <translation type="unfinished"></translation>
+        <translation>Codezeilen zählen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="87"/>
@@ -517,56 +517,56 @@
         <location filename="ninja_ide/translations.py" line="96"/>
         <source>NINJA-IDE</source>
         <comment>Bookmarks</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lesezeichen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="97"/>
         <source>NINJA-IDE</source>
         <comment>Breakpoints</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sprungpunkte</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="98"/>
         <source>NINJA-IDE</source>
         <comment>New Document</comment>
-        <translation type="unfinished"></translation>
+        <translation>Neues Dokument</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="99"/>
         <source>NINJA-IDE</source>
         <comment> (Read-Only)</comment>
-        <translation type="unfinished"></translation>
+        <translation>(Schreibgeschützt)</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="100"/>
         <source>NINJA-IDE</source>
         <comment>no description available</comment>
-        <translation type="unfinished"></translation>
+        <translation>keine Beschreibung vorhanden</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="101"/>
         <source>NINJA-IDE</source>
         <comment>Left-Click to change File.
 Right-Click to see Options.</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="103"/>
         <source>NINJA-IDE</source>
         <comment>Add to Project...</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zum Projekt hinzufügen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="104"/>
         <source>NINJA-IDE</source>
         <comment>Change Syntax</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="105"/>
         <source>NINJA-IDE</source>
         <comment>Close All Files</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alle Dateien schließen</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="106"/>
@@ -858,49 +858,49 @@ Right-Click to see Options.</comment>
     <message>
         <location filename="ninja_ide/translations.py" line="169"/>
         <source>NINJA-IDE</source>
-        <comment>@<byte value="x9"/>(Filter only by Files)</comment>
+        <comment>@	(Filter only by Files)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="170"/>
         <source>NINJA-IDE</source>
-        <comment>&lt;<byte value="x9"/>(Filter only by Classes)</comment>
+        <comment>&lt;	(Filter only by Classes)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="171"/>
         <source>NINJA-IDE</source>
-        <comment>&gt;<byte value="x9"/>(Filter only by Methods)</comment>
+        <comment>&gt;	(Filter only by Methods)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="172"/>
         <source>NINJA-IDE</source>
-        <comment>-<byte value="x9"/>(Filter only by Attributes)</comment>
+        <comment>-	(Filter only by Attributes)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="173"/>
         <source>NINJA-IDE</source>
-        <comment>.<byte value="x9"/>(Filter only by Classes and Methods in this File)</comment>
+        <comment>.	(Filter only by Classes and Methods in this File)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="175"/>
         <source>NINJA-IDE</source>
-        <comment>/<byte value="x9"/>(Filter only by the current Editors)</comment>
+        <comment>/	(Filter only by the current Editors)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="177"/>
         <source>NINJA-IDE</source>
-        <comment>:<byte value="x9"/>(Go to Line)</comment>
+        <comment>:	(Go to Line)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="178"/>
         <source>NINJA-IDE</source>
-        <comment>!<byte value="x9"/>(Filter only by Non Python Files)</comment>
+        <comment>!	(Filter only by Non Python Files)</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
