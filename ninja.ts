@@ -2,7 +2,7 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="el_GR" sourcelanguage="en">
 <context>
-    <name>@default</name>
+    <name>Italian</name>
     <message>
         <location filename="ninja_ide/translations.py" line="8"/>
         <source>NINJA-IDE</source>
