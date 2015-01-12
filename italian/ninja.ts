@@ -55,13 +55,13 @@
         <location filename="ninja_ide/translations.py" line="17"/>
         <source>NINJA-IDE</source>
         <comment>Duplicate</comment>
-        <translation>Duplicato</translation>
+        <translation>Duplica</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="18"/>
         <source>NINJA-IDE</source>
         <comment>Remove Line</comment>
-        <translation>Rimuovi Linea</translation>
+        <translation>Rimuovi Riga</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="19"/>
@@ -759,7 +759,7 @@ Click destro per visualizzare le Opzioni.</translation>
         <location filename="ninja_ide/translations.py" line="139"/>
         <source>NINJA-IDE</source>
         <comment>One path per line</comment>
-        <translation>Un indirizzo per riga</translation>
+        <translation>Un percorso per riga</translation>
     </message>
     <message>
         <location filename="ninja_ide/translations.py" line="140"/>
@@ -1149,7 +1149,7 @@ Session Name:</translation>
         <location filename="ninja_ide/translations.py" line="246"/>
         <source>NINJA-IDE</source>
         <comment>Are you sure you want to reset your preferences?</comment>
-        <translation>Se sicuro di voler resettare le preferenze?</translation>
+        <translation>Sei sicuro di voler resettare le preferenze?</translation>
     </message>
 </context>
 </TS>
